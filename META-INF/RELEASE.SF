@@ -1,0 +1,5977 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: x/m11ArtWWwg5I8p/wTD6UcKPdw=
+Created-By: 1.7.0_79 (Oracle Corporation)
+SHA1-Digest-Manifest: mYw+frRIJsZ2inR8qfeXf9BqWiI=
+
+Name: assets/Export/battle/bubing_attack0.png
+SHA1-Digest: 5qobXM6u016z63jnAalpKrAbI/Y=
+
+Name: assets/test/res_single/card_extract/img_qunxionglan.png
+SHA1-Digest: seEKlKRe5xzbnHANodZv1f/AU+4=
+
+Name: assets/Export/battle/14_jianxuexiaoguo0.png
+SHA1-Digest: ga7+FKjXkSBRAIQnJ/Inh8U7kUs=
+
+Name: assets/common_data
+SHA1-Digest: umw2tuCfBHDycM5UsMOCJdc9+bM=
+
+Name: assets/test/shapanyanwu_10.json
+SHA1-Digest: 44eeiW8jCzS4KnlnEzXX9Byc6WM=
+
+Name: assets/test/res_future_add/liaowangta1.png
+SHA1-Digest: 4eVDb/jkXszGRZX/4HfJrGcC3YY=
+
+Name: assets/test/res_single/changan_tupian_wenzi.png
+SHA1-Digest: dvajKk1N0fDdoNg6WYrbqBxFU+g=
+
+Name: assets/Export/battle/pingju0.plist
+SHA1-Digest: FyryrFJOcHKsIocIaQjOtQ2Fcn0=
+
+Name: assets/test/The_main_interface_of_announcement_cell.json
+SHA1-Digest: jN1lyh/4vRQDveT1oTncRb1/gP8=
+
+Name: assets/Export/kabao0.png
+SHA1-Digest: k4MtTna+84Cpp+AH9CUbfTt35RQ=
+
+Name: assets/game/buildScene/buildTreeManager.lua
+SHA1-Digest: oznXtMeY8vBz+gdKNOxBnvL82V4=
+
+Name: assets/game/battle/reportDetail.lua
+SHA1-Digest: 8ngFYwQk8ET4jgKLrYoaBKJ/Ib0=
+
+Name: assets/test/res_future_add/guohao_3.png
+SHA1-Digest: acjSQhLb+x6cfyR+uLQuOJXsOeI=
+
+Name: res/layout/game.xml
+SHA1-Digest: iylYXN1TN4Kmr1OMwH9fzGRNhec=
+
+Name: assets/test/res_future_add/daxingyaosai.png
+SHA1-Digest: 2jdW9BYJT4WKEuqcSxZLcbs2wuM=
+
+Name: assets/gameResources/army/juntuan_big_30.plist
+SHA1-Digest: 0C4xAQqZjX+7ldRisB5fzeLp/t0=
+
+Name: assets/test/res_future_add/kejibeijingzezhao.png.png
+SHA1-Digest: akBWe/R/LodJtXWl7gWi6rZfXcA=
+
+Name: assets/ucgamesdk/ui/SG_18.patch
+SHA1-Digest: PA5AHeSYtIoMSankp4emft97rFA=
+
+Name: assets/test/yonghuxieyi_01.json
+SHA1-Digest: vZ3yTMhsN7LqLjlJ3673eKm9wVA=
+
+Name: assets/Export/battle/jinengmingblue0.png
+SHA1-Digest: ojbe/Ty/GOETENybsO2idUEmlkc=
+
+Name: assets/Export/juntuan_small_30.png
+SHA1-Digest: bdHMPjd6xWe4hm2RbYinyaLMoFU=
+
+Name: assets/game/battle/actionDefine.lua
+SHA1-Digest: OSW4yF8iQCgasSaE8h7NbuCoENA=
+
+Name: assets/test/mainTopbar.json
+SHA1-Digest: 5OCfutG/9xcMBZDmkzwn8o5L5bM=
+
+Name: assets/test/res_single/dadituchusheng_4.png
+SHA1-Digest: T3qus93oYKZ+rN/CurRsrrhagvA=
+
+Name: assets/test/login_server_list.json
+SHA1-Digest: HaAMccffbZMbxgSB/OkfdA4xCqA=
+
+Name: assets/ucgamesdk/ui/ALIYUN_18.patch
+SHA1-Digest: pECjuB6isFR6+eSFIq/iLpSVqg0=
+
+Name: assets/ucgamesdk/ui/common/conf/widgetconf/updateGameDialog.json
+SHA1-Digest: 8xNcGq6KIy4bFB0Erv74UsT+1rI=
+
+Name: assets/test/imageAndLine.json
+SHA1-Digest: D2hEuLDTKcZMnrMXHlt1ZrzqWrs=
+
+Name: assets/game/union/unionRelationSetting.lua
+SHA1-Digest: kN3r6m7mlnjtX2siVs+FRTMg6k8=
+
+Name: assets/game/map/mapController.lua
+SHA1-Digest: dJiN8i/JgyRgg2bbJ2c8q7wW/Z4=
+
+Name: assets/game/dbData/cfg/Tb_cfg_exercise_army.lua
+SHA1-Digest: +TWGNc/EofdxE6u0YgVcaNsABOE=
+
+Name: assets/game/userData/sid_invalid.lua
+SHA1-Digest: SNHHqRv5WZ388WcdYEgXi2TOgWs=
+
+Name: assets/Export/gaojizhaomu2.plist
+SHA1-Digest: vxHWmnEw7/4AgbaRZpkcf1qvc4w=
+
+Name: assets/test/res_single/tech_nation_icon_112.png
+SHA1-Digest: fINvnmgX+W89c6IddFmLNdP7clk=
+
+Name: assets/Export/flag_small0.png
+SHA1-Digest: C+BpTycxbIFWZckt7U2Iicgy0ps=
+
+Name: assets/test/res_single/weixin_tubiao.png
+SHA1-Digest: QtSqn6MO3IF+k+I2GhLZQzASB6M=
+
+Name: lib/armeabi/libavutil-54.so
+SHA1-Digest: eEukFnoOg6AfwSIubBFIvrho+UY=
+
+Name: assets/Export/zhaomu_huanrao_diji.ExportJson
+SHA1-Digest: x0y8OVTGC9yAG8zo1ptVkzfZELw=
+
+Name: assets/game/option/inner_option_right.lua
+SHA1-Digest: v6t3em/BtYE2ersgzmHFSUT7tfw=
+
+Name: assets/ucgamesdk/so/armeabi/libsdk_bspatch.so
+SHA1-Digest: mywwLuJRPB5BY6/oSshauEeh6YI=
+
+Name: assets/test/res_single/Small_map_new_1.png
+SHA1-Digest: gxJOazkTfpc6FzZVYEmChqose7s=
+
+Name: assets/Export/battle/11_beishuixijinenggongji.ExportJson
+SHA1-Digest: 30JuGPJAWgE67wPsIKk+nnt9peM=
+
+Name: assets/game/battle/report.lua
+SHA1-Digest: S3Vgw3vCm4PW6e83TZZlgMfLAhQ=
+
+Name: assets/game/config/globalNotification.lua
+SHA1-Digest: wWsj6mCyVL2AdLLx7j7S3HlzGs0=
+
+Name: assets/game/army/sjOverview/sjArmyManager.lua
+SHA1-Digest: 14GxE63CmHfdstBUQ8wF80JYvus=
+
+Name: assets/game/dbData/cfg/Tb_cfg_army_count_2.lua
+SHA1-Digest: HO3L+RCmivDMqoXYkdRhPCu8cgs=
+
+Name: assets/test/legion_3_1.json
+SHA1-Digest: r1r5JsbRUO8KM4u8SmDFmpm5bI8=
+
+Name: assets/game/config/config.lua
+SHA1-Digest: T1Dp1UcbO2uBOHGBadPbRawcmRE=
+
+Name: assets/Export/battle/02_jinengzhunbei.ExportJson
+SHA1-Digest: R8+OyIJNESs1evAk4FjfI5NegyE=
+
+Name: assets/game/guide/newGuide/guideCreateRoleAnim.lua
+SHA1-Digest: YmYVboY/lJwOHxXNPrYGfD1f35Y=
+
+Name: assets/gameResources/battle/exercise_base_archer.ExportJson
+SHA1-Digest: Of04WlOxRyZeNhd5INNqWusWQlc=
+
+Name: assets/test/Army_march_time_detail.json
+SHA1-Digest: dg6qSVb0d3amv8qdpkJtX2gEEi0=
+
+Name: assets/test/res_future_add/jianzhu_zi.png
+SHA1-Digest: qUdVh1J9nNx2cQPDqIEOyK3hOOM=
+
+Name: assets/test/res_single/changjing_ditu.png
+SHA1-Digest: qI4bts6JgOmTZYpl9omZPeyLa6E=
+
+Name: assets/Export/battle/qibingmingzhong0.plist
+SHA1-Digest: 0H7wbM6WMuqbWWjteHOKlXzsJe8=
+
+Name: assets/test/shapanyanwu_12.json
+SHA1-Digest: OMpGQK+eoU4bxnx+od/ZWjnzS58=
+
+Name: assets/game/script_json/Army_march_time.lua
+SHA1-Digest: 2C2Fxxb6Us28Q0pSKjQDko8yyWs=
+
+Name: assets/test/res_single/tech_nation_icon_102.png
+SHA1-Digest: vGBEceXOip8yLBMTz0RlYfsEfok=
+
+Name: assets/ucgamesdk/config/uc_key.txt
+SHA1-Digest: EwQYOzXnIl8b9C9k7uCV+CUmc4o=
+
+Name: assets/Export/kapaidatexiao2.png
+SHA1-Digest: Mb4ENd3a6BcNy9mub+5WReAGPIQ=
+
+Name: assets/test/res_single/updating_tips_6.png
+SHA1-Digest: I8PGasgssb7ub5yqSTIMrQ4gMFw=
+
+Name: assets/Export/battle/kaishi0.plist
+SHA1-Digest: WpiP+WGXZCcv6EiN72ooPiGxd/0=
+
+Name: assets/Export/battle/beitishen0.png
+SHA1-Digest: Vy9Wc+EXEdmr8/XWPkXBB9NKKX0=
+
+Name: assets/gameResources/battle/battle_dir_1_2.png
+SHA1-Digest: d3sGbdHyjd5JCgjlr+f0HhtJLlo=
+
+Name: assets/test/res_single/card_extract/img_wujiang.png
+SHA1-Digest: HTWCsZQwfn92HNifwZk4ZpvpZbA=
+
+Name: res/drawable-xhdpi-v4/unigm_back.png
+SHA1-Digest: ZNORASkfBmwCUGRAPV9XHhRWXW0=
+
+Name: assets/game/tax/taxUI.lua
+SHA1-Digest: VjQaPRbFner6GlL5YZJ6M33LQek=
+
+Name: assets/test/res/Main_UI_20.plist
+SHA1-Digest: b7seUx6nqJiBw6ZD/IfQJ/rNRJI=
+
+Name: assets/Export/battle/dongyao10.png
+SHA1-Digest: 5Aa4YMDB2le6UHM2hwMnt703eyI=
+
+Name: assets/ucgamesdk/ui/SSJJ_18.patch
+SHA1-Digest: 9rY98ct2RrbEuH4rN5eWPd+Mknw=
+
+Name: assets/game/map/mapFarming.lua
+SHA1-Digest: fcQAtda2GxBcghZaC/9ZMiT945Q=
+
+Name: assets/Export/kapaidatexiao.ExportJson
+SHA1-Digest: ol0Ggn+2C9XggenM5HVuIiqf1iU=
+
+Name: assets/game/createCity/landBuildData.lua
+SHA1-Digest: fa01ERFarK0wt3T1oB5ycoEve0Y=
+
+Name: assets/ucgamesdk/images/icon_loadding.png
+SHA1-Digest: e249qoaMsPFtbmaJLEkP/GvyORo=
+
+Name: assets/test/res_future_add/gongbing_11_tu.png
+SHA1-Digest: KnLQO8y+raislZWwY7tofEvtnBI=
+
+Name: assets/test/shichangdai_huodong_1.json
+SHA1-Digest: N5EZRR7IvwDX5T7VJkz2B0ccUrA=
+
+Name: assets/gameResources/army/juntuan_small_5.png
+SHA1-Digest: ZW5qZsJq0YnGqs91BIxKyuy5wAE=
+
+Name: assets/test/actionCheckUI.json
+SHA1-Digest: X12GnL90NTnLJP4O5JEF1lcVxCk=
+
+Name: assets/gameResources/map/res.plist
+SHA1-Digest: /0sbw7VEcegT0kqrq0doJUdiXbI=
+
+Name: assets/test/alliance_government_subordinate_cell.json
+SHA1-Digest: I/DTAza0lWdiluJxdSsD/9RjHPM=
+
+Name: assets/test/Expand_UI.json
+SHA1-Digest: gwGZ/Vh0YCoFpPIalNnyDaNYpZ4=
+
+Name: assets/test/res_single/img_wenzhixixing.png
+SHA1-Digest: WVYxiupw+ibetOjZs0Kllah+4uQ=
+
+Name: assets/Export/kabao0.plist
+SHA1-Digest: H7X2CwjMmKIIurPgNZLdMn1BPHo=
+
+Name: assets/gameResources/map/cityComponent.plist
+SHA1-Digest: 4P8vGJqiuLKQsupR6/FPW0P6fsU=
+
+Name: assets/test/res_future_add/jishu1.png
+SHA1-Digest: KA0dGAwQCXFDhxHF7uPBLzld74o=
+
+Name: assets/game/mail/sendMailUI.lua
+SHA1-Digest: 3hepkE/LR3OmcALcobmaAcj4h2c=
+
+Name: assets/game/legion/legionConditionManager.lua
+SHA1-Digest: BkQbNmXRzoehVDuneQ5oNGqM8mE=
+
+Name: assets/game/dbData/client_cfg/valley_image_cfg_info.lua
+SHA1-Digest: 6OR5joeMWANplwYR463nsYkam0Q=
+
+Name: assets/gameResources/army/xingjunbudui_30.png
+SHA1-Digest: 07OapPTI3VqCUWCWfSo8TP6b2qQ=
+
+Name: lib/armeabi/libfmodevent.so
+SHA1-Digest: NQ7IMYRMQbcEx9RP7q2rS72f3l4=
+
+Name: assets/test/jinengxiangqing.json
+SHA1-Digest: 8EjBfx3RV1KqBf//OeeUBEciKEY=
+
+Name: assets/test/res_future_add/anniu2.png
+SHA1-Digest: wxrQw9oYsictDA407ryp8t7Hgu0=
+
+Name: assets/test/res_future_add/tongmeng_2_1.png
+SHA1-Digest: NEUiQ7ARLNGuvgJDjF5Bzwo2iJM=
+
+Name: assets/test/not_war_panel.json
+SHA1-Digest: lEeNJJVR2zUQoBGygNa9ugt+5dU=
+
+Name: assets/game/dbData/cfg/Tb_cfg_goods.lua
+SHA1-Digest: d2tiFLLP2XMstpEYytAK5uNngzM=
+
+Name: assets/game/daily/ui_daily_login.lua
+SHA1-Digest: fy0XflqqMwnE49X5l7Xw8LScZuc=
+
+Name: assets/test/ui_chat_defriend.json
+SHA1-Digest: m43d6nhPUXjf+omNiiDVa4wzTZI=
+
+Name: assets/game/map/mapSpriteManage.lua
+SHA1-Digest: hRxlmgFOVlKkvmBtYJ69sXeMz4c=
+
+Name: assets/Export/battle/kaishi0.png
+SHA1-Digest: o++IwfxcWvaW20MgZAdaKZOjcyg=
+
+Name: assets/game/union/unionMemberInvite.lua
+SHA1-Digest: mm1fjSofQJjNMrcB3dQJC0fMn0s=
+
+Name: assets/test/Army_march_time_for_official.json
+SHA1-Digest: ValZ77GnfdYff0/Wqwb/dEtTapA=
+
+Name: assets/game/legion/legionData.lua
+SHA1-Digest: k8Sxx8+RJyr7FVRQ7V9Pzaqv+KA=
+
+Name: assets/test/res_future_add/anniu1.png
+SHA1-Digest: tjlu5E13o8XqB/FH5ebDuhnYRJ0=
+
+Name: assets/gameResources/card/card_100024.png
+SHA1-Digest: HAkot4T4vREytM0rHLvr+1Qpb5I=
+
+Name: assets/Export/battle/yaoshu10.png
+SHA1-Digest: 85H4XDqbbGgVlw7QdX1WtP+o0wg=
+
+Name: assets/game/union/unionOfficialData.lua
+SHA1-Digest: uvHZOeEi31Rt9ZbVGg01KB5GjrY=
+
+Name: assets/test/The_alliance_with.json
+SHA1-Digest: VqnyRCaKXhAL8I3Vkn+/zB5Lgkk=
+
+Name: assets/test/res_single/card_extract/img_qunxionggeju.png
+SHA1-Digest: j9EBRv1fYKbHFxplLGxNcwe3IeY=
+
+Name: assets/ucgamesdk/config/oriWhiteList.ini
+SHA1-Digest: oAuifuSJKh0bIMqPZMPS+IE0Yqc=
+
+Name: assets/game/dbData/cfg/Tb_cfg_build_cost.lua
+SHA1-Digest: mQbEIEJzT/o7gHNyLrXyVUkF7c4=
+
+Name: assets/game/option/newbie_protect_detail.lua
+SHA1-Digest: 93AZHZ6XSrOAYhVtavU2QmFNgyk=
+
+Name: assets/Export/yanhua1.plist
+SHA1-Digest: 4PqHxYXDeGEHL/2JMHJL2HRWylk=
+
+Name: assets/test/res_single/card_extract/img_luoyangdahuo.png
+SHA1-Digest: JhgSRhDWlK2WKjxrr8KQe/12SfA=
+
+Name: assets/test/maizhengling.json
+SHA1-Digest: YDjUJtA5hbuNCVzpPDgSANi+Fbc=
+
+Name: res/drawable-xhdpi-v4/unisdk_protocol_left.png
+SHA1-Digest: KOlNV5gnUxE9ENXjGU77/jfaDn4=
+
+Name: assets/test/res_single/7_daditu.png
+SHA1-Digest: EVcbxk0cPKLqJs9q4ujSg6So6cM=
+
+Name: assets/Export/battle/huoyan1.ExportJson
+SHA1-Digest: 23i4fwQQpCvjCJL2cleM7fkr18o=
+
+Name: assets/Export/jiaozhan1.png
+SHA1-Digest: XS5pC04Ud50vZXytuL/3Hqh24Jk=
+
+Name: assets/test/rankingUI.json
+SHA1-Digest: L0kxfum2t6rvjT9kxqUnx9qSE7s=
+
+Name: assets/Export/battle/zhanbai0.plist
+SHA1-Digest: pC32pY17t7X/vZ7lX81m0SeRibc=
+
+Name: assets/test/res_future_add/daxingyaosai_002.png
+SHA1-Digest: RM4QrEP9nyy+CeaZJIGLfswEn38=
+
+Name: assets/test/huodong_5.json
+SHA1-Digest: xuVnlsn6ghX4fUm62MkwhSMDkwY=
+
+Name: assets/test/res_single/minimapq_11.png
+SHA1-Digest: uTa0Z4ijRSuuLj1NibUp2hrHCeU=
+
+Name: assets/gameResources/map/armyMark.png
+SHA1-Digest: E5nGOeLsGsGoIeBTEIVxqv/HDR0=
+
+Name: assets/test/res_single/img_gongdong_diwen.png
+SHA1-Digest: hK6Pvn7xIht4H8l/6q4X6ncZPq4=
+
+Name: assets/test/res_single/teshujiangli.png
+SHA1-Digest: y5y9FnMLxxBI0B8oEyBt3vPZSOQ=
+
+Name: assets/test/res_future_add/guohao_23.png
+SHA1-Digest: QQ4B0P4YsrHIn1kMZ7rzoQFDS64=
+
+Name: assets/test/res_single/chengxiang_wugan.png
+SHA1-Digest: pgIq6Yrdd40WFD7wzdvEuZXEPVo=
+
+Name: res/drawable-xhdpi-v4/unigm_service_red.png
+SHA1-Digest: cjUe7bqN43hvOrmJMslxKblo0zw=
+
+Name: assets/test/res_single/jingyanshu_dibiaoshijian.png
+SHA1-Digest: 4yYOV0DDHOKqhcRntNdstMBnf7A=
+
+Name: assets/test/res_single/dian_huodong.png
+SHA1-Digest: 0XUnajnpchamvFoJy4U19HqjSMw=
+
+Name: assets/test/res_future_add/chihouyindi_002.png
+SHA1-Digest: 3Oxl9UfGIMXd7bZ25YKFyHBvV88=
+
+Name: assets/game/uiManager/uiListViewSize.lua
+SHA1-Digest: hoGuRKVDz5S8eCmaZykOC3dIir0=
+
+Name: assets/game/guide/shareGuide/picTipsManager.lua
+SHA1-Digest: dNzDuYj6358KFmhsauuFGQ/usFY=
+
+Name: assets/test/login_reward_daily.json
+SHA1-Digest: yYrni3rUb2nzgkWeHxj4JOttFwI=
+
+Name: assets/test/Alliance_for_processing.json
+SHA1-Digest: Tif9HExoUTQ3ve5oNgjlAyKbD34=
+
+Name: assets/gameResources/battle/exercise_base_cavalry.ExportJson
+SHA1-Digest: Z8LhFQUk7aehUiYqos2sL7RU1w8=
+
+Name: assets/gameResources/army/juntuan_big_30.png
+SHA1-Digest: kxBcxbCztdqosDtU46K101wJ0GU=
+
+Name: assets/test/res/Main_UI_17.png
+SHA1-Digest: yQtiqo3R/N0RiGLIJgjix+OtIKQ=
+
+Name: assets/test/res_future_add/anniu3_1.png
+SHA1-Digest: CgU7ngU/bumBryltYC3qw4sSwDU=
+
+Name: assets/test/guideToolUI.json
+SHA1-Digest: hNK4KHkENkgFHGwMwyWWIEaDrSk=
+
+Name: assets/Export/battle/gongbinggongji.ExportJson
+SHA1-Digest: ZsAEmvlPODrV4S6qy0vjnl2cDuQ=
+
+Name: assets/game/dbData/cfg/Tb_cfg_season_reward_3.lua
+SHA1-Digest: sw0d5qDKQdd4WoYQqlEwUYIt1/g=
+
+Name: assets/Export/jiaozhan.ExportJson
+SHA1-Digest: mLXwaT2qM4Wahw6KpRF8R0feLuE=
+
+Name: assets/test/res_single/card_extract/img_rushuxinjiang.png
+SHA1-Digest: Qbe7wFNalyCywuFc2bY08EbCR7Q=
+
+Name: assets/test/res_future_add/daxingyaosai_001.png
+SHA1-Digest: FG7wgcmUV4UEsSl/yksjO5wd6Q0=
+
+Name: assets/test/Tax_2.json
+SHA1-Digest: Jj4cL9ate/CM5BJ4cB19fEyq+Ac=
+
+Name: assets/test/pay_cell.json
+SHA1-Digest: 3fQwiHq2fdmi/2BCs8mkEVFfxpw=
+
+Name: assets/test/res_future_add/gongbing_1_tu.png
+SHA1-Digest: lh3kKCiEs67wLj6ZH+vWjMowTl8=
+
+Name: assets/game/skill/skill_sort_option.lua
+SHA1-Digest: pnOt6NIko0wmoh+MvKsHtxqp8oU=
+
+Name: assets/game/download/downLoadCard.lua
+SHA1-Digest: FjZqcRrGmepsON6cam6mwjzuhgs=
+
+Name: assets/test/res_single/11_daditu.png
+SHA1-Digest: ctIIluQ+1CgW8fwzz9RTwP9hbHw=
+
+Name: assets/test/huodong.json
+SHA1-Digest: JVJ3ZJHRzHPotbLCwlPqsNE0u9s=
+
+Name: assets/test/res_future_add/guohao_5.png
+SHA1-Digest: pJcL59GlTrXvl369d2+47I8bICE=
+
+Name: assets/Export/juntuan_small_30.plist
+SHA1-Digest: gkzcuO68vwMn39gukOytvG3vUAY=
+
+Name: assets/game/union/nationFoundScreen.lua
+SHA1-Digest: hsblDhCShv3++B4+Y0NaCCOIs/4=
+
+Name: assets/test/res_future_add/haobao_weilingqu.png
+SHA1-Digest: DmCAVH0eqO2tF5vRE4OL5H5sx5U=
+
+Name: assets/test/lunxian.json
+SHA1-Digest: F1JIbvVdKlJ5zBOql94N9M/9lnM=
+
+Name: assets/gameResources/card/card_100034.png
+SHA1-Digest: ftVtHgc1Qtp642QENtfLaGgvJYk=
+
+Name: assets/test/res_future_add/bubing_5_tu.png
+SHA1-Digest: 0tEOxcN8YsrYgZgAtedEiCdHit0=
+
+Name: assets/game/utils/alpha_util.lua
+SHA1-Digest: HWl63IVGu6hM6cHPmM2wu60lu7Q=
+
+Name: assets/game/option/miniMapJump.lua
+SHA1-Digest: oh0SaSMATqA66GGPnS3U9KSFwec=
+
+Name: assets/test/jinengxiangqing_7.json
+SHA1-Digest: OSJyolJ66iZS7w6pCwpg5oMzxHs=
+
+Name: assets/test/res_single/Small_map_new_xu.png
+SHA1-Digest: jxs8IYZO7/c2vNhH7n508XMigLM=
+
+Name: assets/test/xiazai.json
+SHA1-Digest: DMIE/EgQMJnDfFf52a/9abeOdmk=
+
+Name: assets/test/res_single/minimapq_8.png
+SHA1-Digest: S4R/QBvzf7mv3IIwABsp83Etfac=
+
+Name: assets/gameResources/army/xingjunbudui_50.png
+SHA1-Digest: UsG1yJUZoOoiIK7+n5UQe3lgYDg=
+
+Name: assets/Export/battle/12_beiluoshijinenggongji.ExportJson
+SHA1-Digest: Z98YN9fBLa9ZuUmKJ8AQpIeNYSc=
+
+Name: assets/game/createRoleUI/selectBornInfo.lua
+SHA1-Digest: 7l9mAxF32oVMj/XiKAOAJlphLO8=
+
+Name: assets/Export/xingxingtexiao0.png
+SHA1-Digest: Z1jnW2n3xcEQqYsDco/kK1adufw=
+
+Name: assets/test/res_single/feiqiangzhi_jiadian_tu.png
+SHA1-Digest: O5d71SGgZztlF8tgpZ/CaGh4lzY=
+
+Name: assets/Export/battle/dianran20.png
+SHA1-Digest: L1CQHs/stHOB9xBVPv+28rrNfQs=
+
+Name: assets/game/skill/skill_detail.lua
+SHA1-Digest: bmPhURV9pQIEhTlI4WBaewgzcLc=
+
+Name: assets/test/res_single/updating_tips_4.png
+SHA1-Digest: qwiIY69eio7YE001uOBIffuEDkc=
+
+Name: assets/test/armyExchangeUI.json
+SHA1-Digest: z8/xWEXh0wQRIEO81RJjbjngVTM=
+
+Name: assets/test/heimingdan.json
+SHA1-Digest: Enb5ID2ad2fVWbulc7iciFR8pZU=
+
+Name: assets/test/res_future_add/anniu3.png
+SHA1-Digest: wsKe5V+7Dke25qHueCRcPve+J38=
+
+Name: assets/test/fenxiang.json
+SHA1-Digest: NmJHygmHRBoIKxKJBh7VPl9YSqg=
+
+Name: assets/test/Allied_forces_s.json
+SHA1-Digest: Q+LUO/jJZpkQxwRBzBJe6anRQBY=
+
+Name: assets/test/res_single/feiqiangzhi_zhanfa_tu_01.png
+SHA1-Digest: m5noxl9LHko6PtxkAy8Vf7XFy4E=
+
+Name: assets/test/Appointment_of_officials.json
+SHA1-Digest: 6p11ih89bErarShYMwKkbsTpdE0=
+
+Name: assets/Export/battle/dot10.plist
+SHA1-Digest: DkSBMU3U5VQ0OmEeJVGMD3ADiMk=
+
+Name: assets/test/res_future_add/kejibeijingzezhao.png
+SHA1-Digest: V8jccqX4TBg84Upvn8ir80IE3AE=
+
+Name: assets/game/pushMsg/pushUI.lua
+SHA1-Digest: ql9TKcmul53pOCPcC3AWn7VEfqw=
+
+Name: assets/Export/battle/21_xixuexiaoguo.ExportJson
+SHA1-Digest: 6DC/IL8QvDCBT8h+ZwxWA5YX3PE=
+
+Name: res/layout/unigm_activity_camera.xml
+SHA1-Digest: Ml58SfiHzwkYhWSCY+3NykwIXs0=
+
+Name: assets/ucgamesdk/ui/common/conf/widgetconf/exbannerDialog.json
+SHA1-Digest: Aq1VaKXj47b5ko9ieaawMya/e5o=
+
+Name: assets/Export/battle/02_jinengzhunbei0.png
+SHA1-Digest: sbZau7ikyy8YuL4RlzW8cMraiXI=
+
+Name: assets/test/res_future_add/guohao_18.png
+SHA1-Digest: l2zSWuPVdiCBuCcyTbsfkBaM9sU=
+
+Name: assets/test/res_future_add/anniu2_1.png
+SHA1-Digest: MeLVJR0uNljh14bNHkEHncVGG44=
+
+Name: assets/game/union/unionData.lua
+SHA1-Digest: s4THwyEsuZG5RFyzmqqL2U540GM=
+
+Name: assets/Export/dijizhaomu.ExportJson
+SHA1-Digest: O/Wf16yAeyCG/f5XWQ/m/wdqDMA=
+
+Name: assets/Export/worldprocess/tianxia_texiao1.png
+SHA1-Digest: io3vQX54phAYRzvFWlwqtBLA56g=
+
+Name: assets/game/encapsulation/progressLoadingBar.lua
+SHA1-Digest: ceuH1FtygtRKs7Yd+8UiFEzGCho=
+
+Name: assets/ucgamesdk/ui/common/conf/widgetconf/ucLogin.json
+SHA1-Digest: eCSraDrYTaYxyiUjYRf0hqsktqI=
+
+Name: assets/test/res_future_add/lingqu.png
+SHA1-Digest: eOn7dHr4OEuHM9qSNc/MdiZCMlI=
+
+Name: assets/Export/shuxing0.plist
+SHA1-Digest: /KcND4rDcnz0ds24JXkVF3M/lTQ=
+
+Name: assets/test/res_single/xinlang_weibo_tubiao.png
+SHA1-Digest: G18aYduyupfflqkSG1CQBilx0Z0=
+
+Name: assets/test/sol_item.json
+SHA1-Digest: 8AixXl/b1PdZMVN01ChihHWXALM=
+
+Name: assets/gameResources/army/xingjunbudui_40.png
+SHA1-Digest: Q6LoClwyJpSk7mt74ssoFawmixA=
+
+Name: assets/game/cardDisplay/cardTipsIntro.lua
+SHA1-Digest: TW9HEKMefboqRIelQ3mTSbjnmK0=
+
+Name: assets/test/res_single/tech_nation_icon_6.png
+SHA1-Digest: gZaOBkf+DjsNFp8c5rRLWtr6Ipc=
+
+Name: assets/game/cardCall/cardCallManager.lua
+SHA1-Digest: sk9Dm8p8BmYLoNo4+pEzDJaItCU=
+
+Name: assets/test/login_loading_layer.json
+SHA1-Digest: a22UpjTQh47s4vkCZE6HJt8B43Q=
+
+Name: assets/test/res_single/bg_citylist_cityType_fencheng.png
+SHA1-Digest: C1GrYPxoJuri0WvCnWuQeYQvC9I=
+
+Name: assets/game/config/terrain.lua
+SHA1-Digest: +GJzei3gQ16COLE6cohI/aW2u+E=
+
+Name: assets/test/shouzhanjiangl_3.json
+SHA1-Digest: smNSHdYsaVMXh/lS+/9Gs57+HVY=
+
+Name: assets/test/huodong_2.json
+SHA1-Digest: lDnWIfdnvbld9xz/DvQ/W1yiCXQ=
+
+Name: assets/game/utils/ui_res_future_define.lua
+SHA1-Digest: rBYWsTWvLMV/WuhSbihlRpHULPI=
+
+Name: assets/ntunisdk_data
+SHA1-Digest: mUuDPlSFudn9PCU5W5HDQE0kv5Q=
+
+Name: assets/test/res_single/dipanzuo_01.png
+SHA1-Digest: wjkTzeAnaQRa7AJ2GWo6BFyoiaQ=
+
+Name: assets/test/washPointConfirm.json
+SHA1-Digest: e+/5S625PD3Y/rLuWJWOgRS1pF4=
+
+Name: assets/test/res_single/zb.png
+SHA1-Digest: e3UdgB4lQr7s10pmTWvxaHYK4Jo=
+
+Name: assets/ucgamesdk/so/armeabi/so.list
+SHA1-Digest: pVvNn9Xqkb9v0sOpDs/DksH1dow=
+
+Name: assets/Export/haobaodonghua_020.plist
+SHA1-Digest: Xg63KuBHjN0EVnTm+BBGWgt1Lpg=
+
+Name: assets/game/legion/legionHeroData.lua
+SHA1-Digest: lxggNn1jxbwgWuj36NB2YKVocN0=
+
+Name: assets/game/dbData/cfg/Tb_cfg_progress_3.lua
+SHA1-Digest: zz59LBSUnL8X/LLO6CDFTaW9FNc=
+
+Name: assets/test/res_single/card_extract/img_wujiang_zi_3.png
+SHA1-Digest: vZbUPIZWM4IxnX/XFy8zwmxHUcg=
+
+Name: assets/test/res_future_add/build_76.png
+SHA1-Digest: Enc+rE36Kn+zBEAaR1BuiMLTfq0=
+
+Name: assets/game/login/sdk_login.lua
+SHA1-Digest: svWCH+fido1BsRvl1PfVp1AJfCU=
+
+Name: assets/game/uiCommon/recordLocalManager.lua
+SHA1-Digest: PyGirSx2IjNUtbUn7SnWmHHI2Pk=
+
+Name: assets/test/chengzhang_0.json
+SHA1-Digest: as+AYUkjoVmZjKiG2Mh+vHE1/WQ=
+
+Name: assets/Export/jingjie_xingxing0.plist
+SHA1-Digest: bffeUgBHPc5CSmAYucW3DCXi+uc=
+
+Name: assets/gameResources/map/xinshou_smoke.plist
+SHA1-Digest: L2WcoVHzl/yZAd9zP9AXQnjD5MI=
+
+Name: assets/test/gongggao.json
+SHA1-Digest: uVSggKn1KuiRZ1amIuF2sgEF2yU=
+
+Name: assets/Export/juntuan_small_4.ExportJson
+SHA1-Digest: huXgMU9vSoVsJNl/yfI4ay8PBpg=
+
+Name: assets/test/quickCallUI.json
+SHA1-Digest: QgLlw4Xk/jir+TLAWcNT9U6epMI=
+
+Name: assets/game/battle/practiceReportData.lua
+SHA1-Digest: Amp3vDfD8/7mrbURlFIna6Ba1kg=
+
+Name: assets/gameResources/cloud/cloud2.png
+SHA1-Digest: eNrYxf6vVrznuBZeXo2cbrSAzDg=
+
+Name: assets/test/res_future_add/chihouyindi_001.png
+SHA1-Digest: +S4HT2qPZZ5x+MmEnKcoW4f0pUA=
+
+Name: assets/Export/battle/leidian2.ExportJson
+SHA1-Digest: 5jslw0jsYOO3Z/j+ksc3THm7Usk=
+
+Name: assets/test/res_single/img_tmzmsyf.png
+SHA1-Digest: bYo7nnL4C7KRUcqdQ1sytPIcGS4=
+
+Name: assets/test/res_single/tech_nation_icon_110.png
+SHA1-Digest: ZEqqND+xgEgR34RvVlnRJSwF5mk=
+
+Name: assets/test/gm_simple_version.json
+SHA1-Digest: bdXvHvg2Xgb5t4Uh8VlD//hObmU=
+
+Name: assets/Export/jinjie0.plist
+SHA1-Digest: ap05hAd6JdVnFgCXSeqXbw3dhgM=
+
+Name: assets/test/res/Main_UI_12.png
+SHA1-Digest: Qrc9KLugn8xdQ0U/2YBhMHwiEJ4=
+
+Name: assets/gameResources/map/wall_not_hide.plist
+SHA1-Digest: DSS7B7SXlO4uF1VsIFgswYHO8Is=
+
+Name: assets/game/army/armyListAssist.lua
+SHA1-Digest: YD7LdOgYpu/zVCRzZkNUU4Pdz3k=
+
+Name: assets/test/role_forces_edit_intro.json
+SHA1-Digest: 0Kml22AfRwndcXwr6ybUSH53Cs8=
+
+Name: assets/gameResources/map/xinshou_smoke.png
+SHA1-Digest: pWCCo6IF99oUfHdmdJjeNrX1XvM=
+
+Name: assets/test/liguo_2.json
+SHA1-Digest: lSxxS4j0Sc3e9B4XG0vCassNofw=
+
+Name: assets/game/union/unionMarkInMap.lua
+SHA1-Digest: 7G1ov7x7e+slpADG+2nOLKrrojI=
+
+Name: assets/test/The_alliance_xinjuanxian_0.json
+SHA1-Digest: SEZZJ0U/+SASYnPz07FLwdM/i8s=
+
+Name: assets/game/exercise/exerciseFightDesManager.lua
+SHA1-Digest: nSjk2oeYvNzPO5/EUMSZrlujLm4=
+
+Name: assets/game/dbData/cfg/Tb_cfg_repay_rank.lua
+SHA1-Digest: 9mVQw7z+cQrnc3bgM8gzaVBKRMc=
+
+Name: assets/game/buildScene/buildMsgManager.lua
+SHA1-Digest: RaXKdoSP/2RJhcdDyOSpD6M4GTE=
+
+Name: assets/test/guojia_jieti.json
+SHA1-Digest: boOK24a43dlgs/E8thpix2uE8Hk=
+
+Name: assets/test/res_future_add/jianzhu_huang.png
+SHA1-Digest: meJxEgpB0dwPKyl77KKg5scJ0K4=
+
+Name: res/drawable-xhdpi-v4/unigm_service_on.png
+SHA1-Digest: ObgtDCz3BQ5LoDfW7swKT5/d15M=
+
+Name: assets/test/legion_4.json
+SHA1-Digest: yOw2WGZnZKkv0IwRtL/T46gu4Xc=
+
+Name: assets/game/help/iosComment.lua
+SHA1-Digest: 1XfQzrTV7zufer2Q9Bb0GT06Pi8=
+
+Name: assets/cg_1.mp4
+SHA1-Digest: epiqniFy2ndOYxf2QarZjuWDzG4=
+
+Name: assets/game/world_process/worldProcessManager.lua
+SHA1-Digest: haxn5pqep86nssElK8PHIM5hyYQ=
+
+Name: assets/gameResources/card/card_100101.png
+SHA1-Digest: Xmmi3fkgF6qiyOmvyQWVc1uFE0k=
+
+Name: assets/Export/zhanfa_jiesuo.ExportJson
+SHA1-Digest: 7NjSI1d/Y6ObJ3JpxNL//iT1xNA=
+
+Name: assets/test/res/Main_UI_2.plist
+SHA1-Digest: LQYaCSHa9RybHOz0KT+Uf0P5L4A=
+
+Name: assets/test/wujikaxiangqing.json
+SHA1-Digest: HC3utu6sMUwBZZa2fMyV82igLYA=
+
+Name: assets/Export/battle/21_xixuexiaoguo0.png
+SHA1-Digest: CBYfnz88RXYp0lC7qbZ0uCwObJQ=
+
+Name: assets/test/res_future_add/guojia_fengdi_1.png
+SHA1-Digest: WVkXBdfolsrqklmFkvTpSzSiIQU=
+
+Name: assets/test/shouzhanjiangl_2.json
+SHA1-Digest: ZSHYwANZ8mj7bjGarL6Q6VcISjU=
+
+Name: assets/test/res_single/card_extract/img_sanguobu.png
+SHA1-Digest: dyqeW4LkV9eu/m79HeKHjsjT3Io=
+
+Name: assets/game/dbData/cfg/Tb_cfg_skill_learn.lua
+SHA1-Digest: ljNWQB44cmBV195UJ2EmxYSujoc=
+
+Name: assets/game/exercise/exerciseArmy/exerciseArmyHeroManager.lua
+SHA1-Digest: Z09xI2N/mpZbUCXUvQonWZPbaNU=
+
+Name: assets/Export/yufu_texiao0.png
+SHA1-Digest: EsX4BMhwa12Zxin8Z1LdSCxsv2M=
+
+Name: assets/test/unionLogUI.json
+SHA1-Digest: P5kLtqF4UH6kW+NUmxf/e4JGJDk=
+
+Name: assets/test/neizhen_1.json
+SHA1-Digest: UQ3ezjfcZMtblImdOj5akK2mopA=
+
+Name: assets/game/dbData/client_cfg/com_guide_cfg_info.lua
+SHA1-Digest: TwBTbHNyjmBYq5v1hmAz8deiHwY=
+
+Name: assets/gameResources/card/card_future.png
+SHA1-Digest: cFSO1hyFewfXuW7rl4S45T4ogjI=
+
+Name: res/drawable/unigm_back_btn_selector.xml
+SHA1-Digest: bXad4HR1ewX9IiBp2yHAvy0iIK8=
+
+Name: assets/game/union/unionMembers.lua
+SHA1-Digest: SeZVK3u+lothoKhTUvsBn2qLpXU=
+
+Name: assets/game/dbData/cfg/Tb_cfg_world_build.lua
+SHA1-Digest: 8waJD7qpj2AjrkerqzTpctkky74=
+
+Name: assets/game/union/unionRelationSettingOp.lua
+SHA1-Digest: e9kPDfpESHbjBiBWYTYIfm9Qdbc=
+
+Name: assets/game/update/setConfigUI.lua
+SHA1-Digest: 5+43Cr7jA7SmY3l0K1U6mPiidWI=
+
+Name: assets/game/legion/legionSelfData.lua
+SHA1-Digest: HAQ1+jinEXZ8vK9utcBdj4kCC8k=
+
+Name: assets/test/res_single/card_extract/img_hanshishuaiwei.png
+SHA1-Digest: cOHc0aYgmWIoU9bdX5abaz0GwRQ=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: /Gt89+kQdVUkehVQM4PVKmXtdpU=
+
+Name: assets/test/res_single/tech_nation_icon_5.png
+SHA1-Digest: vp7mrZhUlzHpEc3K1tyZ6JVsAEg=
+
+Name: assets/game/dbData/cfg/Tb_cfg_fort_renown.lua
+SHA1-Digest: xDHvV5dRqGvVfx20G+ZnKoq8qao=
+
+Name: assets/Export/battle/kuibai0.plist
+SHA1-Digest: KiSZf6IwB0hajzfNpPKikc4DPvQ=
+
+Name: assets/Export/xinshou_dingweiguanquan.ExportJson
+SHA1-Digest: r4fhzOGbQh8r1rVV0fQmtydeBlc=
+
+Name: assets/game/login/login_update_confirm.lua
+SHA1-Digest: gvCE5OkouVkRDMjUpb1AAYKgRsc=
+
+Name: assets/test/res_single/minimapq_5.png
+SHA1-Digest: FsaRZq7mudF28hmBENiNZ+wDj6I=
+
+Name: assets/game/map/mapResidence.lua
+SHA1-Digest: lcucVnJW5nL9OchJK0Nisgv/Skw=
+
+Name: assets/gameSound/attack.fsb
+SHA1-Digest: TLyCzYWHkxvhsV3HBre/SNnVzCM=
+
+Name: assets/game/pay/payUI.lua
+SHA1-Digest: X6vTsSl3wYb7WY+U3UGjGV3/MR0=
+
+Name: assets/game/dbData/userCityData.lua
+SHA1-Digest: UAT55rl645/ZPfwZl9Jdwc33KLY=
+
+Name: assets/test/gongcheng_shunli.json
+SHA1-Digest: V2iP0DyoI++LflZH21dMvaNXSl0=
+
+Name: assets/game/battle/detailReport.lua
+SHA1-Digest: tpTXp1ZxdwLr1mmmegicNJofLYc=
+
+Name: assets/test/ios_pinglun.json
+SHA1-Digest: CDFkkM/2LyMruHhaTepSaz/4LlY=
+
+Name: assets/game/chat/ui_chat_union_group_set_mem_list.lua
+SHA1-Digest: PhQluIPqzOSIeaiX3Q7gKoSC2Ak=
+
+Name: assets/test/legion_1.json
+SHA1-Digest: bGh5x7uO1B89R5ctaCYK0TTl0uQ=
+
+Name: assets/test/neizenjiem_001.json
+SHA1-Digest: 0gPDLw15GOBeJMWrUBsQgqF11Gg=
+
+Name: assets/game/dbData/cfg/Tb_cfg_task_2.lua
+SHA1-Digest: s3g1aYSGHNM7yx8HswyN23SEBoI=
+
+Name: assets/test/res_future_add/liaowangta_001.png
+SHA1-Digest: dkcgQixRANO1nnrsb0r46YovszM=
+
+Name: assets/test/res/Main_UI_2.png
+SHA1-Digest: FAD+dQodVQ4Z6qCiGXd7lphZUCE=
+
+Name: assets/game/army/armyCityOverview/armyListCityShare.lua
+SHA1-Digest: HIipbPoOvPDCmTTKkFlBWqsdTR0=
+
+Name: assets/game/dbData/cfg/Tb_cfg_tech_nation_effect.lua
+SHA1-Digest: TB+bd0rbhluvPjdTJHOONOLqs88=
+
+Name: assets/game/union/unionAppointOfficierList.lua
+SHA1-Digest: nOST11+uCjAGH/mv5qkuzY79Rwo=
+
+Name: assets/test/shapanyanwu_3.json
+SHA1-Digest: lGf6gMAo1Tuy1fEZLTgBMRT6ZB0=
+
+Name: assets/test/res_single/img_sljj.png
+SHA1-Digest: EgvCLEkcj9Uwz5JPJXCf65oiLjI=
+
+Name: assets/test/res_single/bg_citylist_cityType_zhucheng.png
+SHA1-Digest: 4wJNSWJuTjre3i09HkaBTwt8Lhw=
+
+Name: assets/game/dbData/cfg/Tb_cfg_card_select.lua
+SHA1-Digest: TayacoLPKoEbMDfJzFjLJEruTUo=
+
+Name: assets/test/res_single/battle_fog.png
+SHA1-Digest: W634LCM3HnJpgkFbmCBMztrqO68=
+
+Name: assets/test/res/number.png
+SHA1-Digest: KWP9Bjoa0tyt7Z+AE1BqA56HwfQ=
+
+Name: assets/test/union_guanweirenming.json
+SHA1-Digest: JgQ9mouBkid5ytMSFhaNLTnN/bc=
+
+Name: assets/test/mainMailUI.json
+SHA1-Digest: mY4NcikC2/sm6vDbvE/R8WAwD4M=
+
+Name: assets/game/cardDisplay/addSoldierRequest.lua
+SHA1-Digest: 8VwW93BgMsJG1whiRLv//T+ABZw=
+
+Name: assets/test/res_future_add/jishu2.png
+SHA1-Digest: S04Y2Mh/Q7B9ligmMRiOkhWuo/k=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: E59SYFOrcYVYV+Hl35tmzhrqyUM=
+
+Name: assets/game/option/city_list_owned_and_marked.lua
+SHA1-Digest: U15mUMB9FQl7IPXjaqvnnKgMMaU=
+
+Name: assets/game/battle/battleAnimationController.lua
+SHA1-Digest: QbJbYzVa3+tLpIVtnMpMp5HeIyE=
+
+Name: assets/game/login/login_enter_game.lua
+SHA1-Digest: 9S3lImLENwwikyHZ8/DfRIXHhhs=
+
+Name: assets/game/uiCommon/com_op_menu.lua
+SHA1-Digest: Je09xMiDfwtmWc7Cdzaz8WeP3ZY=
+
+Name: assets/Export/dijizhaomu0.plist
+SHA1-Digest: TLGffb3NZfOIR6OLt4oldJ8OvOU=
+
+Name: assets/Export/battle/tiaoxin2.ExportJson
+SHA1-Digest: JtTGf4MwVTV//I/3b+SvHnUzH3c=
+
+Name: assets/test/res_single/card_extract/img_hongyan.png
+SHA1-Digest: 2o+1BZHwwHtHrg1XQMNmPL129as=
+
+Name: assets/game/encapsulation/reportCardManager.lua
+SHA1-Digest: pV7hVi7gWCt1v7sRM0XtgA+JqQI=
+
+Name: assets/test/res_single/card_extract/jiufazhongyuan.png
+SHA1-Digest: N1FrHo3WBPPgXobOnasAC4RXIls=
+
+Name: assets/Export/shengji1.plist
+SHA1-Digest: etPPD+v6v6L3OpcFbYaP6XdK+HI=
+
+Name: assets/test/shapanyanwu_4.json
+SHA1-Digest: 5IjGMdipXR8Q/8NKaxxYddU86B8=
+
+Name: assets/game/world_process/seasonHistoryData.lua
+SHA1-Digest: a0u7RzGJ+wMh6DaOO0jJQp0az44=
+
+Name: assets/test/qianchengqueren.json
+SHA1-Digest: wxZoX5z6Pey89zDPIFql6MI4R7g=
+
+Name: assets/test/shapanyanwu_11.json
+SHA1-Digest: WQSKX3SAADXBCfI6Og1owFHLsAY=
+
+Name: assets/game/exercise/exerciseArmy/exerciseArmyManager.lua
+SHA1-Digest: UVNpiT3JU593jKrKBdUICFMi+dQ=
+
+Name: assets/test/res/Main_UI_5.png
+SHA1-Digest: nTUXLU6ff14qWzG5/hf2uheMmnM=
+
+Name: assets/Export/battle/pingju0.png
+SHA1-Digest: l78IGkADE18eGuO8MIZjzEpnW0A=
+
+Name: assets/test/res_single/dadituchusheng_3.png
+SHA1-Digest: Ar8/KinoKVOvHAdhuUbWYEdMBcI=
+
+Name: assets/test/inner_option_right.json
+SHA1-Digest: Am9ACpJI4rdD4ugrJlDrA6aEimA=
+
+Name: assets/test/res/Main_UI_16.plist
+SHA1-Digest: ALWTz70agaanLWEfRXIqzeYD28k=
+
+Name: assets/Export/battle/blue_26_kapaitexie.ExportJson
+SHA1-Digest: UOkfYhbvXu4VdBRcttnGpX/BjGI=
+
+Name: assets/game/dbData/clientConfigData.lua
+SHA1-Digest: g+DsVeZamH7ABgobLilPw64r+tY=
+
+Name: assets/gameResources/army/juntuanzhuzha.png
+SHA1-Digest: q+nOm8I2G+E9+7D2IZht6bblgoE=
+
+Name: assets/test/res_single/chengxiang_diji_02.png
+SHA1-Digest: MxhtkXUYgM0nVuuCMOhVjXEjWgw=
+
+Name: assets/game/createCity/createCityManager.lua
+SHA1-Digest: 3hc5+cSnkB5mpDm9UtgZE8VmP4M=
+
+Name: assets/test/Appointment_of_officials_cell.json
+SHA1-Digest: ai+g/RwkJv0U1rkQzg0W2Bf+JYM=
+
+Name: assets/test/Report_items.json
+SHA1-Digest: Wq8i4YeJWdGDZZIgeST+/Hg+zGw=
+
+Name: assets/test/res_single/junying_ditu_01.png
+SHA1-Digest: olBXfKisxrytLo9he+KtQpIFcf4=
+
+Name: res/drawable-xhdpi-v4/unigm_service_red_on.png
+SHA1-Digest: orMEqeJprvUfQ4ISIXM0ygHrfPo=
+
+Name: assets/game/dbData/cfg/Tb_cfg_hero_type_unlock.lua
+SHA1-Digest: 3NkshILz11xJBdcdQCoaHGx31z0=
+
+Name: assets/ucgamesdk/so/x86_64/so.list
+SHA1-Digest: dO4Jf0oEuQ6PbjeMQeHm2jKZ9zs=
+
+Name: assets/game/net/connect.lua
+SHA1-Digest: 54FRURc/CkD+Y60jJjvfUvZ83u0=
+
+Name: assets/game/dbData/cfg/Tb_cfg_region.lua
+SHA1-Digest: 5uWgsfYFqjVIYKsbO7olQgaJ3Yc=
+
+Name: assets/Export/battle/03_jinengshiyong0.png
+SHA1-Digest: eSg9vuka3DhC5cpVzHBWcKZHgoc=
+
+Name: assets/Export/battle/beitishen.ExportJson
+SHA1-Digest: Sz3QycuUa1sWDQuAX8yvOPr/71M=
+
+Name: assets/test/waitingUI.json
+SHA1-Digest: 3D0ttiD3f0Bjyp2nSYN6UAsJsy4=
+
+Name: assets/test/guideStartUI.json
+SHA1-Digest: hgEWVzsTiJg7Rk4HThwZ3uH77ag=
+
+Name: assets/test/build_tree_item_big.json
+SHA1-Digest: VQkHp95iedx6j/oTn3NSt5M238o=
+
+Name: assets/test/res_single/card_extract/huangjingqiangjiang.png
+SHA1-Digest: uShidJ5naLO3NoCCe74UveqeqAc=
+
+Name: assets/game/config/require.lua
+SHA1-Digest: SH2T4VuSX7hmJVUVjr6Yuxz9LvY=
+
+Name: assets/test/res_single/tech_nation_icon_108.png
+SHA1-Digest: IgMx+zDwN4SyE3kvOHgeMFvIEPA=
+
+Name: assets/test/taishou.json
+SHA1-Digest: RrCIEQtKRM2JHdAFZKwZppb45jg=
+
+Name: assets/test/res_single/tech_nation_icon_103.png
+SHA1-Digest: F7cnLLyzyIhX+uIEELAzRxEtUX8=
+
+Name: assets/game/legion/legionDetailData.lua
+SHA1-Digest: yIVErnuSo1k10Yufnlck2Gx/h0o=
+
+Name: assets/test/shapanyanwu_2.json
+SHA1-Digest: WBautBM/axdGs+JXkh0rU6Sr6vA=
+
+Name: assets/test/res_future_add/qibing_44_tu.png
+SHA1-Digest: MbyerdUjzCU86R65pkwbDUXiu+A=
+
+Name: res/drawable/dotline.xml
+SHA1-Digest: s5HVefGWaadxsE8lgAGBcOliojs=
+
+Name: assets/game/map/mapOpRequest.lua
+SHA1-Digest: F5i98nSSa8qOIeflNePkTlRVp4I=
+
+Name: assets/game/cardDisplay/cardInfoItemIF.lua
+SHA1-Digest: cRjBuxaHCKk1lfOcTrwBAqXLQh4=
+
+Name: assets/test/res_single/Small_map_new_2.png
+SHA1-Digest: NxW7zYDGmnP9aM2oPaSMunqpJAk=
+
+Name: assets/Export/33_youjian.ExportJson
+SHA1-Digest: J4ReyN2fJ1SLaY5rHkUanawSV0s=
+
+Name: assets/test/youxijingling.json
+SHA1-Digest: S7yqAw8iYYMOzp69CLcz0Ooslb8=
+
+Name: assets/Export/battle/dot2.ExportJson
+SHA1-Digest: 8whNV18J7h9Q/yahwrYVoFxEhUA=
+
+Name: assets/game/profiler/profiler.lua
+SHA1-Digest: srMg7vmlstt2pgFziiy88YaqfF0=
+
+Name: assets/game/encapsulation/cardTextureManager.lua
+SHA1-Digest: LwPNWY8QUd/LhxZPpP2XBuSDBTk=
+
+Name: assets/Export/gaojizhaomu1.png
+SHA1-Digest: DnjaGoAPIKyjck3ZMJXrpKEhkdY=
+
+Name: assets/test/addSoldierUI.json
+SHA1-Digest: K28Rvun0xgk8BTJVmKJ38yoZ1wk=
+
+Name: assets/game/script_json/City_NPC_name.lua
+SHA1-Digest: dHe/ieSN2CNuzeeY9mvP8ft3f7U=
+
+Name: assets/test/chengnei_2.json
+SHA1-Digest: KuNIFwsrsreo56Rv8ZdnbcIw8o8=
+
+Name: assets/test/res_single/10_daditu.png
+SHA1-Digest: RFGZc98eauP4tVCNK8Bervwyaac=
+
+Name: assets/Export/battle/blue_26_kapaitexie0.png
+SHA1-Digest: UnYqTywyko75iH3lBNZLz4fkasQ=
+
+Name: assets/gameResources/map/armyMark.plist
+SHA1-Digest: g/r38WUPKcQbhtaTgGKWfD/FIho=
+
+Name: assets/test/guideCallUI.json
+SHA1-Digest: AkuYwk8Pa1rLHlEGJqY28GKbpk4=
+
+Name: assets/Export/battle/yaoshu20.png
+SHA1-Digest: X05NdfUAsEMa8TfBzHPFZL/3QA0=
+
+Name: assets/test/zhanbao_tongji_item.json
+SHA1-Digest: EIAyMtYSv2G+NxT6oyqqTH8G7Yw=
+
+Name: assets/test/res_single/xinshou_op3.png
+SHA1-Digest: DoYDkRVVr8nU1Xf9tWinVUIJzJ8=
+
+Name: assets/game/dbData/cfg/Tb_cfg_tech_layer_cost.lua
+SHA1-Digest: 7ed+JPZu22GF9Y9PDQckWUNGJd0=
+
+Name: assets/test/res_single/img_xiubu_bg_1.png
+SHA1-Digest: ai9IGEqpgJHvc1zt3OE6PfxFV/o=
+
+Name: assets/test/res_single/tech_nation_icon_1.png
+SHA1-Digest: 2xGtLdpluuWWmrLUn1wO9KoojKs=
+
+Name: res/drawable-xhdpi-v4/unigm_close.png
+SHA1-Digest: e0lgZnb2GMiVBXV0pne3qDhzXd4=
+
+Name: assets/test/Mini_Map_xin.json
+SHA1-Digest: 5BW0HfqglRhF8jm4fGkBb91xY2E=
+
+Name: assets/test/task_cell.json
+SHA1-Digest: puXp33afvkjhQ70haBDUM3JCGqA=
+
+Name: assets/game/config/event_mgr.lua
+SHA1-Digest: ueRs9bXz9KvzRr0H4QaKqEtK9+E=
+
+Name: assets/test/shapanyanwu_2_1.json
+SHA1-Digest: JvCDswrzQ6FghTBv5MD4WLd8l0E=
+
+Name: assets/Export/battle/12_beiluoshijinenggongji0.plist
+SHA1-Digest: OYGmJrPwLd7hdrSWIRFYSSa7Dj0=
+
+Name: assets/test/res_future_add/shigongsuo_002.png
+SHA1-Digest: q5aDF4mQvnxrmCuLfjp7aTdKkAY=
+
+Name: assets/game/dbData/cfg/Tb_cfg_res_output.lua
+SHA1-Digest: G5yLiUXcls6PoBOgqSDtKxnSU40=
+
+Name: assets/test/res_single/card_extract/img_mingjiang.png
+SHA1-Digest: lRgJcTWo/LlF/PusmHMF/8mlMrg=
+
+Name: assets/Export/juntuan_small_10.plist
+SHA1-Digest: GyqWPJwCTsC3q4Bg+yaxoclL9X0=
+
+Name: assets/test/res_single/iosyingdaobeijn_002.png
+SHA1-Digest: AF1Fei8TJ0/tILAswRlFkaHP59U=
+
+Name: assets/game/option/setting.lua
+SHA1-Digest: 0vQjT34FZhL5qs49m0sXWkwsj0Q=
+
+Name: assets/Export/battle/zhiliao0.png
+SHA1-Digest: 6Rj6O5zSurlKsHIKMf8yyoISy2Y=
+
+Name: assets/test/tongmeng_6.json
+SHA1-Digest: HHWzFkiugZBfyUOPhIQZDi87Pfk=
+
+Name: assets/game/option/miniMapData.lua
+SHA1-Digest: QFz4g9fXcSGXh17KU4+y1HiK0xQ=
+
+Name: assets/Export/zhanfa_shengji1.png
+SHA1-Digest: p8CJU7Vcl5b42vOEY1enRSI2Kfk=
+
+Name: assets/test/res_single/dianjikaishi_youxi.png
+SHA1-Digest: dsIgIBG2mMFirQG5PwTtafWn+t8=
+
+Name: assets/test/xinshouchuzhentis.json
+SHA1-Digest: R88pc9cfSm3pfabk3bO3d2mliFg=
+
+Name: assets/Export/juntuan_small_1.ExportJson
+SHA1-Digest: A8DpTEkUbuzXxYqE6SLLhCznjk8=
+
+Name: assets/test/newGuideUI.json
+SHA1-Digest: wICx3xsMYFGlfb4rzkwda459siI=
+
+Name: assets/gameResources/map/additionCity.png
+SHA1-Digest: UVLPqZPjf7X7xnP7GafKtKHVTfk=
+
+Name: assets/gameResources/map/smallMiniMap_item.png
+SHA1-Digest: BTZdL290sLCn8oQd0zyg/Iq0LuE=
+
+Name: assets/game/utils/language_localize_util.lua
+SHA1-Digest: zWPbhbT2h8+d0jedmnM+dHEYzcM=
+
+Name: assets/ucgamesdk/ui/common/conf/loading_logo.png
+SHA1-Digest: K3WNUs+XzWkFrciyAjjnZkTM/So=
+
+Name: assets/test/res_single/card_extract/img_jiedongfeng.png
+SHA1-Digest: wA3xWgAU69YWpHBaLksmHagGn5U=
+
+Name: assets/gameResources/army/xingjunbudui_20.png
+SHA1-Digest: o1RRyxtUQbjs6K/Cz3x4vb6gMNE=
+
+Name: assets/Export/kapaidatexiao0.png
+SHA1-Digest: 7IunGEnR+xOClgDcXa5pKuyeW48=
+
+Name: assets/test/res_future_add/chiduo1.png
+SHA1-Digest: 15eEqxV44+BJ1TXpBY1+sO8zuWM=
+
+Name: assets/Export/battle/leidian20.plist
+SHA1-Digest: P0yQeQ0vHNJDe2r96qi1DBnEpFw=
+
+Name: assets/test/res_single/yixin_pengyouquan_tubiao.png
+SHA1-Digest: cHN9eODdnlqc120MTGxJL1AgTzI=
+
+Name: assets/gameResources/cloud/cloud3.png
+SHA1-Digest: 5cyldOEJvuitqs2tzSxd79IRmQo=
+
+Name: assets/game/satrapInMap/satrapMap.lua
+SHA1-Digest: eEt48YlxFpGhtKQPnEd8vsx0caw=
+
+Name: assets/test/alliance_invited_cell.json
+SHA1-Digest: xzsJ2vOF4Ka0pSNiqTJGXUAw8SA=
+
+Name: assets/game/battle/warReportSmallCell.lua
+SHA1-Digest: +WOTcQQeNIRttr7mnSdtgCVYzRc=
+
+Name: assets/test/res_future_add/lvzhai_001.png
+SHA1-Digest: AqIATpRAtq9E/dLnXmzuRgW8wG8=
+
+Name: assets/test/res_future_add/diban_keji_01.png
+SHA1-Digest: UEvGXjfYVZ6iZ1c5BPkhda5HNSk=
+
+Name: assets/game/mapObject/objectNewGuideObject.lua
+SHA1-Digest: pP6DNR/69TmEJX7AWJo66w21ruw=
+
+Name: assets/Export/btn_effect_shuishou0.plist
+SHA1-Digest: C7hUjaq7d3vjs4DyoN2q5egUyiE=
+
+Name: assets/test/res_single/feiqiangzhi_zhushou_tu.png
+SHA1-Digest: xguiilswnqVXO5irpOvY2QyTXDs=
+
+Name: assets/Export/smoke.ExportJson
+SHA1-Digest: V58PhYv0NDdms3T2fMH4NhuC0RQ=
+
+Name: assets/Export/juntuan_small_50.plist
+SHA1-Digest: 3vRhiH/XWzbyMOyTEwwH0QHUMwk=
+
+Name: assets/ucgamesdk/config/service_config.json
+SHA1-Digest: W7NXz0mgSNYePVtsz0R2Av7MCF0=
+
+Name: assets/test/task_condition.json
+SHA1-Digest: zyz4wQqgqpjhCfzN0GhsZi2K/qw=
+
+Name: assets/test/tuichu_tongmeng_0.json
+SHA1-Digest: vS9Hr8ORQfvGo/LfRLdJ/oX0g9s=
+
+Name: assets/game/legion/legionBaseManager.lua
+SHA1-Digest: Gyf1K33vXWwvkNXWG9bwQI9bJJg=
+
+Name: assets/test/res/Main_UI_4.png
+SHA1-Digest: ZYAObOnNoKXTsC1M5gHC/BxUgPk=
+
+Name: assets/Export/battle/kuibai.ExportJson
+SHA1-Digest: isGvYMvwsfox5Bwy7T1nGY9Q4oY=
+
+Name: assets/test/gm_gui.json
+SHA1-Digest: uNCmY3PFpw+ce+GELlGlImslUto=
+
+Name: assets/test/res_single/5_daditu.png
+SHA1-Digest: 33In1LTaJneJQTxPiHEMgC1WQeo=
+
+Name: assets/Export/battle/dot20.plist
+SHA1-Digest: 5S3ChPbKW0atzj4dsNW+Of3i8bI=
+
+Name: assets/test/new_overview_screen_6.json
+SHA1-Digest: wawsYz489dfp1zKpQ2suGaJfAhA=
+
+Name: assets/Export/xinshou_yanhuo0.png
+SHA1-Digest: ZH17QmvOZ22UpB3RXljMTXFCr9w=
+
+Name: assets/test/res_future_add/guohao_11.png
+SHA1-Digest: taRT69DHJWbA5dFvCAQvs36qea4=
+
+Name: assets/Export/gaojizhaomu0.plist
+SHA1-Digest: P+iXJGh8kxiY3XIcBjSoJUzIezw=
+
+Name: assets/Export/guojia_anniu0.plist
+SHA1-Digest: fTcbfjEiNLZ9TYhrW6D8oxQPjBA=
+
+Name: assets/game/daily/ui_daily_forces_funds_2.lua
+SHA1-Digest: 1Qq1Ndqv1neB6uM7g9KTSUr8idw=
+
+Name: assets/test/tongmeng_1.json
+SHA1-Digest: Lq34FdL6DoPu8IAKS+MQbDK+wwE=
+
+Name: assets/game/main/sound.lua
+SHA1-Digest: 3EXN+HqOlHbFehNDIXk7ZstokNI=
+
+Name: assets/test/Test_select_version.json
+SHA1-Digest: we/V7prYCf/PIrs9NPz4Xdye6XQ=
+
+Name: assets/test/res_future_add/guohao_30.png
+SHA1-Digest: IfrQlD2iGUQouNugGtkvOG+nYH4=
+
+Name: assets/game/cardDisplay/basicCardViewer.lua
+SHA1-Digest: XOhnt3ryTNvT+vWOG6lSni513I4=
+
+Name: assets/gameResources/army/juntuan_big_50.plist
+SHA1-Digest: LqxsG8o730DRj9XtNolUna6hj78=
+
+Name: assets/game/option/view_official_ranger.lua
+SHA1-Digest: Lcr1pfSxZc8NuVuC6g3Z1M4500Y=
+
+Name: assets/test/huodong_3.json
+SHA1-Digest: rmOT19y735hOPWAYbJeQbsinKgc=
+
+Name: assets/Export/battle/gongbingshouji0.plist
+SHA1-Digest: dozamAkubMMrFwufY7momS0TS0Q=
+
+Name: assets/Export/battle/huoyan10.png
+SHA1-Digest: ddMZb4atca7RPTkJ6aB9OP6BKcM=
+
+Name: assets/test/res_single/dadituchusheng_10.png
+SHA1-Digest: QNHlAKZ9bhvMzW8xi/+CFk/FUy8=
+
+Name: assets/test/zhanbao_zhanguo.json
+SHA1-Digest: CrEH74Eni7CMTf2UPijo4C4EVsM=
+
+Name: assets/Export/shengji0.plist
+SHA1-Digest: lg++uLZ2+Psucga9c7Q+1kG4yq8=
+
+Name: assets/test/mainToolbar.json
+SHA1-Digest: +4saaHsSxHcVjq9u/9bmJNItg/0=
+
+Name: assets/game/resBuff/data_res_profit_buff.lua
+SHA1-Digest: dL7iHOXZKFy04ueVY5fsZGY8LuU=
+
+Name: assets/ucgamesdk/config/sdkServer_service_config.json
+SHA1-Digest: xWFOj9yryXYaXjnDjF+fPKCpEeM=
+
+Name: assets/test/huodong_1.json
+SHA1-Digest: fELH8FYgUKrLSg7/VAxk5KCXhZM=
+
+Name: assets/gameResources/army/juntuan_small_5.plist
+SHA1-Digest: /A/9ZC1WuPsy2B9GC5rzp5IVAAk=
+
+Name: assets/Export/battle/dot20.png
+SHA1-Digest: qx0U59+O95fat2F1hgEir+nWLhU=
+
+Name: assets/game/option/userOfficialMoveCityConfirm.lua
+SHA1-Digest: S60wPbFXjebcbYlDvobRaernWzA=
+
+Name: assets/game/net/net.lua
+SHA1-Digest: Kkr8HdXObyp3FF5pqionlUdEGIk=
+
+Name: res/layout/unisdk_protocol_view.xml
+SHA1-Digest: DV7+hCHyPXLYZn39ktHKZ1ugTL8=
+
+Name: assets/game/update/languageBeforeLogin.lua
+SHA1-Digest: 5C2ARYB/36bCFpqWucZRrkZB3QU=
+
+Name: assets/game/dbData/cfg/Tb_cfg_hero_level_2.lua
+SHA1-Digest: uGfJVg2agwD7ReHWJJXO/lYih1M=
+
+Name: assets/game/utils/string_util.lua
+SHA1-Digest: I/Xcb6JEfn8wvkTwenZ7Eq6G7Co=
+
+Name: assets/test/res_future_add/daxingyaosai1.png
+SHA1-Digest: x3MKWOnKW3A26bNIKDbs/nNqjQk=
+
+Name: assets/Export/flag_big0.plist
+SHA1-Digest: 4blmEtveCFRO2PPESWU0LZPazSw=
+
+Name: assets/game/dbData/cfg/Tb_cfg_notice_2.lua
+SHA1-Digest: p5ax8f5taHnWv94fxW+R7zM6S/Q=
+
+Name: assets/game/chat/ui_chat_last_info.lua
+SHA1-Digest: NeCyBMgpQbwyVnHJSU/bkdeHvPA=
+
+Name: assets/game/daily/ui_daily_bulletin.lua
+SHA1-Digest: 0OiH1zm13NZRPJNcTRDGttAc93I=
+
+Name: assets/game/daily/ui_daily_hero_collection_shichangshi_progress_
+ detail.lua
+SHA1-Digest: GabuCH5vdp+yt1lKpuAiHCHP0K8=
+
+Name: assets/test/cardSortUI.json
+SHA1-Digest: WWVz2eoDrmpMFTXsl17Jn1VxOvQ=
+
+Name: assets/Export/xinshou/xinshou_zhiyinguanquan.ExportJson
+SHA1-Digest: dH9TDbJf1+aNDelldFckrVoYCv0=
+
+Name: assets/Export/battle/blue_26_kapaitexie0.plist
+SHA1-Digest: 4Z8YB4Nx9pWmO3M5kuDu9wAA/yk=
+
+Name: assets/ucgamesdk/config/init_rexproj_landscape.xml
+SHA1-Digest: o8xpCk2Nfd6Uz++QkHU39W5BkL8=
+
+Name: assets/game/dbData/cfg/Tb_cfg_tech_user_effect.lua
+SHA1-Digest: 2S71JzeMfn5APW/3dHHP4a1Gi4E=
+
+Name: assets/test/res_future_add/bubing_2_tu.png
+SHA1-Digest: VFInoZe7Hax9JkwcbUVTEdRs428=
+
+Name: assets/gameResources/army/juntuan_small_2.plist
+SHA1-Digest: IOzEb8qgj9TwZKqi8eWy7wSk510=
+
+Name: assets/test/res_single/tech_nation_icon_105.png
+SHA1-Digest: S+NMdvFMpHqymGE8vnZw9v5eWAk=
+
+Name: assets/game/skill/skill_gained_layer.lua
+SHA1-Digest: iISvv6lVlCL8LqxpuSXn+zFKjN8=
+
+Name: assets/game/dbData/cfg/Tb_cfg_field_event_exp.lua
+SHA1-Digest: y5A1yu6BkRNewkRY2T+yAASOCYI=
+
+Name: assets/test/res_single/chengxiang_wengan.png
+SHA1-Digest: HAHO+B8744lo3TDvy+3PRcCR9QY=
+
+Name: assets/test/res_single/card_extract/img_qunxiong2.png
+SHA1-Digest: GJxkzHvZsWz/TOnW0lJOhRFmKec=
+
+Name: assets/test/jinengxiangqing_2.json
+SHA1-Digest: B8W/EISHEQezDnTSENq4f+JeZ7w=
+
+Name: assets/ucgamesdk/so/arm64-v8a/so.list
+SHA1-Digest: gzHZ1XGvtv+1OWfQlghcgMmadFU=
+
+Name: assets/ucgamesdk/ui/common/jars/core.jar
+SHA1-Digest: q/J3bkjkZWdhf3YAUEm0y7udAd8=
+
+Name: assets/test/res_single/img_hetaihou.png
+SHA1-Digest: 5+Opr2PGtH5RHEuASexPftfuqVo=
+
+Name: assets/test/res_future_add/guohao_4.png
+SHA1-Digest: ge0MaCNoRGb1p4I5NjITgOs8hVo=
+
+Name: assets/game/userData/user.lua
+SHA1-Digest: WvdioGV83s/hqJu5Xdn+uWWbju8=
+
+Name: assets/game/ranking/rankingManager.lua
+SHA1-Digest: qWfRUFcxjmsyQnzBsVoX1gw3Tz4=
+
+Name: res/drawable-xxxhdpi-v4/icon.png
+SHA1-Digest: QWTh36Dket/6bHiDkTAaNzX4bXQ=
+
+Name: assets/CocoStudio.lua
+SHA1-Digest: ZKH7w0SBdLjMtdCQKRhqBj6xSkU=
+
+Name: assets/Export/battle/normal_attack_20.png
+SHA1-Digest: aaFgYvs5xTNcSQd2KFt08717/pQ=
+
+Name: assets/test/res_future_add/guohao_16.png
+SHA1-Digest: Z3qEP1JYxXMDD+HZRPesbYhxBUQ=
+
+Name: assets/unisdk_protocol_default_txt
+SHA1-Digest: 0+/zIKb99cRpYOTt6iYdEkt1GxE=
+
+Name: assets/game/script_json/City_player_name_other.lua
+SHA1-Digest: J1WxT3kXUfgnoA5JB77cCa4rljg=
+
+Name: assets/ucgamesdk/ui/TY_18.patch
+SHA1-Digest: BX3uOvhJmOp+6E9IkDcVeeFkZZw=
+
+Name: assets/test/gamesprite_cell.json
+SHA1-Digest: 4bcJjSk1cacqH786hTYuYoHc++o=
+
+Name: assets/test/cardFrameBig.json
+SHA1-Digest: lTUFZp/cmW1PeFm4ryAhFdIsOrw=
+
+Name: assets/game/main/endGameUI.lua
+SHA1-Digest: HW3CBHDowMZ3XH55eTDfw9wuTfg=
+
+Name: assets/game/battle/battleLoadingUI.lua
+SHA1-Digest: rAHc9ZOQDybXMXNMtpkgdxRYy9Q=
+
+Name: assets/Export/battle/dongyao10.plist
+SHA1-Digest: 22nOi0BYvODN35HpydanRH5TEXY=
+
+Name: assets/test/res/Main_UI_15.plist
+SHA1-Digest: 2qCd80D5oJORb0eaqwgyr6f26BI=
+
+Name: assets/Export/xinshou/xinshou_jianlishili0.png
+SHA1-Digest: 9KHpuFx6O+bj+511jOLxWWXaPis=
+
+Name: assets/test/res_single/guodu.png
+SHA1-Digest: Buli2sSwLmf7MnAifmXelxHkgFc=
+
+Name: assets/game/help/gameSpriteRecommend.lua
+SHA1-Digest: Ha1I/e0rq6ojMjROPgVNxyqEjo8=
+
+Name: assets/test/huodong_4.json
+SHA1-Digest: llPVf7wFPc8gOLuKvoZy5e1+DDo=
+
+Name: assets/Export/juntuan_small_5.ExportJson
+SHA1-Digest: rN5IGO9yrSbYVus9mY3IzOi7K94=
+
+Name: assets/test/liaotian.json
+SHA1-Digest: BZkuqBqzGVqRmKOBJgVskshi9/U=
+
+Name: assets/test/shijiejindu_7.json
+SHA1-Digest: e732gx9tgA/VT0eUTQaNBUk41f4=
+
+Name: assets/test/res_future_add/bubing_88_tu.png
+SHA1-Digest: OaMjkMcxgNbY0i2P6pJk3zOJU24=
+
+Name: assets/gameResources/map/smallMiniMap_item.plist
+SHA1-Digest: 4gzVP/VH3weuW1Ouy17h8bjyEUg=
+
+Name: res/layout/splashscreen.xml
+SHA1-Digest: mpPCWgAjQ4nz2og/9oyNwAKBnKc=
+
+Name: assets/game/uiManager/uiManager.lua
+SHA1-Digest: 67oFiOuwes5fncvNoumz+grO6zE=
+
+Name: assets/Export/34_dixi.ExportJson
+SHA1-Digest: SgpDb7lKPCuq9l60LvVSif/xuwQ=
+
+Name: assets/test/res_single/minimapq_4.png
+SHA1-Digest: O1/VUkQLoCq+YrgG6mp0ykf3+Qo=
+
+Name: assets/Export/zeibing.ExportJson
+SHA1-Digest: 9MPZd6Omyswi9HXG8+juoX0/M5Y=
+
+Name: assets/test/bingzhongjianyan.json
+SHA1-Digest: 9374KxUJA5yuEjcawcE267vTotE=
+
+Name: assets/game/army/sjOverview/sjArmyHeroManager.lua
+SHA1-Digest: 3XQoMBBBl3WVnnwOyTfI4A+NJBM=
+
+Name: assets/test/notification_item.json
+SHA1-Digest: y+JQveZTxkw68q0pj5MXLqjjK/4=
+
+Name: assets/game/union/unionDonateUI.lua
+SHA1-Digest: O4y1+XLR/fbpJwWO2T34g/A56BQ=
+
+Name: assets/test/armyOverviewUI.json
+SHA1-Digest: dbl6hagOyviSwvfEdSuq7VPZcLw=
+
+Name: assets/test/res_single/guojia_putong_diji.png
+SHA1-Digest: GKL8/k/coPG4YUMxgjYEHbd3ilM=
+
+Name: assets/game/task/taskUI.lua
+SHA1-Digest: 0FwDN+FeFTQ8AbUVPBBH29UX/Os=
+
+Name: assets/game/resBuff/ui_res_profit_buff.lua
+SHA1-Digest: NAd8AAo4onUWk28KFAwyQBsdG6s=
+
+Name: assets/test/res_single/updating_tips_5.png
+SHA1-Digest: E/7Mp+5bOgVGnF0hdm75pos+cas=
+
+Name: assets/ucgamesdk/images/loadrefresh.png
+SHA1-Digest: VCJy5Ql7zvGnV5XrxtJEU2lKoww=
+
+Name: assets/test/res_single/xin_qiangzhiyindao_2.png
+SHA1-Digest: hxDGIRsSlch6b6n8gLwU68zKyzQ=
+
+Name: assets/test/res_future_add/tongmeng_3.png
+SHA1-Digest: wgBrLCxMGttTyDlkqkKSbZjah7Q=
+
+Name: assets/game/utils/color_util.lua
+SHA1-Digest: ZkokaqDjHANYKnz0mOgYqQrpDhw=
+
+Name: assets/test/chengnei_1.json
+SHA1-Digest: rrpvwoU5GC1NXtRXjmsONnjVVdA=
+
+Name: assets/test/res_single/dadituchusheng.png
+SHA1-Digest: zDY7SiRfJO0UNd6PhwX5AWUxIIo=
+
+Name: assets/game/userData/simpleUpdateManager.lua
+SHA1-Digest: fNQ4eym1GA3q77UDzy6d09vVAhU=
+
+Name: assets/game/guide/comGuide/comGuideManager.lua
+SHA1-Digest: j098ttM/Sp3/UZPhurEtR5Goiw0=
+
+Name: assets/ucgamesdk/so/x86/libsdk_ngutil.so
+SHA1-Digest: b/5bK3A2bPeURMAd9pfyQ0KnVns=
+
+Name: assets/Export/shengji.ExportJson
+SHA1-Digest: 7CBGX611ZCAiue6FZyYQyzyQLx8=
+
+Name: assets/test/landselected.json
+SHA1-Digest: Vwq1xeLspsYUYXWdHKP13tffRLo=
+
+Name: assets/game/world_process/worldProData.lua
+SHA1-Digest: oHaJ+ZjfNSYSRv21hfRPudLaB8c=
+
+Name: assets/test/remindLeftbar.json
+SHA1-Digest: 1cI8YD/bR0pEGMnfJkjXVIeaWnw=
+
+Name: assets/Export/jizi_texiao0.png
+SHA1-Digest: UWZu+lMiJ9sh4ydlwnce0ylKBAw=
+
+Name: assets/test/background.json
+SHA1-Digest: oumpPAsVsXyHKXnAYMThBtQQcIs=
+
+Name: assets/test/res_future_add/liaowangta.png
+SHA1-Digest: PCeTE8YNjOAZPFQrkNo+B5fwd8g=
+
+Name: assets/game/cardCall/callWayManager.lua
+SHA1-Digest: ndeCAduhFXyJvhE19AzHWQidrQg=
+
+Name: assets/game/config/resourceInMap.lua
+SHA1-Digest: WTq1Jcb6eTMbrrgE5U+3MEAa++s=
+
+Name: assets/test/res_single/tongmeng_guojia_zz.png
+SHA1-Digest: 8gqhPB0KEfuk27t2C6U1klvBN+0=
+
+Name: assets/test/shezhi_1.json
+SHA1-Digest: 6bXcppfWtFVljWXbOpHy5cCppRY=
+
+Name: assets/test/armySimpleUI.json
+SHA1-Digest: E320k69Pth/dTEa9Fo9nvDydILo=
+
+Name: assets/Export/battle/shanghaiguibi0.png
+SHA1-Digest: cXnmPwZq90YMaiDaFjZbHpqGKHM=
+
+Name: assets/Export/dijizhaomu2.png
+SHA1-Digest: 1G5m4kD9Z4iE3k0PCx0zC6XHGGQ=
+
+Name: assets/game/world_process/worldProDetailManager.lua
+SHA1-Digest: KdB+Zhp2391WLKzJOGYb1IsS+NQ=
+
+Name: assets/game/map/npc_city_occupied_tips.lua
+SHA1-Digest: a2Wq5meVmH6BlEZJv4ZT+llcKb8=
+
+Name: assets/ucgamesdk/ui/common/conf/widgetconf/extextDialog.json
+SHA1-Digest: UTDDgQWNr/59ZQKdEm3sygzMhrY=
+
+Name: assets/test/res_future_add/guojia_qiandu_1.png
+SHA1-Digest: XSkiorQ8sEgojtswvyJI40TSnTU=
+
+Name: assets/test/res_single/feiqiangzhi_lianbing_tu.png
+SHA1-Digest: U+gPQYymLX2ReBP+zECOUhxEdSM=
+
+Name: assets/Export/battle/kaishi.ExportJson
+SHA1-Digest: hGEi8nfNwy13t+y4nMPRefAWxmM=
+
+Name: assets/game/pushMsg/localPush.lua
+SHA1-Digest: uOs57rU9iPNlbup072bJSFU//Ck=
+
+Name: assets/ucgamesdk/images/exdialog_banner.png
+SHA1-Digest: cduHvB5XhtX64yPaE0g9amtUn34=
+
+Name: assets/game/map/mapData.lua
+SHA1-Digest: UTQqFklq9Yk9MGbAP6MwguJgU+U=
+
+Name: assets/game/pay/payData.lua
+SHA1-Digest: cmtZtDF5N8vdmAnC7udlSlam/r8=
+
+Name: assets/Export/battle/qusan0.plist
+SHA1-Digest: 1VeXmqRpHv2avCNvYLy5YGlhsUU=
+
+Name: assets/game/mapObject/objectTouchManager.lua
+SHA1-Digest: bThDaW4gPTcEhWPoyzwQHt9ZrOE=
+
+Name: assets/json.lua
+SHA1-Digest: 6f1Q5/1BNYSncGF1NcjxqgPMRmM=
+
+Name: assets/Export/jingyanshu.ExportJson
+SHA1-Digest: tg+5HH02YLIcsvsTRldIk3jDoCE=
+
+Name: res/layout/paywithamount.xml
+SHA1-Digest: pD7C8gppqpuvJ6i7c5pVVZfDnNY=
+
+Name: assets/Export/xingxingtexiao0.plist
+SHA1-Digest: RGoWtjl7hF4ELpHum9BSRsSjtXU=
+
+Name: assets/test/inputNameLoginUI.json
+SHA1-Digest: pa2XvINS04jA1rkq6JkUSjNwIbU=
+
+Name: assets/test/res_single/dadituchusheng_9.png
+SHA1-Digest: kCEvPL15z3w48xo17+eDe1QMm+c=
+
+Name: assets/game/map/mapTraining.lua
+SHA1-Digest: mY13RQMIdgGTPndRi7Ac7w1Lvh0=
+
+Name: assets/Export/battle/normal_attack_10.png
+SHA1-Digest: /I5FwSnnZd7vDMSJK+drMXWt3Uc=
+
+Name: assets/Export/battle/huosheng.ExportJson
+SHA1-Digest: a+A/XPTJHfteRGuKAIdRKkC7yww=
+
+Name: assets/game/uiCommon/op_hero_star_filter.lua
+SHA1-Digest: SNTtFLRRu3LbVbj1pKkMUZVCgFQ=
+
+Name: assets/Export/dijizhaomu0.png
+SHA1-Digest: DOiiw0+9g19fMAIb1N6sLc8b4sw=
+
+Name: assets/test/Alliance_members.json
+SHA1-Digest: DrXCZoFIhiK3AwTXCf8rh/aN8hU=
+
+Name: assets/Export/34_dixi.png
+SHA1-Digest: +GeN4NKDD7qQAMQc4yTZCicn74U=
+
+Name: assets/Export/battle/leidian20.png
+SHA1-Digest: vgVfe7SwTufDA5GY3WJsLl9aTMU=
+
+Name: assets/Export/juntuanzhandou.png
+SHA1-Digest: /uUq22YYCBxD1ZY0+YsyOuz2GtU=
+
+Name: assets/game/utils/breathAnimUtil.lua
+SHA1-Digest: sxaThjunuinxxgXYdqtH/P52XdI=
+
+Name: assets/game/option/smallMiniMap.lua
+SHA1-Digest: rLxh5HEH+Xi5DMGJTggmPg9LO5k=
+
+Name: assets/Export/battle/03_jinengshiyong.ExportJson
+SHA1-Digest: 3RinPCTZc1lfs73Ruwwt88DN7Rg=
+
+Name: assets/test/xiedaiyubeibing.json
+SHA1-Digest: ss26vy2jJH2GMiqbfbSv7Rc4Udc=
+
+Name: assets/game/option/ui_gift_exchange.lua
+SHA1-Digest: 2FcKTrDQXKS5YbD1LNta4pcvbW0=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: EYF0SqaaeWGYw9wpU+59Na5LwWo=
+
+Name: assets/Export/jingyanshu0.png
+SHA1-Digest: jCfXv24hoz9/6u2+u48Rx568tZ0=
+
+Name: assets/test/shapanyanwu_8.json
+SHA1-Digest: XyZVCcyH2Gy73MTpEN+KYBLPDvY=
+
+Name: assets/game/login/login_loading.lua
+SHA1-Digest: EY3txAiu4ve7jCjcOSGhPy4epuA=
+
+Name: assets/test/res_single/dadituchusheng_7.png
+SHA1-Digest: ggmKyQK1Z3tkZh19N1RXWwOIKmw=
+
+Name: assets/ucgamesdk/config/float_button.json
+SHA1-Digest: iRDlu/+8PCM4BV5luYYcU66CSdA=
+
+Name: assets/Export/jiaozhan0.png
+SHA1-Digest: cSE7KLUv/T1PTenIqbmyngL7S/Q=
+
+Name: assets/game/dbData/cfg/Tb_cfg_buff.lua
+SHA1-Digest: MEZDLXPwvlyqBGwBxHyS3/27UWQ=
+
+Name: assets/game/welfare/ui_login_reward_main.lua
+SHA1-Digest: exiwgLvDdDRdVhStT/QEaeBdfy4=
+
+Name: assets/game/dbData/gm_gui.lua
+SHA1-Digest: 78tYDvGB1b5ExZ5V59OBtXkXwSc=
+
+Name: assets/game/notificationLayer/alertLayer.lua
+SHA1-Digest: 3cJyvach7OA85mj1aFhpFfO+yS4=
+
+Name: assets/game/map/resourcesInMap.lua
+SHA1-Digest: 7/FsoafCJfMpJXH776IaQ5R9EMM=
+
+Name: assets/test/res_single/card_extract/img_nanmanruqin.png
+SHA1-Digest: Jq2sISkc8+AbQEGOK54SjqX5UF4=
+
+Name: assets/gameResources/army/xingjunbudui_50.plist
+SHA1-Digest: pg7GMkA2NkzU5SDkCy8iNwAe1PQ=
+
+Name: assets/game/createCity/createFort9GridConfirm.lua
+SHA1-Digest: BxRp75z3mtqtQh/E21mn6iTcfsQ=
+
+Name: assets/game/skill/skill_data_model.lua
+SHA1-Digest: HedgnfLiHifbN+1qsMHQzmiXgfc=
+
+Name: assets/Export/xinshou/xinshou_zhiyinguanquan0.plist
+SHA1-Digest: ejzU5Ys+Vbu9fP+nyf0ALKpeRVI=
+
+Name: assets/game/chat/ui_chat_main.lua
+SHA1-Digest: +UWhlPeeYfF8ZQ+0Sa+9hHttt9s=
+
+Name: assets/test/res_single/shichangshi_1.png
+SHA1-Digest: g4h824x14Ef3bk3Ip7avy/jo4pQ=
+
+Name: assets/test/shichangdai_huodong_2.json
+SHA1-Digest: gT/XPYprfjhW6koiI7W8MnCGdB0=
+
+Name: assets/Export/yanjiu0.plist
+SHA1-Digest: E9fcf42luwe39HF0CtviA18lJ6A=
+
+Name: assets/test/res_single/feiqiangzhi_tundian_tu.png
+SHA1-Digest: 93bHMGVRPOhRJghWVmI2S0ZLWLw=
+
+Name: assets/game/createCity/opCreateCity.lua
+SHA1-Digest: nLkT1j3kGBEiYRf+dWc6MPhiqpY=
+
+Name: assets/game/encapsulation/cardEffectManager.lua
+SHA1-Digest: dmQekzrM1COp+A/uHYivJanfvwg=
+
+Name: assets/gameResources/card/default_card.png
+SHA1-Digest: ccrWJLdVtKkMuUfj73ei1KktSks=
+
+Name: assets/game/option/inner_option_left.lua
+SHA1-Digest: FHOWAlwoDguUZWgqXhfH85+Wwfw=
+
+Name: assets/test/res_future_add/qibing_6_tu.png
+SHA1-Digest: o4gFGfCNDXfXZOn7KRZOPpGntDU=
+
+Name: assets/test/res_single/feiqiangzhi_zhanfa_tu_02.png
+SHA1-Digest: IyplkTRjO1F9d5rCSb3zSmxZHqc=
+
+Name: assets/gameResources/army/juntuan_big_40.plist
+SHA1-Digest: 04Q6cCFaVVq4tGnkeXPNMcVcPOo=
+
+Name: assets/test/res_single/card_extract/img_wujiang_zi_2.png
+SHA1-Digest: MmJPckJ/TafrcTc7jTjtGLkXEq4=
+
+Name: assets/ucgamesdk/res/apk.list
+SHA1-Digest: /BrOqIPTaGMfrWJ4P7PEuJli+as=
+
+Name: assets/test/login_bulletin_cell.json
+SHA1-Digest: dDt9IzQsAwLWek/NZ9BH/UqdFOs=
+
+Name: assets/test/res_single/card_extract/sanguozhinang.png
+SHA1-Digest: 8qpECCfaIDc8UiL0g8+2wHTtcLs=
+
+Name: assets/game/buildScene/building_area_data.lua
+SHA1-Digest: a7Z+sh9RyEujd6O+F8Qm9Vb7oZA=
+
+Name: assets/game/dbData/client_cfg/unforce_guide_task_cfg.lua
+SHA1-Digest: B2OyPSJZRTiYxe+dfiKoAjmYjPU=
+
+Name: res/drawable-xhdpi-v4/unisdk_protocol_line.png
+SHA1-Digest: kWjWYgv3QmdhhPwZY4jxTm8xHrA=
+
+Name: res/drawable/uc.png
+SHA1-Digest: JYlB4ou9gEg3nF+QSVrDwPi0CLU=
+
+Name: assets/test/res_single/alliance_background.png
+SHA1-Digest: 5zM0WaAqQtcIN8j1ZmVczupzqaY=
+
+Name: assets/game/army/sjOverview/sjArmySetManager.lua
+SHA1-Digest: rXC58Ki2I5a+lWvavq1rQM5cL/o=
+
+Name: assets/test/res_single/card_extract/img_qunxiong1.png
+SHA1-Digest: /fw9EIiiiqiN6rQxWrcCi4cYot0=
+
+Name: assets/game/map/land_detail_info.lua
+SHA1-Digest: phJKj/6F9ZK8V8OtJWENvMdMkXw=
+
+Name: assets/test/createCityName.json
+SHA1-Digest: JxfTe2iChzwrAEjXZRYtlRHHkyc=
+
+Name: assets/test/liguo_1.json
+SHA1-Digest: 3RBLNKLsFY2HGnutUnAQEXKHYgg=
+
+Name: assets/test/res_single/card_extract/img_guoshiwushuang.png
+SHA1-Digest: BCDk2gcTbxoxZlfzFvcW2+MLsbo=
+
+Name: assets/game/army/armyCityOverview/soldierDissolveManager.lua
+SHA1-Digest: PB5yxyzdSTjfDKSGk9TQqmoSJIE=
+
+Name: assets/test/res_single/img_lxdl_lyf.png
+SHA1-Digest: vJTqrJu5sAgZf1WadkeaVQRY1MU=
+
+Name: assets/game/uiCommon/op_locate_coordinate_confirm.lua
+SHA1-Digest: lsjNBbCGGCrxA/q8bhMzReVh2AU=
+
+Name: assets/test/bingzhongxiangqing.json
+SHA1-Digest: KjflhW6JJgO9kJ/M87ROSEQxOyI=
+
+Name: assets/game/option/userOfficial.lua
+SHA1-Digest: cl6iJ6s1MBP0hyGDkCDJ4Ot8SVo=
+
+Name: assets/test/res_single/minimapq_9.png
+SHA1-Digest: aNhpBdUZbjo47sJBD8s7zNis3Ys=
+
+Name: assets/game/dbData/cfg/Tb_cfg_region_connection.lua
+SHA1-Digest: ORbptKQfatcHgasRbEn28llXb9E=
+
+Name: assets/test/res_single/wenguang_ren.png
+SHA1-Digest: bwBkbXnAFDhE6NtvIEYQ0rAD0bA=
+
+Name: assets/game/mail/mailManager.lua
+SHA1-Digest: 21dVLiO+jLiDgQtjwkLTNHewVWE=
+
+Name: assets/test/res_future_add/guohao_22.png
+SHA1-Digest: IUNR7HMVOxJK1n0Nwl32jytVoGo=
+
+Name: assets/test/build_tree_name.json
+SHA1-Digest: 9dQTF/4CEUT3opGBbaNi9PeJpQg=
+
+Name: assets/gameResources/cloud/cloud1.png
+SHA1-Digest: dhbpVv61wkwQ05xLmGdxaRShW5M=
+
+Name: assets/Export/jingyanshu0.plist
+SHA1-Digest: sPlqYLAPVNVEBkMAFkrz2XIWWM4=
+
+Name: assets/Export/battle/kuibai0.png
+SHA1-Digest: f4RmtcJPkXIGP4mMCvMhMXKWg6g=
+
+Name: assets/test/res_future_add/guohao_29.png
+SHA1-Digest: rAHfX49OtRYzU7lwfo+TS3LX5BI=
+
+Name: assets/gameSound/PlayerSkill.fsb
+SHA1-Digest: sJPREiaGT/iDPaMi8VWSG0QD2k4=
+
+Name: assets/test/res_single/tishi.png
+SHA1-Digest: kPjT6QD12fUy8F30B3Wb1sfOcMs=
+
+Name: assets/game/satrapInMap/satrapMiniMap.lua
+SHA1-Digest: nJXksGyYpGFR853y1lwO65gz43k=
+
+Name: assets/test/res_single/img_sjsln.png
+SHA1-Digest: 1k77cDITxLC6+hPsgB5otHAFpzw=
+
+Name: assets/Export/zeibing0.plist
+SHA1-Digest: pDSJhOU9YrLsNKdoWmK8yAZHrAg=
+
+Name: assets/game/cardDisplay/heroResetConfirm.lua
+SHA1-Digest: UJH6dPs2yEiqDdbd1wBmYwehZV4=
+
+Name: assets/ucgamesdk/so/armeabi-v7a/libsdk_ngutil.so
+SHA1-Digest: vO5MTCWfwFmwGvOZChux7R5bq4M=
+
+Name: assets/Export/jinjieshengji.ExportJson
+SHA1-Digest: gAKYtoap9gYMlucQx8O7hGilnU4=
+
+Name: assets/game/technology/techCfgData.lua
+SHA1-Digest: scKZTqjlRk8zEeVmpD5K7j954qI=
+
+Name: assets/test/res_single/bg_citylist_cityType_yaosai.png
+SHA1-Digest: oPNH/506S97mvLQzsXZGX/HXmdE=
+
+Name: assets/test/res/Main_UI_5.plist
+SHA1-Digest: T2e2t0ig1/YCJuxzWCZXL1dyerw=
+
+Name: assets/Export/smoke0.png
+SHA1-Digest: lWdDTWPiZGaUO1DgAMhMHxBGm5U=
+
+Name: assets/Export/zhaomu_huanrao_diji0.png
+SHA1-Digest: QWfFQ4F/lWYQXL8idkO+iQ72wG8=
+
+Name: assets/test/res_single/liukou.png
+SHA1-Digest: uF5KAFn+vB91YJgoLz8ZPUC/A20=
+
+Name: assets/game/uiCommon/commonPopupManager.lua
+SHA1-Digest: a9uLOZMTmgm2E3ZobVPkbMNTY3I=
+
+Name: assets/test/shezhiguanxian_2.json
+SHA1-Digest: n3gr6EQudKdIDKxAgHWDFwRjwIc=
+
+Name: assets/Export/kapaidatexiao2.plist
+SHA1-Digest: LykcBYbbZkl1k0qlmswTf3fytvc=
+
+Name: assets/ucgamesdk/images/loadline.png
+SHA1-Digest: lR2+CjUePa5KVDf9WF8cII9OJdU=
+
+Name: assets/test/res_single/card_extract/img_jieqiaobingfeng.png
+SHA1-Digest: Z+iCODk4jAIi/0vUNFj2pCgXQ9k=
+
+Name: assets/Export/battle/gongbinggongji0.plist
+SHA1-Digest: 8p1P02lClxEaxQNlX4Raw8RLgMo=
+
+Name: assets/test/xuanzefencheng.json
+SHA1-Digest: afDerVaAINX6n6OTPEsdUmGwqF8=
+
+Name: assets/game/guide/comGuide/comGuideInfo.lua
+SHA1-Digest: eJsV6ZkvhQ60BzjqGmfkD47nmdo=
+
+Name: assets/test/res_single/card_extract/img_caoshijiangmen.png
+SHA1-Digest: cRGdV1z92Sih75+HLeiTi5QFmTU=
+
+Name: AndroidManifest.xml
+SHA1-Digest: M5oTcwhrA5g9gTBYpOHcIeROaas=
+
+Name: assets/Export/kapaidatexiao1.plist
+SHA1-Digest: pCcBmYBPN3XnTKzT7+dku+54cgM=
+
+Name: assets/game/net/netObserver.lua
+SHA1-Digest: camlQk1I/WHUChBU6jqDQfhCivg=
+
+Name: assets/test/res/Main_UI_13.plist
+SHA1-Digest: Zp/NAWNqaxksT2fuXOFLXiWQQig=
+
+Name: assets/game/dbData/heroCfgData.lua
+SHA1-Digest: NqeJ1hdKM0dtC2AOLZBX5aulLtc=
+
+Name: assets/Export/battle/dongyao20.plist
+SHA1-Digest: T2sZSNmoyjfUka99M1OI/cB4WFU=
+
+Name: assets/test/alliance_government_main.json
+SHA1-Digest: sGA0ZtDqH0ZqAWPkPqgMgCSXnTY=
+
+Name: assets/game/dbData/client_cfg/task_condition_id.lua
+SHA1-Digest: C4ux3zsA6XRxclvLuBpqdBWv/4Q=
+
+Name: assets/game/dbData/cfg/Tb_cfg_city_renown.lua
+SHA1-Digest: oaAWYKYxI7L7LO+54sXjZg9s2/g=
+
+Name: assets/test/res_single/minimapq_1.png
+SHA1-Digest: WApeArUq1mPMa+WKGzr9YPTLSWQ=
+
+Name: assets/game/uiCommon/com_alert_confirm.lua
+SHA1-Digest: zN58yHzEQCffQaIuyUbYSjEgHQk=
+
+Name: lib/armeabi/libavcodec-56.so
+SHA1-Digest: JZIReJzFbgj5vKdEhtGQlowlBGc=
+
+Name: assets/test/res_single/card_extract/img_jiangdongshizu.png
+SHA1-Digest: gYbw6UMBVo1Si5C9D6zJUPupohY=
+
+Name: assets/test/res_single/kejibeijingtu_001.png
+SHA1-Digest: Qho5Gjjp2sPn+wtsXs51Idjxxsg=
+
+Name: assets/game/union/unionRelationOverview.lua
+SHA1-Digest: ngpnsYxT+ZBfE9pTnG1lsn46i/c=
+
+Name: assets/test/newBuildUI.json
+SHA1-Digest: gX9J+9uXBmHFXvl3vXrXof4qan4=
+
+Name: assets/test/res_single/dipanyou_01.png
+SHA1-Digest: 8q5DCCPIekTbSD4GGiUmeyM52pk=
+
+Name: assets/test/City_player_name_other.json
+SHA1-Digest: B/OTLBPRGVUGQEj2yxyMHDF1Bbs=
+
+Name: assets/Export/xinshou_yanhuo.ExportJson
+SHA1-Digest: sNCr8oTfUguLmnPe8gEZ2ScbEmQ=
+
+Name: assets/gameResources/battle/exercise_front_single_normal.ExportJ
+ son
+SHA1-Digest: DLQ5ax63G0rdHBnYWEINyD93Mgo=
+
+Name: assets/Export/jizi_texiao0.plist
+SHA1-Digest: 22DzmPB/ScZaE6zB46MtW/644Is=
+
+Name: assets/test/res_single/img_scshl.png
+SHA1-Digest: 0kNSYP0CO540amtd9DQ3fiRWb3E=
+
+Name: assets/test/res_single/card_extract/img_xinshou.png
+SHA1-Digest: lUlSuzMNorYw5m1Vx97L4gpUGIQ=
+
+Name: assets/test/res_future_add/guohao_1.png
+SHA1-Digest: EFq2CfNIctoonvvimtGuGZkQUs4=
+
+Name: assets/Export/kapaidatexiao1.png
+SHA1-Digest: kMV6hC8cVuRvQLH1lS+mvuN5aZo=
+
+Name: assets/Export/battle/bubingmingzhong0.plist
+SHA1-Digest: IzsM3g4OFhMCX/nmBfDMQZ6+ZRM=
+
+Name: assets/test/shijiejindu_3.json
+SHA1-Digest: C6UHYqj+AZOq+ji6ruvgPql+Em4=
+
+Name: assets/game/union/unionNationTitleIntro.lua
+SHA1-Digest: Ql/i2UOzS0qIKqg6cJP8KMzkHx0=
+
+Name: assets/game/technology/techMsgManager.lua
+SHA1-Digest: x8lTQm3sDDwvFhF2CS1Fp/F3DHg=
+
+Name: assets/game/legion/legionOtherData.lua
+SHA1-Digest: h4a0ukLX79uWnh3VzrANA1qGDzA=
+
+Name: assets/test/res_single/feiqiangzhiyingdao_02.png
+SHA1-Digest: Xq5oRuYLfLma5xMPHudzXXB8oF8=
+
+Name: assets/game/technology/techData.lua
+SHA1-Digest: 70Lgp9tBHb2dfciXel+Uyit2bfk=
+
+Name: assets/Export/jinjie.ExportJson
+SHA1-Digest: TBhr/3H7ugnT2pKhVKVT4p0RvWI=
+
+Name: assets/test/taishou_renming.json
+SHA1-Digest: UuOLmJs7ahJv3eEQICIZ/3iXisg=
+
+Name: assets/test/zhanbao_top.json
+SHA1-Digest: /c19fsC0lgN3ypgY7NYvEux1Z0w=
+
+Name: assets/test/res_single/tech_nation_icon_111.png
+SHA1-Digest: 9yfmXVslIBhLNXWYI7+qGXnIm8E=
+
+Name: assets/game/option/miniMapState.lua
+SHA1-Digest: KCZkzQx8GnvID1l6WAHfg6VIeCI=
+
+Name: assets/game/main/startAnimation.lua
+SHA1-Digest: ywNzFVU/tr/wJn35krWmGkbOaps=
+
+Name: assets/game/mapObject/mapObjectPool.lua
+SHA1-Digest: e7nQ/Ii+cbI1rHn8sp3zVud0LsE=
+
+Name: assets/gameResources/card/card_100098.png
+SHA1-Digest: QXE47lqqaD5WunPq063nqLWy9vM=
+
+Name: assets/Export/battle/huoyan20.plist
+SHA1-Digest: Mf7RMSuo5TKMqo/qu3ofIbPyybU=
+
+Name: assets/gameResources/army/juntuan_small_1.plist
+SHA1-Digest: 5NJoUk/l6s4agQq1k6bEjVIGmng=
+
+Name: assets/ucgamesdk/ui/common/conf/tipsBackground.9.png
+SHA1-Digest: FTBWn0AEMh66AwND1Ef8Qr9kEN4=
+
+Name: assets/test/fenxiang_1.json
+SHA1-Digest: fgETRaZhJLOVYFxwFPLW7JQ2ALs=
+
+Name: assets/extern.lua
+SHA1-Digest: BjDKGs2MAE1hgoNaYFSG8tnONNY=
+
+Name: assets/test/jinengxiangqing_4.json
+SHA1-Digest: AdDhBeIYibn5Bu79yVnCwcX4l2k=
+
+Name: assets/Export/gongcheng_texiao0.plist
+SHA1-Digest: oypW+sD2W7MUAQPm1HzCUTCYCoQ=
+
+Name: assets/game/userData/politics.lua
+SHA1-Digest: GkDu5QfHcj3ffTbPDMHB7MKxAlg=
+
+Name: assets/test/spe_jiangli_tips.json
+SHA1-Digest: FWakMt9vjU+A5dNTiizp//3iIKc=
+
+Name: assets/test/kejixiangqing.json
+SHA1-Digest: FlLXMx1OEZGSmFA0LP7FzsvMKh8=
+
+Name: assets/game/dbData/cfg/Tb_cfg_black_market.lua
+SHA1-Digest: DJDwmsheHVDvre5taK4UlDt3Pak=
+
+Name: assets/test/share_panel.json
+SHA1-Digest: /XZgtrFRDX14YVy8tBgNMHowW3U=
+
+Name: assets/test/res_future_add/build_46.png
+SHA1-Digest: gHLQxpjg9bQlay82olEZjbiFEvI=
+
+Name: assets/test/nation_found_screen.json
+SHA1-Digest: XQC12FMbpiRG5Q1hXUhttodpScw=
+
+Name: assets/test/gengxing_tishi.json
+SHA1-Digest: vgrfOy7wELjNz0Gw/fe7tpS43Z4=
+
+Name: assets/Export/battle/shanghaiguibi0.plist
+SHA1-Digest: EBmxTfn538e/h8acpgSl4eZDrY0=
+
+Name: assets/game/buildScene/buildingEffectObject.lua
+SHA1-Digest: mMu7tJp/l+a6RGHRqYO3V3Z2jNo=
+
+Name: assets/game/option/userOfficialBlackMarket.lua
+SHA1-Digest: mxNEW+DGTTQMWAvBu2lp9FdDMZ8=
+
+Name: assets/Export/yufu_texiao0.plist
+SHA1-Digest: fTg+gPrxaSvpCNJyJh41zpORwns=
+
+Name: assets/game/mapObject/objectManager.lua
+SHA1-Digest: alBusqEhsR04Wh/Xd4xJr3nopE0=
+
+Name: assets/test/res_single/texiaodanzhen.png
+SHA1-Digest: WC2fjNL4n1JSBd/xY9n/wyXTRvQ=
+
+Name: assets/game/help/helpUI.lua
+SHA1-Digest: zkAO2zz6/IiB8mAkiBSnTPQYMCU=
+
+Name: assets/Export/zhaomu_huanrao_gaoji.ExportJson
+SHA1-Digest: MScG7iQdlkX+CDjDruf47Ott6cM=
+
+Name: assets/Export/gaojizhaomu.ExportJson
+SHA1-Digest: VIBSl9cv08QCxe9y5wry50E7OuE=
+
+Name: assets/game/cardDisplay/heroTypeDetailManager.lua
+SHA1-Digest: KJuXGliqn1PryMliKxZ+PayPXKs=
+
+Name: assets/test/kuojian.json
+SHA1-Digest: 7wkCfgpMOL38rN9VSWnS7W55NCs=
+
+Name: assets/game/army/armyCityOverview/armyHeroManager.lua
+SHA1-Digest: UwwrK+Bwvv2uiYqVjYAjEPPIOao=
+
+Name: assets/test/res_single/card_extract/sandongyuanshuai.png
+SHA1-Digest: eijV5q1LZOTb8SJk1UvSOnyDojw=
+
+Name: assets/game/sdkStuff/sdkStuff.lua
+SHA1-Digest: XCcxu7y0RFEtcSwNwq+YYEQ6KMk=
+
+Name: assets/game/management/mainScene.lua
+SHA1-Digest: YIzpGJFfJRZNMrxCmoAJlNsDSaw=
+
+Name: assets/test/zhanbao_mid_item.json
+SHA1-Digest: rlEb9gWDjg3KAK7c27ghIk9AI50=
+
+Name: assets/game/cardCall/callTechnicChangeManager.lua
+SHA1-Digest: WH/ZLAcBA8h0rKqqcUUWLqEEhEw=
+
+Name: assets/test/res_single/tech_nation_icon_2.png
+SHA1-Digest: +lYUCT/4lVXHyxO2bFW2ZvHV80g=
+
+Name: assets/test/res_single/card_extract/img_sanguogong.png
+SHA1-Digest: 2Ho190uCQa74hyMmsjAiluydJVE=
+
+Name: assets/Export/zhanfa_shengji1.plist
+SHA1-Digest: /3I8xgmZRPFYm8dIvJL7DD+vrQU=
+
+Name: assets/game/exercise/exerciseArmy/exerciseArmyPosManager.lua
+SHA1-Digest: 01Ms+xQRWOlIPLbyB0hbsz8OXm8=
+
+Name: assets/game/army/armyData.lua
+SHA1-Digest: J9ve4clLyeVEFLkdCNq61I1YOAE=
+
+Name: assets/Export/xingxingtexiao.ExportJson
+SHA1-Digest: ulnbqOgiYIQqo5erDG9dfkSSll4=
+
+Name: assets/Export/zhanfa_shengji.ExportJson
+SHA1-Digest: X5EcP0OANBxIGWP1o79GNC3pgTg=
+
+Name: assets/test/shijiejindu_finish.json
+SHA1-Digest: vesF/hXOBrO5yOpC1tegzAOb648=
+
+Name: assets/gameResources/battle/exercise_front_cavalry_normal.Export
+ Json
+SHA1-Digest: G63xp9mCo9zSQydaebIpBynTwyk=
+
+Name: assets/test/cardTitleDetail.json
+SHA1-Digest: GnCHOjvlL+t8f6YEUKRcxwZOsPs=
+
+Name: assets/game/exercise/exerciseWholeManager.lua
+SHA1-Digest: UNW2iks8UCKlN1bY14EFYGagQxs=
+
+Name: assets/game/mapObject/cityNameDisplay.lua
+SHA1-Digest: SK2FTmt2iQEEB4ZAgbOg4+nuwU0=
+
+Name: assets/ucgamesdk/config/orient_change.ini
+SHA1-Digest: fHnPkAzJwqADkQ/sxfrBvst/Qgg=
+
+Name: assets/Export/gongcheng_texiao.ExportJson
+SHA1-Digest: fHl3FIuHslnT7xda6y+T8a4K/KA=
+
+Name: assets/game/exercise/exerciseRecordManager.lua
+SHA1-Digest: RhsZ67258Z6tTLGDRSIenlt11Nc=
+
+Name: assets/Export/jianzaozhong0.plist
+SHA1-Digest: By10bliCNhhoN+Q63F5PO0zLb3g=
+
+Name: assets/game/daily/ui_daily_manager.lua
+SHA1-Digest: DvK9fGEr0QpBtxFKolwir/G8cSY=
+
+Name: assets/game/option/mainOption.lua
+SHA1-Digest: fciKLF6LvW3g7HjGSNycLZrskec=
+
+Name: assets/Export/chumo_1.plist
+SHA1-Digest: fQyi1wqgiAGJUXDaI1dCKmHzlQU=
+
+Name: assets/game/dbData/cfg/Tb_cfg_repay_advice.lua
+SHA1-Digest: 81JB5aWdmn+DLw+X7lhgGzZqHKA=
+
+Name: assets/Export/jiaozhan0.plist
+SHA1-Digest: rFMTtZLDofJtULwhrhAG1jV1vkI=
+
+Name: assets/test/res_future_add/qibing_5_tu.png
+SHA1-Digest: xHdILoa7xV5rdSvJ5mU50fAkTyQ=
+
+Name: assets/game/option/rolling_notice_manager.lua
+SHA1-Digest: D/8hjoc3sJZEXAICe+D8vgrM8cg=
+
+Name: assets/Export/battle/26_kapaitexie0.plist
+SHA1-Digest: l+FiYyeSmJ5JtUWEBcZTbv1YTLU=
+
+Name: assets/gameResources/map/wall_not_hide.png
+SHA1-Digest: 5DxFEnmFBl/oZN4OEz8X0/lRVW4=
+
+Name: assets/game/dbData/cfg/Tb_cfg_tech_nation_cost.lua
+SHA1-Digest: p+8+5El8wk/AhlPF6uCUO/VaIfg=
+
+Name: assets/game/exercise/exerciseArmy/exerciseArmyScrollManager.lua
+SHA1-Digest: H/L+K3O/XyfJyi+EMx/pRTQEqcQ=
+
+Name: assets/test/zhuanhuanxianqing.json
+SHA1-Digest: wwVVw9T3Zpan6eQVBGgHAbA6vcc=
+
+Name: assets/game/army/armyMove/armyGroupMoveDeployDetail.lua
+SHA1-Digest: HMZurqYFwnGE6pINw6QjYU1i7AU=
+
+Name: assets/gameSound/ui2.fsb
+SHA1-Digest: YOJ8r5BQDrqDHVFmCVuctIObULQ=
+
+Name: assets/game/armyGroup/armyGroupData.lua
+SHA1-Digest: Fu8OqxE5B5JLKDdipDUFFzMXE+c=
+
+Name: assets/test/soldierDissolveUI.json
+SHA1-Digest: z8FwvLND34lSnxL964IZWF8/N4o=
+
+Name: assets/test/res_single/img_zhyan.png
+SHA1-Digest: vdDzXR54PUQV6t9YjNBa/AnMiYM=
+
+Name: assets/game/union/unionMainUI.lua
+SHA1-Digest: GB+Ij1WEhEK1eJvtry2inyKPlTM=
+
+Name: assets/test/selectBornUI_0_cell.json
+SHA1-Digest: OmTxDiAHhlU30GYG3mIGyipM44Y=
+
+Name: assets/Export/30_jinengyiwang.plist
+SHA1-Digest: GEwmHrTjd7aymS3OyfVXgFOzLUA=
+
+Name: assets/gameResources/battle/exercise_front_archer_BOSS.ExportJso
+ n
+SHA1-Digest: H9HKjI6rDmhCgrhAJwbH/7KLsvU=
+
+Name: assets/game/army/armyMove/opArmyMoveConfirm.lua
+SHA1-Digest: daT1eXcfg+N/SH+WFZa2SY3M5oQ=
+
+Name: res/drawable/unigm_close_btn_selector.xml
+SHA1-Digest: kd3oopM2o31tb8/YrM4/3pm0Nm0=
+
+Name: assets/Export/jianzaofencheng0.plist
+SHA1-Digest: AgA7UPmls08jeGTlAj04pxxMKh4=
+
+Name: assets/game/cardDisplay/userCardViewerLock.lua
+SHA1-Digest: HasCnRM25ZcbtLI+yyRjNvMqXWE=
+
+Name: assets/Export/juntuan_small_20.plist
+SHA1-Digest: OZ56JmYvuRV2YgEkk6OQY0R8cI4=
+
+Name: assets/test/new_report_interface_0.json
+SHA1-Digest: TaGLnE03nNHeBZXQEuZCtaM8dTE=
+
+Name: assets/game/battle/warReportUnionCell.lua
+SHA1-Digest: j7M7fV8zIJDIrs3T6H40VTbsOLE=
+
+Name: res/layout/unisdk_webview_progressdialog.xml
+SHA1-Digest: 6i5HpY4T0JJA5XB9vJtAV0hm4cg=
+
+Name: assets/Export/jianzhushengji0.png
+SHA1-Digest: rafWPXC/nfKjw8mC6iJo7ueW+PE=
+
+Name: assets/test/res_single/9_daditu.png
+SHA1-Digest: S2c80FZLJgPzxBsGdNz06HmaH8Q=
+
+Name: assets/game/dbData/cfg/Tb_cfg_skill_detail.lua
+SHA1-Digest: eR/0y9+P6jEg+uidzle/s4KX2Cw=
+
+Name: assets/Export/shuxing0.png
+SHA1-Digest: nFa+n3pzOweEVAXK4QPysapDNTg=
+
+Name: assets/game/dbData/cfg/Tb_cfg_notice_3.lua
+SHA1-Digest: EPY3hj0khe7+o+ILWmIHINyYvYE=
+
+Name: assets/test/res/Login.png
+SHA1-Digest: qWMSggYj+djNS2baf6JK63fhgIc=
+
+Name: assets/test/cardOverviewCell.json
+SHA1-Digest: WYEDjqplaJmVxD/J3CZepQg/IO8=
+
+Name: assets/game/daily/ui_daily_season_open_gift_2.lua
+SHA1-Digest: osbfImzpKdyXZ4HHVaY5EyTEezU=
+
+Name: assets/test/res_future_add/qibing_1_tu.png
+SHA1-Digest: SqrhncogMYVHwSfBocxNiWT14xw=
+
+Name: assets/test/res_single/xin_qiangzhiyindao_1.png
+SHA1-Digest: LTbyNigrgP8G1g2Tt+saRSTvt6o=
+
+Name: assets/game/mail/mailListManager.lua
+SHA1-Digest: QCvIRK3tHi/1Q9UjZ8w8Nkrt5Qk=
+
+Name: assets/game/battle/battleAnimationData.lua
+SHA1-Digest: 3cbtvcAtNg6SaOJPVyvtQ1++MDU=
+
+Name: res/drawable-xhdpi-v4/unisdk_protocol_left_white.png
+SHA1-Digest: eMpNcRhemVLpx473hGJDmXh/hHg=
+
+Name: assets/test/res_single/card_extract/mingjiang.png
+SHA1-Digest: ORvNRIa6s0Msq8Hl34RHDfWgeKw=
+
+Name: assets/Export/battle/02_jinengzhunbei0.plist
+SHA1-Digest: rfyT11s6TJHsvoIsVOVIDftYpAU=
+
+Name: assets/test/res_future_add/luzhai.png
+SHA1-Digest: XxGwNVcNvx563wFN86pD59MeF3U=
+
+Name: assets/test/tongzhishezhi.json
+SHA1-Digest: iRAUQ1z1YU8+NpHU/GR5/Je4SJI=
+
+Name: assets/game/dbData/cfg/Tb_cfg_notice.lua
+SHA1-Digest: wHEEoKRHbg8VQQzdx6A35ZYYPtw=
+
+Name: assets/Export/jianzaofencheng0.png
+SHA1-Digest: 7KYFxaT5cP8LxY1tMWTc9ND3jTc=
+
+Name: assets/test/res_single/dadituchusheng_6.png
+SHA1-Digest: GFh9JyOzhElkbgInZGIfc/hRMyw=
+
+Name: assets/test/res_future_add/guohao_19.png
+SHA1-Digest: xq6dEMfs+3HJ0xR2h1LfN4svAKU=
+
+Name: assets/test/ui_op_menu.json
+SHA1-Digest: 3H5ooDCabhsJTeOEsVWor6gthQ8=
+
+Name: assets/ucgamesdk/so/x86/so.list
+SHA1-Digest: hfYD2Sl+X9R8vdpckxFl7HLrN+U=
+
+Name: assets/test/res_single/xinshou_op2.png
+SHA1-Digest: aug6UGqdH3hKPWrwg/VGCQvtdTs=
+
+Name: assets/Export/shengji2.plist
+SHA1-Digest: pgIt50qxZt/E744QU0bYh8eWO3I=
+
+Name: assets/game/union/unionApplicationProcess.lua
+SHA1-Digest: aIyEIidVqc9W0sOaJikK5p3orVo=
+
+Name: assets/gameResources/army/xiaoqi.png
+SHA1-Digest: 94QqHCiQxJGhC3TqXnwnS2zY7Mk=
+
+Name: assets/Export/xiubutexiao_010.png
+SHA1-Digest: 8YPJJ1YGNKGyHuRsCfjxVL67gr8=
+
+Name: assets/Export/zhaomu_huanrao_gaoji0.png
+SHA1-Digest: vxTZJXKgHNxT9Me+GU+MoFjcPvQ=
+
+Name: assets/test/tongmeng_3.json
+SHA1-Digest: btmga+mUIgHraXcepub1kJmdPCM=
+
+Name: assets/test/res_single/feiqiangzhi_zhanfa_tu_03.png
+SHA1-Digest: jvNrlDq0pdHKZI73zmRwk2/2luQ=
+
+Name: assets/test/Create_Alliance.json
+SHA1-Digest: xWVxqU90SD2PEGabLeoEBRQBKVc=
+
+Name: assets/game/dbData/cfg/Tb_cfg_progress.lua
+SHA1-Digest: vXEjfxhlCJ7cFbf6TQLysI9QY4I=
+
+Name: assets/game/cardDisplay/cardPacketManager.lua
+SHA1-Digest: o7YyJ5yezX/pT3cpfyqWQYOBTzA=
+
+Name: assets/gameResources/card/card_100006.png
+SHA1-Digest: rz1O0n1jGuWra7IpnnPMR+xLlVo=
+
+Name: assets/test/armyMoveUI.json
+SHA1-Digest: vuEDjjDH3OFqHnjdpP2+2SSC0NY=
+
+Name: assets/test/res_single/minimapq_12.png
+SHA1-Digest: EJPSaifBX7TUHnGGLXjIkW5TIcY=
+
+Name: assets/game/dbData/sysUserConfigData.lua
+SHA1-Digest: fHUt/U02dCIGNamOMgxK59nTI2Y=
+
+Name: assets/test/res_single/card_extract/img_shaodifeili.png
+SHA1-Digest: Io1gMiqleMwqD3DUZzynIO2GXk0=
+
+Name: assets/ucgamesdk/ui/common/conf/tips_button.9.png
+SHA1-Digest: AiE7WGiN6/dgqlfLMhk2tFSroLo=
+
+Name: assets/test/tongmengbiaoji_1.json
+SHA1-Digest: AishHtSHdFCAOjHa4CnN7MeU5AU=
+
+Name: assets/test/res_single/card_extract/luofengpo.png
+SHA1-Digest: Taibflk4FXoTwgAGfqHAdSRavwY=
+
+Name: assets/game/guide/newGuide/guideTipsManager.lua
+SHA1-Digest: snz5Xh04Vbrk2riBSYduxfG4oEg=
+
+Name: assets/Export/jizi_texiao.ExportJson
+SHA1-Digest: jtDgTVOAkreSnaOX+5R+HT7JW3o=
+
+Name: assets/gameResources/card/card_100010.png
+SHA1-Digest: jpeDYLOzHQ5UrEchvQJL2NTcs80=
+
+Name: assets/game/config/playerName.lua
+SHA1-Digest: gYicE3oK2x0EXbJgWzS/lg257zM=
+
+Name: assets/Export/juntuan_small_41.plist
+SHA1-Digest: 8r6Sh0ttYq4qhOiG8wQPm7g37IQ=
+
+Name: assets/game/exercise/exerciseEnemyManager.lua
+SHA1-Digest: V5Nj01leqIJch0yPCmfFhvFwEUo=
+
+Name: assets/Export/battle/11_beishuixijinenggongji0.plist
+SHA1-Digest: /Owa1dibvzwNmIPnVyp03ibd3PY=
+
+Name: assets/gameResources/card/card_100129.png
+SHA1-Digest: Jk2nAHXjsyfIfO45LCrk6A+hud4=
+
+Name: assets/game/guide/newGuide/guideResAnim.lua
+SHA1-Digest: aRImZWqT5pFJnSFeJICQ+IBGFdM=
+
+Name: assets/Export/battle/qusan.ExportJson
+SHA1-Digest: QweHFfwRlruCFQF5N2PuMnP4bv8=
+
+Name: assets/test/huodong_6.json
+SHA1-Digest: hywFdOeHT07boIrPsRi+/x8HREw=
+
+Name: assets/test/res_single/updating_tips_2.png
+SHA1-Digest: sm0vYh+2thLQP/qCAYHSQKdZF/U=
+
+Name: assets/Export/battle/leidian1.ExportJson
+SHA1-Digest: OeMMJqq/yWpyMv4f1gocP4QdJRk=
+
+Name: assets/ucgamesdk/config/services.xml
+SHA1-Digest: g6mdu+agseKOiP+qXT43NSMyVBA=
+
+Name: assets/test/task_line.json
+SHA1-Digest: T3BbMN/OA1XLb6f2id5qN6QanxA=
+
+Name: assets/game/option/userOfficialMoveCity.lua
+SHA1-Digest: 5hFssR8x07o+A9PXIUnSqqX9YG8=
+
+Name: assets/test/res_future_add/guohao_28.png
+SHA1-Digest: wJpdEbHBHFexRY3XDJqXs0IQ2Os=
+
+Name: assets/Export/kapaidatexiao0.plist
+SHA1-Digest: 2yIrXmRV1vtInYPGj/2L+fIj+Zw=
+
+Name: assets/test/armySetUI.json
+SHA1-Digest: FG04UTmCTs4uE4ml4d+t3XKidB0=
+
+Name: assets/Export/35_renwu0.plist
+SHA1-Digest: J/3NuVwo1E0/lxyEYIuheI8EuLA=
+
+Name: assets/game/uiManager/uiPanelDefine.lua
+SHA1-Digest: y1sr+P0w9EQ8IClTyF7w4OtrF0E=
+
+Name: assets/game/dbData/cfg/Tb_cfg_card_prob.lua
+SHA1-Digest: WN4xIQKWU5/LLsQph2BdRcKEUvk=
+
+Name: assets/gameResources/army/xiaoqi.plist
+SHA1-Digest: VZMJKgVQopIj2QkznRhkMj04SRY=
+
+Name: assets/test/res_future_add/guohao_26.png
+SHA1-Digest: kX2W5WhN3kaGVdKfzXlJko0Y3bY=
+
+Name: org/apache/http/entity/mime/version.properties
+SHA1-Digest: G/mQJaLYjdcXWJaYPz//7UGyDJQ=
+
+Name: assets/test/res_single/card_extract/img_sanguo1.png
+SHA1-Digest: aiHlB49H92Te+pUk/E6SdFsa2u0=
+
+Name: assets/test/tongmengbiaoji_3.json
+SHA1-Digest: oyEbotUjq1kJovgbCJgZTVj72d4=
+
+Name: assets/game/config/sceneLayerDefine.lua
+SHA1-Digest: oYlmifLzpTF7n87BMkU6qBgcqS4=
+
+Name: assets/game/union/NoUnionTipsUI.lua
+SHA1-Digest: OOV7CXDmvQWvl3l8qDbnzdIhLBQ=
+
+Name: assets/game/union/unionMemOfficialManager.lua
+SHA1-Digest: Vq7Z+mpLmdWr61geRiRvhJTmEmU=
+
+Name: assets/game/dbData/cfg/Tb_cfg_activity_3.lua
+SHA1-Digest: 8miDnPB0Wl7Q/SyPeKVwNsp1ygo=
+
+Name: assets/game/daily/daily_data_model.lua
+SHA1-Digest: D+/6KtrpGGF3MorGM4mPfyXrGns=
+
+Name: assets/Export/gongcheng_texiao0.png
+SHA1-Digest: JgZ1TwH2Yn03A4ohr7mEs2JNJsI=
+
+Name: assets/game/union/__deprecated__unionGovernmentSubordinate.lua
+SHA1-Digest: 592hnqnc32Eal1+rBQzRbmo1b0M=
+
+Name: assets/test/res_single/img_chunjiean.png
+SHA1-Digest: 6Jg5FKyxzOnineQnB29laPrr464=
+
+Name: assets/gameResources/army/xingjunbudui_30.plist
+SHA1-Digest: pIL8VrVAXpQx7FcL1sbXxRsOGP8=
+
+Name: assets/Export/battle/zhanbai.ExportJson
+SHA1-Digest: xAJ/2sJRs26/2XkNvQUV2BkjODk=
+
+Name: assets/game/army/armyCityOverview/armyScrollManager.lua
+SHA1-Digest: jOSHShmKNxEzuHI/Y5oJCqdcH14=
+
+Name: assets/Export/battle/qibing_attack0.png
+SHA1-Digest: VIPdawKEZQOmApGCegfdeHPI2WI=
+
+Name: assets/Export/29_baoji.ExportJson
+SHA1-Digest: sRX/t9l55CEjPKFSnokDOUwabsY=
+
+Name: assets/game/union/unionRelationData.lua
+SHA1-Digest: VnURJKszhr2arPy+uUMur4DxTEk=
+
+Name: assets/test/res_single/saijishili_001.png
+SHA1-Digest: qVRWWFRGKadR+CwRM99LX9h+1Nw=
+
+Name: assets/game/army/armyExchange/exchangeAssistManager.lua
+SHA1-Digest: wEuJIlhhNrsaccBp6WZXCaIYDuY=
+
+Name: assets/test/shezhi_2.json
+SHA1-Digest: OIG1/aqSbt4pquvtjNk6LHZCZ9Q=
+
+Name: assets/test/zhanbao_small_item.json
+SHA1-Digest: Ue/qPXb+qsOIjEkmpJzxWW9XtTc=
+
+Name: assets/test/mailCellUI.json
+SHA1-Digest: oUFbicAGuRzWOitW03FdxjyFS2Y=
+
+Name: assets/Export/battle/normal_attack_1.ExportJson
+SHA1-Digest: A8CsgCraKK0LrV3p1h05FphD1n4=
+
+Name: assets/Export/battle/dongyao20.png
+SHA1-Digest: VpoFDxEvHRP2mzA4ROFZsOuy3YI=
+
+Name: assets/test/res_single/img_sjqmn.png
+SHA1-Digest: Lfd5DZUeD/j0J3BgI3t5L8iTFqM=
+
+Name: assets/test/res_future_add/gongbing_10_tu.png
+SHA1-Digest: ny9EV04s1vDTfZgLBG+xxHgokwQ=
+
+Name: assets/test/res_future_add/chiduo.png
+SHA1-Digest: /IYgJYzx9IEeFPHQD3NfFJnarMU=
+
+Name: assets/gameResources/army/juntuan_small_4.plist
+SHA1-Digest: Ai+YmhWbkap0pfPetHnfQh7YbxY=
+
+Name: assets/Export/xinshou_zhuhuo0.plist
+SHA1-Digest: noB3JzSgjsc43pZca1Ku/0PRp24=
+
+Name: assets/game/dbData/cfg/Tb_cfg_world_junxian.lua
+SHA1-Digest: TDFvnckpYif22FkfUJY77NhILaQ=
+
+Name: assets/test/res_future_add/guohao_9.png
+SHA1-Digest: Ob0IVf9Lp+jhOMi3/b5XkOw9tdY=
+
+Name: assets/game/option/gameFunctionalIntro.lua
+SHA1-Digest: ayIvy8rVExecQRiaHk75vn3QfyE=
+
+Name: assets/test/new_overview_screen_5.json
+SHA1-Digest: k0t5Z/WvXEOFHv8HhVwsR1kXrZc=
+
+Name: assets/Export/shengji1.png
+SHA1-Digest: kcX6DztLWf/vIk3TiIsBMQFSIV0=
+
+Name: assets/game/dbData/cfg/Tb_cfg_battle_drop.lua
+SHA1-Digest: neglX9e9/L3DasB3824cPeCjQTY=
+
+Name: assets/game/union/__deprecated__unionOfficialAppoint.lua
+SHA1-Digest: JAEhbLd9a1EPvgMSqo7vnu5BRUI=
+
+Name: assets/game/cardDisplay/cardOverviewManager.lua
+SHA1-Digest: ZBLjHzdmxpcaWPU3Amt4dc8k/1s=
+
+Name: assets/game/dbData/skillData.lua
+SHA1-Digest: e7L/w3JusTDpOaUtuF2mxhNH8mw=
+
+Name: assets/game/help/gameSpriteHotPoint.lua
+SHA1-Digest: H5xe7AJ65Kp14N7r7OMlOTh/HDI=
+
+Name: assets/test/jieshan_tongmeng.json
+SHA1-Digest: Ol5elfoMWtXW5ahAeocF8TGPW44=
+
+Name: assets/game/world_process/zhouContentManager.lua
+SHA1-Digest: OA7cX+Uv08DbH0Hqgi1CqqaBO0c=
+
+Name: assets/test/City_NPC_name.json
+SHA1-Digest: Kg7mtkyCO1JHEZCfeaM7moH/6vc=
+
+Name: assets/test/res_single/xinhoufeiqiangzhi_0001.png
+SHA1-Digest: 5HyxLNWQrfTqCgn7RSecGUq6ojs=
+
+Name: assets/test/res_future_add/qibing_11_tu.png
+SHA1-Digest: r+EcXbH7S937Q7Ol1q/on5okyIU=
+
+Name: lib/armeabi/libcom_netease_androidcrashhandler_AndroidCrashHandl
+ er.so
+SHA1-Digest: skeyAFBpBpobOeG8ZWPK6D5v/mY=
+
+Name: assets/game/dbData/buildData.lua
+SHA1-Digest: 2lEUAjWPvZvhUCX3yYy+kfjrHIU=
+
+Name: assets/game/main/sceneLayerDefine.lua
+SHA1-Digest: vDYuyJtD2HMrqodx8MW1fMDdG5c=
+
+Name: assets/game/cardCall/callResultManager.lua
+SHA1-Digest: 4wr0qBAmDUF5Ej0B9UtoOUjDFYE=
+
+Name: assets/test/res_future_add/yaoqing1.png
+SHA1-Digest: gaTAUIwLRhsKMwHUxAVnB6Glhco=
+
+Name: assets/test/res_future_add/jiaru1_1.png
+SHA1-Digest: uqMaB783P2jY3omDFjubzAYre/U=
+
+Name: assets/game/help/bindingPhone.lua
+SHA1-Digest: SzNlHE/rR+xZrfj+i913fTThUCk=
+
+Name: assets/game/roleForces/ui_role_forces_ranger_confirm.lua
+SHA1-Digest: Uq7BuRcVngEFwV15R7iyQZfjvsk=
+
+Name: assets/Export/jianzaozhong.ExportJson
+SHA1-Digest: Aq380RBzazOIvCH5DDNt8m9XBxo=
+
+Name: assets/test/res/Main_UI_14.plist
+SHA1-Digest: mSlMTrGUSG4fy7AaLR/vS3Iayk4=
+
+Name: assets/test/res_single/saijiqianmingmingjiang.png
+SHA1-Digest: 9M955EOdYLGw8VvrwYZFNyT8lfo=
+
+Name: assets/test/res_single/card_extract/img_wujiang_zi.png
+SHA1-Digest: cjCu6QknZlA29u1U6DJlvA2R7bk=
+
+Name: assets/game/login/loginGui.lua
+SHA1-Digest: 7gDnxiE/ea5JxAvtYBQOtVcugfk=
+
+Name: assets/game/pay/bonusUI.lua
+SHA1-Digest: hhBpANkik8bUOdG8ZwBRmt0S+w0=
+
+Name: assets/Export/xinshou/xinshou_jianlishili0.plist
+SHA1-Digest: s0eP9IT7MEvusKJlKzOUgCZ+o4c=
+
+Name: assets/test/res_future_add/guojia_fuwei_2.png
+SHA1-Digest: Dyk2F66qxtupD+2o7/4JLmLZGXs=
+
+Name: assets/game/world_process/worldProContentManager.lua
+SHA1-Digest: VPirQaV8g09GxXaBx4FiNG0XNn4=
+
+Name: assets/test/guanwei_ming.json
+SHA1-Digest: LfXzJvHG32wVYK4/pLIFyExa7wY=
+
+Name: assets/Export/battle/bubing_attack.ExportJson
+SHA1-Digest: PpHA56WJb/wHP8W/x7JwaPrAeGA=
+
+Name: assets/Export/battle/leidian10.png
+SHA1-Digest: szLGBePY0I04FdwxWaYL4S8WN3Q=
+
+Name: assets/game/army/armyMarchGroupLine.lua
+SHA1-Digest: YWPhHK0d3XMTeNxl532p4aqwz6E=
+
+Name: assets/test/res_future_add/lvzhai_002.png
+SHA1-Digest: QEne+9a+OEz/d/Nv14z0z8Ox6+Q=
+
+Name: assets/game/utils/bit.lua
+SHA1-Digest: pNZ3fzsIGF1EpznfYz1lcGmoEtk=
+
+Name: assets/test/res_single/card_extract/img_qixiwuchao.png
+SHA1-Digest: FhkLRTg785YqD+LBEybFN97rSFc=
+
+Name: assets/game/legion/gatherArmyManager.lua
+SHA1-Digest: Q0S2tE0GCFET/GIK8scEs1boiB0=
+
+Name: assets/game/dbData/cfg/Tb_cfg_tech_nation_layer_cost.lua
+SHA1-Digest: H6sq2V//WXSefk1ih1pXAyzfVlY=
+
+Name: assets/test/res_single/zhanling.png
+SHA1-Digest: +VnawR4z61p5Fgu6IDpW+A0lysI=
+
+Name: assets/game/dbData/sysParamData.lua
+SHA1-Digest: N+Jkf9nYv11UWd877GY7NOwjRDk=
+
+Name: assets/game/dbData/cfg/Tb_cfg_client_mini_map_name.lua
+SHA1-Digest: HVjAJRW5bKp3vNRougorPQ07gXo=
+
+Name: assets/game/battle/warReportCell.lua
+SHA1-Digest: GtuZfBSmURGxPkFcrrkdDo7fVRc=
+
+Name: assets/test/res_future_add/anniu4_1.png
+SHA1-Digest: RvA70+NroHoI28FJoYr0BVVDimc=
+
+Name: assets/test/res_single/tech_nation_icon_7.png
+SHA1-Digest: XMneod4xo+7PWFBx85l/HQaH+Rg=
+
+Name: assets/Export/gongcheng_texiao1.png
+SHA1-Digest: fez1r0eb/gm8smXkPJV1w/L+5uQ=
+
+Name: assets/test/guojia_qiandu_4.json
+SHA1-Digest: xdPRG4HzKXriT4cmdQWf0Dxv+L0=
+
+Name: assets/Export/battle/zhanbai0.png
+SHA1-Digest: trSxoLpRYRTY1SH8hBh0F8OOTfs=
+
+Name: assets/game/chat/ui_chat_union_group_setting.lua
+SHA1-Digest: DMkr7vinAxRgLNbcIGW57dFxf5U=
+
+Name: assets/Export/battle/dianran20.plist
+SHA1-Digest: RRLubSnvLkA042KH50x3i0XOG3k=
+
+Name: assets/game/config/cfg_func_intro.lua
+SHA1-Digest: FUHjPcrs7yfbSWVvAahno3WJi2Q=
+
+Name: assets/game/update/update_tips.lua
+SHA1-Digest: bykNe3QVOaAq3J17LFr52Fwtm1k=
+
+Name: assets/cg_2.mp4
+SHA1-Digest: tLawECTCDPh/q59M4SlVuekpLJE=
+
+Name: assets/game/army/armyCityOverview/armyPosManager.lua
+SHA1-Digest: QapCJum6ROI0c+TTSpBagRGailg=
+
+Name: assets/game/chat/chat_data_channel.lua
+SHA1-Digest: rLoszFKMXBzu/qfElgKe6Dw/cwY=
+
+Name: assets/test/res_single/yanjiu_texiao.png
+SHA1-Digest: 5aT5Z0TN5UyQmlD99F+b3S6qj20=
+
+Name: assets/test/res_future_add/anniu4.png
+SHA1-Digest: mGXol0tpUasgF+4mONTJBeh76NY=
+
+Name: assets/test/res_single/kill_zb.png
+SHA1-Digest: RiRVn+6mZbRyskbvZmV1nU2VIJk=
+
+Name: assets/gameResources/map/res.png
+SHA1-Digest: Xmpq0nsSa9I3C+syWvzKZveKqhE=
+
+Name: assets/game/option/miniMapMark.lua
+SHA1-Digest: wN+fD9eR1JZgVB38MtWRf3eDlbY=
+
+Name: assets/game/union/unionMarkManager.lua
+SHA1-Digest: C7pR8A9yU4n+uZLmEjqoF9m0Ez0=
+
+Name: assets/game/union/changeNationCapitalDuringMoving.lua
+SHA1-Digest: 8UvD5DJEgL5uodeUu6xM1ZlazE4=
+
+Name: assets/test/res_single/nation_found_screen.png
+SHA1-Digest: SU/y8m17LzI3QkC35mJvjByry2s=
+
+Name: assets/Export/xinshou_zhuhuo0.png
+SHA1-Digest: DJPWeMFNNEFlnYhC8F3q7uD7uvs=
+
+Name: assets/test/res_future_add/guohao_13.png
+SHA1-Digest: rs5JPmXiHT+0KvXs6hYmLuegXUc=
+
+Name: assets/Export/battle/huoyan10.plist
+SHA1-Digest: v5MUoV3VOv+NZ6JZg9Q6I0Misx8=
+
+Name: assets/test/huodong_7_1.json
+SHA1-Digest: HcA5x7QGSbNvr22Nqqc3s0RHlNo=
+
+Name: assets/game/guide/newGuide/guideSmokeAnim.lua
+SHA1-Digest: wIB7wte7BRXzSViml4RHm29Pvzg=
+
+Name: assets/test/res_single/card_extract/img_sanguo_wei.png
+SHA1-Digest: VBeiIS1IRGSRjxmrHKCvw3HmTBg=
+
+Name: assets/game/union/nationData.lua
+SHA1-Digest: apS3J0sO6DzZBfTTJoW3Q2uDBAc=
+
+Name: assets/test/res_future_add/haobao_dakai.png
+SHA1-Digest: k/hk8WIprpYBYpIjLMQ9vr1oWAQ=
+
+Name: assets/Export/battle/dianran2.ExportJson
+SHA1-Digest: rm/ZER4fQ5W3F62ZPzPnaNBfqiw=
+
+Name: res/drawable-xhdpi-v4/unisdk_protocol_right.png
+SHA1-Digest: OytQm4hmi0eL8DyTsGLedcutUas=
+
+Name: assets/game/army/armyListDetail.lua
+SHA1-Digest: Vb1sb/TetaFCtc/Zz+kb6jjOVdM=
+
+Name: assets/gameResources/card/card_100009.png
+SHA1-Digest: 1Q/jf3cBDFjSa7QoJR8JY3g8zNo=
+
+Name: assets/test/Army_march_time.json
+SHA1-Digest: iGyxV6EvzBREhUbMjA7N9DOYzFg=
+
+Name: assets/test/card_tips_intro.json
+SHA1-Digest: jpryE95oeZ2IJBpx+GXrjaDZBH4=
+
+Name: assets/test/res_single/tech_nation_icon_113.png
+SHA1-Digest: WdqtcxmO6ITceFIpDgEgkGh+vXk=
+
+Name: assets/test/res_single/card_extract/img_qunfang.png
+SHA1-Digest: q5y3iN79EZEBGKZwCrfGx8ILmt4=
+
+Name: assets/Export/xinshou_jingyanshu.ExportJson
+SHA1-Digest: VPQgW4EkQOPIPXG16mcRXDyZrZw=
+
+Name: assets/game/uiManager/uiBackPanel.lua
+SHA1-Digest: bgBE7+x/XlgFyE89HQw3+UrfcdU=
+
+Name: assets/test/res_future_add/tongmeng_2.png
+SHA1-Digest: zvUX/o/NkMGHqVeHbjueMdBnbgY=
+
+Name: assets/game/army/sjOverview/sjArmyScrollManager.lua
+SHA1-Digest: KJldOO+1c0LWK4F+UeXF/chSutc=
+
+Name: assets/gameResources/battle/exercise_front_cavalry_BOSS.ExportJs
+ on
+SHA1-Digest: fkPRtSLKn47+CG2ibDDVAJze900=
+
+Name: assets/test/shapanyanwu_9.json
+SHA1-Digest: bDzgXexbXYc/r7U8qHEIpQKduCU=
+
+Name: assets/game/option/userOfficialGuard.lua
+SHA1-Digest: G9mX42G1uD/4JBE1iSalQplkiB8=
+
+Name: assets/game/cardDisplay/card_sort_option.lua
+SHA1-Digest: J+Xy5rmzU1YsRBTTflM9PvzLArM=
+
+Name: assets/Export/worldprocess/tianxia_texiao1.plist
+SHA1-Digest: FCnBPxeAPT9i6XyVwEIMzNdqeLo=
+
+Name: assets/test/legion_2.json
+SHA1-Digest: YAPxMPc9b1a1aoCayTe/KapRlGQ=
+
+Name: assets/test/battle_buttons.json
+SHA1-Digest: m3O0Rvkxo0t+sDD/Q/7ZK9xxZcw=
+
+Name: assets/test/jinengxiangqing_3.json
+SHA1-Digest: cV7lz9d5FeUepUdrtypPN6hBsEY=
+
+Name: assets/Export/worldprocess/tianxia_texiao.ExportJson
+SHA1-Digest: zQOtk9JCn2KEVec0x0ulZGwFmis=
+
+Name: res/layout/unigm_view_titlebar.xml
+SHA1-Digest: OkG36SGSZTBU5XO1zfp4O1j9XK0=
+
+Name: assets/test/res_single/card_extract/img_tianxiadaluan.png
+SHA1-Digest: mhWyPrQEnACR+Yqzq5oqL+5AUKQ=
+
+Name: assets/test/res/Main_UI_21.png
+SHA1-Digest: v49BgbZvkrrujAxSBeX2hXN2qLk=
+
+Name: assets/game/dbData/sysJunxianData.lua
+SHA1-Digest: zj5lj8triPYqrbITcMiL2OjEbJc=
+
+Name: assets/game/army/armyCityOverview/armySetManager.lua
+SHA1-Digest: iR09BuUjl5cmY5+1Hn5cKKzmong=
+
+Name: assets/test/alliance_create_main.json
+SHA1-Digest: cd97SYRvNpsVqL3OB9gOoJ9D8Fo=
+
+Name: assets/test/res_future_add/chihouyingdi.png
+SHA1-Digest: zonqKWTWVk0xcQwSGwjXMAqQLkE=
+
+Name: assets/test/res_single/1_daditu.png
+SHA1-Digest: hwUVlxNIGAgeL1bhYywy4R1fwfI=
+
+Name: assets/test/zhanbao_tongji.json
+SHA1-Digest: OO1WGwvTSzIQinqyx/g0VqSMKnM=
+
+Name: assets/test/Mail_program_interface_0.json
+SHA1-Digest: +erOSV2VDHMOm+kVMKGFGltbFIk=
+
+Name: assets/Export/xinshou_dingweiguanquan0.plist
+SHA1-Digest: jS8htvepoaBw6VSnK6QpDS0C85U=
+
+Name: assets/game/dbData/cfg/Tb_cfg_tech_nation.lua
+SHA1-Digest: BF7gImuZFKEocVemY72lx0PNxG4=
+
+Name: assets/game/daily/ui_daily_spring_festival_scene_effect.lua
+SHA1-Digest: rwD2YuP1ad3oTLPOBTkjQkmVxVY=
+
+Name: assets/test/Report_items_0.json
+SHA1-Digest: yWFAGg2I2ecjI172K1OUYVucjZo=
+
+Name: assets/test/res_future_add/guohao_14.png
+SHA1-Digest: O62z4esn7tVVzuNkatldSQ3Medg=
+
+Name: assets/test/res_single/card_extract/img_hanjiang2.png
+SHA1-Digest: z9hyliUjaNP8pQqVbIaQXbyq1ks=
+
+Name: assets/test/City_time_label.json
+SHA1-Digest: QzPhxHxjs97XIjcJU14tR5OyyGI=
+
+Name: assets/test/shijiejindu_1_1.json
+SHA1-Digest: jCGVv5MLe8Fcw44y1KgXXtLH8Ac=
+
+Name: assets/test/res/Main_UI_18.plist
+SHA1-Digest: XjUUAcpPFwayzs1avYKE/k1sm/A=
+
+Name: assets/game/map/mapAllData.lua
+SHA1-Digest: bMOyTPhqhPxgUQNNOxcYU6k05ko=
+
+Name: assets/Export/smoke0.plist
+SHA1-Digest: hLm0NCceAdUetONGE2Y7F0y9syM=
+
+Name: assets/test/res_single/minimapq_3.png
+SHA1-Digest: BdpTou6VKsQ1LAiMrCvAH/Mxo0g=
+
+Name: assets/test/res_single/card_extract/img_liangzhouhulang.png
+SHA1-Digest: UQLssglT5QpYm6+KGA1+jDdtn+M=
+
+Name: assets/game/voice/voiceSendUI.lua
+SHA1-Digest: 8kvXTnam2dt4W5wQ0/8K2DaSCRQ=
+
+Name: assets/test/neizhen_2.json
+SHA1-Digest: QzXKcbhT8xMFtR087J5ScoZmp4I=
+
+Name: assets/test/res_single/tech_nation_icon_115.png
+SHA1-Digest: HWPSJGKTU1a4L8dUBmlKk2bY6k8=
+
+Name: assets/test/com_alert_confirm.json
+SHA1-Digest: PJkFNrlbZqGkn7LVi6r9PSyWorw=
+
+Name: assets/test/res_single/card_extract/hanchaoshiguan.png
+SHA1-Digest: gf0EyORMLO6CZaV6f9vLDhX1l6I=
+
+Name: assets/game/roleForces/ui_role_forces_base.lua
+SHA1-Digest: +85uZbZMHXJkKVRKN9C2ffWnAPY=
+
+Name: assets/test/new_overview_screen_2.json
+SHA1-Digest: 5+SjAzoeS3iUIoIFWaZx8dwGhIQ=
+
+Name: assets/game/dbData/gmManager.lua
+SHA1-Digest: JH3ZbiUGm8CCbIuTsK4Czsy/L9Q=
+
+Name: assets/test/res/Main_UI_18.png
+SHA1-Digest: NKmVCO4hnC3tAgEmqLWYETBFNu4=
+
+Name: res/layout/unigm_activity_browser.xml
+SHA1-Digest: LzRamBOE+P/DQjsRoX00KsbpTHo=
+
+Name: assets/test/res_single/card_extract/img_jizhongshizu.png
+SHA1-Digest: 57ZcueDyzJoeYCD1gkf+fy+zcF8=
+
+Name: assets/test/shoujibangding.json
+SHA1-Digest: 0oJGLP00PRQCojBwkGWSdYSUXTI=
+
+Name: assets/game/encapsulation/cardFrameShare.lua
+SHA1-Digest: 9N25cW4rVzONtcz3uAeNd7RnHCk=
+
+Name: assets/game/dbData/cfg/Tb_cfg_union_level_2.lua
+SHA1-Digest: rFXgMjFcK9//hfy8YvteXgGQ1M4=
+
+Name: assets/game/dbData/cfg/Tb_cfg_activity.lua
+SHA1-Digest: qsbx+7H+1nV2GzSQHirpQMwxkfo=
+
+Name: assets/test/res_single/xin_qiangzhiyindao_3.png
+SHA1-Digest: aZ7mQQOkB4tY773BIg/klX5dHWs=
+
+Name: assets/test/res_single/feiqiangzhi_zhanfa_tu_010.png
+SHA1-Digest: 6LU3NhDT/wnFfL9Gfpg20Nn6/FI=
+
+Name: assets/test/res_future_add/qibing_3_tu.png
+SHA1-Digest: oduW4YxrzZ7Y10wNkuSihczg9ZA=
+
+Name: assets/test/shijiejindu_2.json
+SHA1-Digest: WlbJ3YbDiZpXqXmNU0viU4PxYgs=
+
+Name: assets/ucgamesdk/ui/UC_18.zip
+SHA1-Digest: 3z9KKVnYcPtDD16pjRTCiyL27AI=
+
+Name: assets/game/buildScene/mainBuildScene.lua
+SHA1-Digest: BYaqgQfKGl8JGcT1E4OrBzU/CnE=
+
+Name: assets/Export/34_dixi.plist
+SHA1-Digest: x8H3s8hWiVixKQ1Je0DSdzNQEL0=
+
+Name: assets/ucgamesdk/so/x86/libsdk_bspatch.so
+SHA1-Digest: 5QoI9ytFdnhubNuNGJ2hRtx3fgg=
+
+Name: assets/test/res_single/minimapq_13.png
+SHA1-Digest: /rbBuXXVvhtQTYZG/8dhtk1TJZU=
+
+Name: assets/ucgamesdk/config/strings.xml
+SHA1-Digest: ypmOcNUP5UXPEiCGSwHIl8LYaAI=
+
+Name: assets/Export/binzhongtexiaoxuanzhuan.ExportJson
+SHA1-Digest: qqadwuuNvG9CI5YotRFzk9OhLQM=
+
+Name: assets/game/notificationLayer/tipsLayer.lua
+SHA1-Digest: 82J6yDarwhCPpvdwjBkhU/oWkvc=
+
+Name: assets/Export/juntuanzhandou.ExportJson
+SHA1-Digest: 2yZWg7c30K3Dm9Jy3SiSJB2xnes=
+
+Name: assets/test/res_future_add/guojia_fengdi_2.png
+SHA1-Digest: nsV34NUwORORespO5dS/FaQWKqY=
+
+Name: assets/test/res_single/card_extract/img_hanjiangzi.png
+SHA1-Digest: /Etv+HwZ/hJmdvdk9srO0nRno1w=
+
+Name: assets/test/res_single/card_extract/img_luanshiyinxiong.png
+SHA1-Digest: O+xqkXQbRyyFKSzL7540DSaChsE=
+
+Name: assets/ucgamesdk/so/x86_64/libsdk_ngutil.so
+SHA1-Digest: nwc3yJGHgUZGVv7FnAv+NmCwRjU=
+
+Name: assets/test/recordItem.json
+SHA1-Digest: 5LS5v38FjC4xH9ShM9XJ06oEgYs=
+
+Name: assets/Export/yanhua1.png
+SHA1-Digest: vd715X/ZpN1UoL6APPB1dNIvCNw=
+
+Name: assets/game/main/main.lua
+SHA1-Digest: LJrBbwzQFu4Uoc3foP2bQRRUwf8=
+
+Name: assets/game/createCity/createTaiShouFuManager.lua
+SHA1-Digest: jRL8uKyRTRL6wazyUOu0Du7Z60I=
+
+Name: assets/test/saijikapaixianzhe.json
+SHA1-Digest: zbLYjSGb1xMZ3rMijGH63DAkfNU=
+
+Name: assets/game/union/__deprecated__unionOfficialApplyClose.lua
+SHA1-Digest: /inhFL/IchzLqgKmngqopr7eIx0=
+
+Name: assets/game/guide/newGuide/guideCallAnim.lua
+SHA1-Digest: YGxhmGtmczIlmS6vtDXoD9eyrHc=
+
+Name: assets/Export/gaojizhaomu1.plist
+SHA1-Digest: HzdK0R6qyVin5HeR9rTuH3F987k=
+
+Name: assets/game/cardDisplay/heroCareerTransfer.lua
+SHA1-Digest: 9bdKPFbzt9VhQeIzwtgEbOjJW9M=
+
+Name: assets/test/res_future_add/qibing_33_tu.png
+SHA1-Digest: R/yquneFHdDsNs1FfDeoMQEC7B8=
+
+Name: assets/test/res_single/4_daditu.png
+SHA1-Digest: 9P8kz3+mN4PEIOVxNPj58bnFupQ=
+
+Name: assets/test/qianchenglengque.json
+SHA1-Digest: urFqfKYDTzrylBbv0Sdd7XHMrkQ=
+
+Name: assets/test/res_future_add/build_70.png
+SHA1-Digest: +2fVgLWyffBvo+kNs9esvYjPRY0=
+
+Name: assets/game/dbData/cfg/Tb_cfg_card_prob_3.lua
+SHA1-Digest: mxr/C1nhxPBTPvgzWlBtoqK8F3A=
+
+Name: assets/test/res_single/niangshi_dibiaoshijian.png
+SHA1-Digest: XY2VT1rYXZKfMOCJd3r2N6qcPAM=
+
+Name: assets/test/res_future_add/bubing_55_tu.png
+SHA1-Digest: bIBR50hahMRzKrqQsk38dpp4FRw=
+
+Name: assets/test/serverOnMaintenance.json
+SHA1-Digest: k/Ad4kI/vt3riRVv3amBfa5JC1U=
+
+Name: assets/game/dbData/errorTips.lua
+SHA1-Digest: TnFM1gWCQ/UIkreUpUBQvZEqxw0=
+
+Name: assets/test/alliance_to_join.json
+SHA1-Digest: MGG6Ju7cGd0rQTsTymKWeVuLyes=
+
+Name: assets/test/res/Main_UI_14.png
+SHA1-Digest: wJv2SspVZVX855lF2tbOLbDlrlc=
+
+Name: assets/Export/35_renwu0.png
+SHA1-Digest: zSg1f84+r0U3amoP9s7vBgCjdtg=
+
+Name: assets/test/res_single/card_extract/zonghensihai.png
+SHA1-Digest: Wi66Nory1TfLDEusXmmuhsfVU7E=
+
+Name: assets/game/main/configBeforeLoad.lua
+SHA1-Digest: vQ12to7u5fXnzss10m/gATXNvDA=
+
+Name: assets/Export/battle/zhiliao0.plist
+SHA1-Digest: McGRyvWR9DCemdvy1i4Hp1qiINQ=
+
+Name: assets/test/res_single/xiubuchangjing_0002.png
+SHA1-Digest: H9t/uFiPFJ+gJrPDo6qV8hmqsA8=
+
+Name: assets/game/utils/skillUtil.lua
+SHA1-Digest: o22tcPGc3DLM8uPxSYJQOiD4Auc=
+
+Name: assets/game/mail/mailContentWidget.lua
+SHA1-Digest: rQYBklqUhgo6xcD5uRQOpwoKERw=
+
+Name: assets/gameResources/map/minimap_country.plist
+SHA1-Digest: 4SczwwRAMLi0K+tQrMtnK6EEBfo=
+
+Name: assets/game/map/warFogData.lua
+SHA1-Digest: 9gyY79KPAZavy+1LBw5HhFnUAfY=
+
+Name: assets/Export/29_baoji0.plist
+SHA1-Digest: AAGRnGrcVGrlKcU43yySOSKeC7c=
+
+Name: assets/Export/battle/qibingmingzhong.ExportJson
+SHA1-Digest: E2NTqKn7GI44pM44/CONJ4/eLSo=
+
+Name: assets/game/exercise/exercisePreRewardManager.lua
+SHA1-Digest: RG58KrHbMpN7/9O8H6rEcsSc4Q4=
+
+Name: assets/test/res_single/shichangshi.png
+SHA1-Digest: Kxbu31zHAfjSAfzjcysyi496gsY=
+
+Name: assets/Export/worldprocess/tianxia_texiao0.plist
+SHA1-Digest: TOP40fxzWIfC5GFzluO92zK8Hh8=
+
+Name: assets/Export/battle/jinengmingred0.png
+SHA1-Digest: VPFpi15d00Rs8JfAe4TdE6F68Kk=
+
+Name: assets/Export/jiaozhan1.plist
+SHA1-Digest: Zp0kK1vDvc1Cf48ObYwYMb9E75Q=
+
+Name: assets/gameResources/battle/exercise_front_infantry_normal.Expor
+ tJson
+SHA1-Digest: yZAImkF1AMeAtmiJOic2wk/TKnk=
+
+Name: assets/test/res_single/re.png
+SHA1-Digest: HnigKdNbmwYt+igV1r394w67yi8=
+
+Name: assets/ucgamesdk/ui/common/jars/entry.xml
+SHA1-Digest: e6V/awWc1swFh2O9n1ooFbTSrkQ=
+
+Name: assets/Export/zhanfa_shengji0.png
+SHA1-Digest: qiie//8JRgDxQndnbU13yBZiCNA=
+
+Name: assets/ucgamesdk/so/armeabi/libsdk_ngutil.so
+SHA1-Digest: 2mMBftEkFjFN18jTl5C7MiLDD2s=
+
+Name: assets/game/voice/voice.lua
+SHA1-Digest: OfpuZQSbqEBesUmDr3N0kLLtDOE=
+
+Name: assets/ucgamesdk/ui/common/conf/tipsCloseActive.png
+SHA1-Digest: SjnPD3PA3xMSfK3HlbadIXf4bB4=
+
+Name: assets/ucgamesdk/so/mips/so.list
+SHA1-Digest: zkY9Dvc4DhMm0MfmRRczxVFkUGY=
+
+Name: assets/game/skill/skill_operate_observer.lua
+SHA1-Digest: XAfHHGr+WPMI3X0vDBkbWxiHnHE=
+
+Name: assets/game/world_process/worldProStateManager.lua
+SHA1-Digest: 8/How2O2X5ye4S8IsWOdxwW0AT0=
+
+Name: assets/game/exercise/exerciseArmy/exerciseArmyBaseManager.lua
+SHA1-Digest: f2OyrPcpErCRjTdNroslUZFXQAg=
+
+Name: assets/gameResources/army/xingjunbudui_20.plist
+SHA1-Digest: oDI8O8NxlkiXXUWU5eWJS/6LpyU=
+
+Name: assets/test/juntuan_xiangqing.json
+SHA1-Digest: RSNoFQIJCQZpPyyqCVnXoTshIrE=
+
+Name: assets/test/newbie_protect_detail.json
+SHA1-Digest: 65bpaDPLgRDoNkQBqKyIffnWjkk=
+
+Name: assets/ucgamesdk/ui/common/conf/loading_bg.9.png
+SHA1-Digest: T65w90uDdU1mODPJ/9t83OCyAPI=
+
+Name: assets/game/dbData/cfg/Tb_cfg_hero_level.lua
+SHA1-Digest: DbwfAPPigqqdiN63aMtEwrw/aGc=
+
+Name: assets/Export/guojia_anniu.ExportJson
+SHA1-Digest: ACoYTyK7kXp73kKUbaYitMlhWWk=
+
+Name: assets/test/res_future_add/jiaru1.png
+SHA1-Digest: 9D9Wk8zFtp8IOMNCxkShpCePWng=
+
+Name: assets/test/pingdao_tanchang.json
+SHA1-Digest: 7Em49McgL1q+ir2oeqo2lWqlWYM=
+
+Name: assets/game/legion/legionArmyManager.lua
+SHA1-Digest: n+i57SswPVsshsUS7ww8zi3Ul7s=
+
+Name: assets/test/res_single/tech_nation_icon_3.png
+SHA1-Digest: LRVFSktaJFow0oWP/8aEQuulP2A=
+
+Name: assets/test/res_single/chuzhentishi_0001.png
+SHA1-Digest: 0h+gzC2g16v+jOpdGW8rqdE436w=
+
+Name: assets/gameResources/army/juntuan_big_40.png
+SHA1-Digest: Db+vNXxKRa1y4DaQXjio3ac995M=
+
+Name: assets/game/union/unionOfficialDismiss.lua
+SHA1-Digest: ytsEMxbLpn3rDmEmt2aX4+A2eAs=
+
+Name: assets/test/res_single/dadituchusheng_11.png
+SHA1-Digest: Q1wInvIGNZZAtqbrNnlY2Uc8FU0=
+
+Name: assets/test/res_future_add/guojia_jishu_01.png
+SHA1-Digest: Xv4hZkG4Mr2A1XdFn+5eN3RWOjc=
+
+Name: assets/test/res_single/updating_tips_3.png
+SHA1-Digest: iy3tWPfSD8LTEJydb17t41176gw=
+
+Name: assets/game/dbData/cfg/Tb_cfg_build_effect.lua
+SHA1-Digest: P9qazlOmWCLPpWbKMlVCpnS3n6I=
+
+Name: assets/test/res_future_add/jianzhu_lv.png
+SHA1-Digest: Pxtk+9L0evRl+wUH9ysrVDHv+wM=
+
+Name: assets/gameResources/card/card_100008.png
+SHA1-Digest: TzT98kq+hFi6Sj6TA9xp2Hbryqo=
+
+Name: assets/test/guideResUI.json
+SHA1-Digest: rwvCpAPtUO35wkag/Vuzh5wXlHk=
+
+Name: assets/ucgamesdk/config/bottom_menu.json
+SHA1-Digest: pXTE0IM1j5a5tV4Elk1/DX4DWSk=
+
+Name: assets/Export/juntuan_small_40.plist
+SHA1-Digest: ukTldNur7xvcdLrIcENHVMINcbk=
+
+Name: assets/test/res_single/junzhu_diji_01.png
+SHA1-Digest: r5WLlfY74A5aXiK3NZzV5dEtjls=
+
+Name: assets/Export/battle/tiaoxin10.png
+SHA1-Digest: vtdZvZOFhNcRuS7B56j7kkCOg9A=
+
+Name: assets/game/notificationLayer/loadingLayer.lua
+SHA1-Digest: m0BAbWvZ9cOLfmWFICqTrtyCn/E=
+
+Name: assets/game/world_process/speRewardTipsManager.lua
+SHA1-Digest: 3YkRRTC7fb8OHGTwjNs+a3p9jW0=
+
+Name: assets/ucgamesdk/config/uc_systemConfig.json
+SHA1-Digest: Ua3+HeYk5SAzdPd9qmIyryZ+GVo=
+
+Name: assets/test/keji_bei_jintiao_2.json
+SHA1-Digest: D9NrPwboLOalC1Y21NQ4sGdLqwM=
+
+Name: assets/game/map/mapArmyWarStatus.lua
+SHA1-Digest: dU4nMPHPk3hl03qmsuTUWpsenXw=
+
+Name: assets/game/guide/shareGuide/guideShowShare.lua
+SHA1-Digest: OQTlWVnaxDlhOfkOpLEAYubGt4Q=
+
+Name: assets/Export/battle/jinengmingblue.ExportJson
+SHA1-Digest: hqBvdMsmo55Qb3KfRyumEOfEY54=
+
+Name: assets/test/zbQueueDesUI.json
+SHA1-Digest: iwubie852w1V3sFFkVDeR0Z3QBc=
+
+Name: assets/game/buildScene/buildingExpand.lua
+SHA1-Digest: TcesrnUznhjD5+NO2kmhubVKdyQ=
+
+Name: assets/Export/battle/pingju.ExportJson
+SHA1-Digest: DbcVgB6ZKqfqGYX/D/g9L6EHeY0=
+
+Name: assets/game/option/mainScreenNotification.lua
+SHA1-Digest: SRgAENjMlqC5h11rHIE4rh2jJL0=
+
+Name: assets/game/map/mapMessageUI.lua
+SHA1-Digest: /gVWhomSEP6w65aaTTOe5AQVZFg=
+
+Name: assets/game/union/unionRebelUI.lua
+SHA1-Digest: GDabeT0bB3JNKmVq76lnAsTFVss=
+
+Name: assets/game/dbData/cfg/Tb_cfg_army_count.lua
+SHA1-Digest: 8NKdYR0hdzocmR+E7Mbu8N2mRnY=
+
+Name: assets/test/res_single/feiqiangzhi_fangqutudi_tu.png
+SHA1-Digest: FgjsiOgTU+uXsXV2xhBjGCWdki4=
+
+Name: assets/Export/battle/dianran1.ExportJson
+SHA1-Digest: tufOqrvxmEKC6RWjII5si0Cyos0=
+
+Name: assets/test/scjlSetUI.json
+SHA1-Digest: plJplzxbja6o8JoYumRVXGg2Mtk=
+
+Name: assets/test/role_forces_base.json
+SHA1-Digest: Tl08IGQKpxPnSpOwr3adVsOWXwo=
+
+Name: assets/test/new_report_interface_union.json
+SHA1-Digest: 3NHbDAwXR2EgoXKAjALr8/zuPBQ=
+
+Name: assets/test/res_single/card_extract/img_hebeitingzhu.png
+SHA1-Digest: pGLVsMdiggiY2xVjeMwtjXr3jFg=
+
+Name: assets/gameResources/army/juntuan_small_4.png
+SHA1-Digest: oKf2Wnqd0AS8PSvUKqECtEchg6o=
+
+Name: assets/Export/gongcheng_texiao1.plist
+SHA1-Digest: uzJBJZ61ZSDLz1kZU8aXFbIIE3c=
+
+Name: assets/test/new_overview_screen_1.json
+SHA1-Digest: lW6DpGX2fZsNT7lMNXBkbqo+Owg=
+
+Name: assets/Export/battle/14_jianxuexiaoguo.ExportJson
+SHA1-Digest: eQxFC7PFGfGLAO17EuYJU/vE8Ws=
+
+Name: assets/test/cardOverviewUI.json
+SHA1-Digest: 7LQ7csoE19zq9dk5n4/gJmvyohw=
+
+Name: assets/test/Alliance_invited_cell_1.json
+SHA1-Digest: 6ewZhJeT2sf3F+Q02jVTR+Xxj24=
+
+Name: assets/test/res_single/card_extract/img_wuziliangjiang.png
+SHA1-Digest: YBwkvsPFhDJKE8i4m7KgIszVKEw=
+
+Name: assets/Export/flag_small.ExportJson
+SHA1-Digest: F5k4uEhDt+bBJM+j73LwgDhMErM=
+
+Name: assets/Export/juntuan_small_40.png
+SHA1-Digest: 1BZExefZxCpdVnJLpM99/Y6nO5c=
+
+Name: assets/test/res_single/tech_nation_icon_109.png
+SHA1-Digest: rhTp5rb6ckjYQVmaAJ3vlEAlxgs=
+
+Name: assets/game/dbData/cfg/Tb_cfg_hero_type_effect.lua
+SHA1-Digest: 5itrELfww+/uwivmSswoPCX665E=
+
+Name: assets/test/res_future_add/guohao_20.png
+SHA1-Digest: l+xEzXpbv9NXmNO38VQzBQHDntA=
+
+Name: assets/game/dbData/cfg/Tb_cfg_village.lua
+SHA1-Digest: fVEgA3vtkF7jAlnwBtSCjW72PHI=
+
+Name: assets/game/union/unionOfficialAuthorityCheck.lua
+SHA1-Digest: OUmey6XHsRRqBZWF1VncFy1AgQs=
+
+Name: assets/test/guojia_qiandu_3.json
+SHA1-Digest: TKI9f7Vhpv8JzJrad8qliKht/7M=
+
+Name: assets/test/legionOverviewUI.json
+SHA1-Digest: uhmCkfPI3W81Yv48ZE3UtHwLzZk=
+
+Name: assets/Export/battle/26_kapaitexie0.png
+SHA1-Digest: oY8UUATI1QjWKLb5e91JOwsHPTs=
+
+Name: assets/test/new_report_interface.json
+SHA1-Digest: I//ucaQ2J6weH5/PTjNs0ZLUDfo=
+
+Name: assets/game/battle/warReportUnionSmallCell.lua
+SHA1-Digest: yHZxWzePdXPdkj9VF18a7xKVt4E=
+
+Name: assets/test/zhanbao_mid.json
+SHA1-Digest: XICCmIFrqhDh8MD1F1dHJGJ+vLE=
+
+Name: assets/game/battle/battleArmyPos.lua
+SHA1-Digest: eDwr0G9yCkX7M2e08e+SyNWI2XU=
+
+Name: assets/game/union/unionCreateNationConfigDetail.lua
+SHA1-Digest: v1PzKpNz/Upj5K94x89HiY4Etq8=
+
+Name: assets/game/dbData/commonData.lua
+SHA1-Digest: 18BUsWTGTePPU1peHvS/eYyWUnU=
+
+Name: assets/game/dbData/cfg/Tb_cfg_army_title.lua
+SHA1-Digest: ZMSRwiOjaRBcPJ36DtNsAKyHa/A=
+
+Name: assets/game/legion/legionWholeManager.lua
+SHA1-Digest: aGBJgyX7Mp3QEBrrIuPvQgc2WjY=
+
+Name: assets/Export/zhaomu_huanrao_diji0.plist
+SHA1-Digest: 1i3PIhs2d5ZHE4JMsmaPUZXino4=
+
+Name: assets/test/zhanbao_01.json
+SHA1-Digest: kSq6CU/EWKZUUJvEfKGNVqHyt+s=
+
+Name: assets/test/res_future_add/liaowangta_002.png
+SHA1-Digest: ECJGF8Vb9KCbQVe48jOGK6aBCjI=
+
+Name: assets/test/ui_chat_cell.json
+SHA1-Digest: yw5AF4QOG06F7oKYcWBeRQIZgWA=
+
+Name: assets/Export/btn_effect_shuishou0.png
+SHA1-Digest: fyzawQCdWsh5t0RLlmPvipNScmc=
+
+Name: assets/test/res_single/card_extract/img_jvebangeju.png
+SHA1-Digest: pixJg0ubwzTDD5YfCG6zSRcFGpA=
+
+Name: assets/game/dbData/dbDataChange.lua
+SHA1-Digest: 21zqO9wkuTsqyak/pJ22vU8k53s=
+
+Name: assets/game/battle/reportData.lua
+SHA1-Digest: od84xs/z+3IhHCh5V/T/9gO8C8g=
+
+Name: assets/Export/battle/21_xixuexiaoguo0.plist
+SHA1-Digest: NwpFuX7PySZX4XirbY4kaXXdoQE=
+
+Name: assets/game/config/buildingEffectDefined.lua
+SHA1-Digest: GTcy9AmAwpkJyhyMee9iweT69sQ=
+
+Name: assets/game/union/unionMainUIHelper.lua
+SHA1-Digest: zzguMv8UBIyUCt0U/cWiKxPXhwc=
+
+Name: assets/Export/29_baoji0.png
+SHA1-Digest: dtKhhL7uST0CYUEQjk6b49Bv4kU=
+
+Name: assets/test/res_single/card_extract/hanchaohuangzu.png
+SHA1-Digest: 9HplkLzlPNPIi6FlDDwWtmWDMLo=
+
+Name: assets/game/army/armyExchange/armyExchangeManager.lua
+SHA1-Digest: HNRRqHG2YQp3JUqKLTn8YXjC+iA=
+
+Name: assets/test/res_single/12_daditu.png
+SHA1-Digest: GmwV+VNHHFVIl84Ld6i8UT4k+xA=
+
+Name: assets/game/userData/userCommonRequest.lua
+SHA1-Digest: gdfkX50VvEzpBKpXUie4G4AL8ww=
+
+Name: assets/test/res_future_add/qibing_66_tu.png
+SHA1-Digest: ZdKx+FeeELwWC9+N4Me1eLMT7fo=
+
+Name: assets/test/res_single/logo.png
+SHA1-Digest: udCXlP+xSkcZ0229hMn7tHhEHZE=
+
+Name: assets/test/res_single/yingxiong.png
+SHA1-Digest: m/M6MWsSVRh1wIfxa+AJzurBwfg=
+
+Name: assets/game/mapObject/groundEventDescribe.lua
+SHA1-Digest: IyUgPLssIKXKSHQ6u0Q8Qu1iuQw=
+
+Name: assets/game/mapObject/flagLandMark.lua
+SHA1-Digest: Ydeso4QGjzankwS+e429Xvn/dtI=
+
+Name: assets/game/main/netCmdBeforeGame.lua
+SHA1-Digest: 64t+y/ZkjcYREN4vWB0kGGQKYmo=
+
+Name: assets/Export/battle/yaoshu1.ExportJson
+SHA1-Digest: b7bpJqcTBtSbDn3kCgKYvUo4j+U=
+
+Name: assets/game/dbData/client_cfg/season_table_cfg_info_2.lua
+SHA1-Digest: /Lkc1040cwSeCoxhMfhAJ2doH98=
+
+Name: assets/Export/guojia_anniu0.png
+SHA1-Digest: sP7hqgDklDAzmCKpfjfvPb1lNMY=
+
+Name: assets/game/union/__deprecated__unionOfficialManagement.lua
+SHA1-Digest: ocWDi520UyUnLClDNy9551Abzf8=
+
+Name: assets/game/utils/time_util.lua
+SHA1-Digest: qq9iT6+IttF5KXFpZloYRZwOU7c=
+
+Name: assets/test/alliance_close_application.json
+SHA1-Digest: dSAPCdHZoS75jX65JU3jlJzG8Mc=
+
+Name: assets/fonts/Marker Felt.ttf
+SHA1-Digest: vFUnWlDQkc9zR4FPP59c8D/Ppyg=
+
+Name: assets/game/union/__deprecated__unionMemberUI.lua
+SHA1-Digest: TiJuyCkRbEDqrnmC8CmwQ2A/b64=
+
+Name: assets/test/nationTechDec.json
+SHA1-Digest: ONvIuTXflOjgWZ3WXFqtf2+dpDw=
+
+Name: assets/test/res/Main_UI_11.png
+SHA1-Digest: f8pmUISrC7Bg9qtZM9anIhMDHjc=
+
+Name: assets/test/Mail_program_interface.json
+SHA1-Digest: /Z/DrezlKqWL+jbvC+99HfufgIY=
+
+Name: assets/game/dbData/cfg/Tb_cfg_union_level_3.lua
+SHA1-Digest: 8YSjfqcxlTuAda+u91rzXvUrFCw=
+
+Name: assets/test/res_future_add/tongmeng_3_1.png
+SHA1-Digest: PN+NNJDdbj6buQ7v/jQqW+X5pUA=
+
+Name: assets/Export/battle/jinengmingred.ExportJson
+SHA1-Digest: rWBwZJhZTaeUZmWyraMk3u+jVUM=
+
+Name: assets/Export/gaojizhaomu2.png
+SHA1-Digest: I9B7OZmtWOhkDgXYnHOtAisf2oY=
+
+Name: assets/game/dbData/cfg/Tb_cfg_login_reward.lua
+SHA1-Digest: jKb+DLKBlUP9v93oMMhm5MeTfSc=
+
+Name: assets/Export/battle/normal_attack_2.ExportJson
+SHA1-Digest: 4CA8SHMgf/oZmO46yOYIcbAnELY=
+
+Name: assets/game/exercise/exerciseRecordEnemyManager.lua
+SHA1-Digest: TWpPAJAsjiuvaXSE6gECuYxsTqo=
+
+Name: assets/test/otherArmyUI.json
+SHA1-Digest: MaWjH3KG+SIAbXhrbTm2J0STEmY=
+
+Name: assets/game/daily/ui_daily_spring_festival_reward.lua
+SHA1-Digest: TNeCZCHjTAb30asBZJ2UNOpVfTU=
+
+Name: assets/game/union/changeNationCapital.lua
+SHA1-Digest: OQUpkUcrKRl4lKM5s23yOSeZLjA=
+
+Name: assets/game/login/login_user_center.lua
+SHA1-Digest: QBWy+N1LtAb0Zyat47xDgV7/cM0=
+
+Name: assets/game/union/nationLeaderGuardOperate.lua
+SHA1-Digest: WHQy0ZZ7pz8LNj0jav19WfZGsso=
+
+Name: assets/gameResources/army/xingjunbudui_10.png
+SHA1-Digest: BiFMNIfmtBRp/fqOnXoKqZIHhg8=
+
+Name: assets/test/res_single/card_extract/img_sanguoqi.png
+SHA1-Digest: 8eL216HZ1Y0Lq/2erm3HsfY1SkM=
+
+Name: assets/game/world_process/seasonGridManager.lua
+SHA1-Digest: aUjJ1VdnMo3gipytDViCwounwdE=
+
+Name: assets/Export/bird/bird.plist
+SHA1-Digest: K4++m4mHLowWmBwmQ+cRp7x94jo=
+
+Name: assets/game/update/userDefault.lua
+SHA1-Digest: eswHL6KxY+zEN5vwhQbyIDshatc=
+
+Name: assets/game/union/quitNationConfirm.lua
+SHA1-Digest: U7NDjbyXwX86ADdhXDCw8/4/tiA=
+
+Name: assets/test/res_single/wofangshilifenbu_002.png
+SHA1-Digest: TIrCtJgRDn9jz3tv5uSheLeVSpA=
+
+Name: assets/test/res_single/card_extract/img_qunxionggongbu.png
+SHA1-Digest: Hm9TAiBxgRR5Lx3NaLFgvIbaVfk=
+
+Name: assets/Export/xinshou_jingyanshu0.plist
+SHA1-Digest: oCQ3su90e9hHU65mfsdlvZWonuE=
+
+Name: assets/game/dbData/cfg/Tb_cfg_army_count_3.lua
+SHA1-Digest: UbVLHEA+/5eO2mNMl9fayumt1ho=
+
+Name: assets/game/guide/newGuide/guideStartAnim.lua
+SHA1-Digest: 6ND5In9Y2oq+78sAtzTRuewLLGE=
+
+Name: assets/Export/juntuanzhandou.plist
+SHA1-Digest: 2+EYgwiRDJBBwMsioKC59ZcN+JE=
+
+Name: assets/Export/battle/tiaoxin20.png
+SHA1-Digest: 9g98/K7SBZTEr/WUIHPnBhlRdeA=
+
+Name: assets/test/res_single/card_extract/img_hanjiang1.png
+SHA1-Digest: ZvsrYl1R3sbjm43T6AvuNACgmz0=
+
+Name: assets/test/res_single/xinshoudiwen001_02.png
+SHA1-Digest: 7J8sK/PyBvCxXDoUC/Erc4oD7sI=
+
+Name: assets/test/ui_chat_main.json
+SHA1-Digest: qJv8QGpN55XHyFc4EJSS1whHW/8=
+
+Name: assets/test/res_single/card_extract/img_huangjinzhiluan.png
+SHA1-Digest: fwM8RmT9YA7Q3wCp5XBmXdF+1FI=
+
+Name: assets/gameResources/card/card_100470.png
+SHA1-Digest: lgyUTVNLGWhEx1BdLuRJd3y7pi8=
+
+Name: assets/game/dbData/cfg/Tb_cfg_skill.lua
+SHA1-Digest: 2X7i9H9WqH5FwwZBkxCA+UxN/IA=
+
+Name: assets/game/exercise/exerciseBaseManager.lua
+SHA1-Digest: yxQortCZ7+vTO4ejixg1iEkmizg=
+
+Name: assets/test/shapanyanwu_1.json
+SHA1-Digest: S2r9FhfWggzv4yWUVfvj4zVuXlU=
+
+Name: assets/game/cardDisplay/cardViewer.lua
+SHA1-Digest: DlqMJQklxnTPjTAGi/D67kiOS+A=
+
+Name: assets/gameResources/army/juntuan_big_10.plist
+SHA1-Digest: r7RP7alwRLi8CdeK2zTbjqYb+hE=
+
+Name: assets/game/utils/util_calendar.lua
+SHA1-Digest: DCY4xMkyl8rgShIvtDdTRfrfQ1E=
+
+Name: assets/game/cardDisplay/cardAddSoldier.lua
+SHA1-Digest: fF29XLE6mrHo2H0GF5fwN8xCqkk=
+
+Name: assets/Export/worldprocess/tianxia_texiao0.png
+SHA1-Digest: J/6Qh1HUlYJoHNBY6laF/22Pxrk=
+
+Name: assets/test/keji_tree_item_small_3.json
+SHA1-Digest: LsnK9bXDJhw4EoGDCYWoy67sIbQ=
+
+Name: assets/test/tongmeng_zaiye.json
+SHA1-Digest: 86b6U9q41XUMBJcAXb5plEZWZf0=
+
+Name: assets/test/res/Main_UI_12.plist
+SHA1-Digest: h9Gtbs40wW0ODdIFzuzRUWe/qAM=
+
+Name: assets/gameResources/army/juntuan_big_10.png
+SHA1-Digest: MxTYHH0EPEqH4lqzO3Ga4EJD9ZY=
+
+Name: assets/test/res_future_add/build_15.png
+SHA1-Digest: l+LWUlDn+bcfA3JDjapFqd9n730=
+
+Name: assets/test/res/Main_UI_3.plist
+SHA1-Digest: 61zBLUviijH/V94Bkm+fri8dFpk=
+
+Name: assets/ucgamesdk/so/mips/libsdk_ngutil.so
+SHA1-Digest: X62dmVMX9CNndHbU0ymxRMwa/QY=
+
+Name: assets/test/res_single/feiqiangzhi_lunxian_01.png
+SHA1-Digest: uMK4JlAAKC1m+rQNrI6cXWZ8RD8=
+
+Name: assets/game/mail/newMailData.lua
+SHA1-Digest: IEI0gP030gs/ejkAZqpoO/Hci1Q=
+
+Name: assets/test/cardFrameMiddle.json
+SHA1-Digest: dlc4ok3ghQr82GpJgchNvYiaFOw=
+
+Name: assets/test/dingwei_01.json
+SHA1-Digest: pEMOF6O5cqY42oM4Y2aP02FEgrU=
+
+Name: assets/test/res_single/card_extract/img_sanguo2.png
+SHA1-Digest: uySvajvPIeK8NWX7ovNaPh6oeYM=
+
+Name: assets/game/dbData/cfg/Tb_cfg_hero_rect.lua
+SHA1-Digest: /ZshZf9arW4bmMK49OFOMbJJwWo=
+
+Name: assets/ucgamesdk/config/display_mode.config
+SHA1-Digest: FM1esxkD+WFWw9G+eUs92L3y57I=
+
+Name: assets/Export/zhanfa_shengji0.plist
+SHA1-Digest: AIwWYeooEFHu6eyQ45dKw3u69J8=
+
+Name: assets/Export/zhaomu_chouka0.plist
+SHA1-Digest: 1jZQaxRe9VeKiEG3YGVgKvnA++o=
+
+Name: assets/game/dbData/cfg/Tb_cfg_exercise.lua
+SHA1-Digest: MC0FxPT/gzBI7C/lm6QtzgzBbbs=
+
+Name: assets/test/teamAdditionUI.json
+SHA1-Digest: MSzpMbh6kt4/Ms6XVD1nY8IpOuY=
+
+Name: assets/test/Mail_program_interface_0_0.json
+SHA1-Digest: lbIaYsxn+a3KI94ToMM2uwNolR8=
+
+Name: assets/game/dbData/cfg/Tb_cfg_hero_type_restrict.lua
+SHA1-Digest: NC6NavBjwbTLc/oklKzhhkLYevE=
+
+Name: assets/game/army/armyOpRequest.lua
+SHA1-Digest: pDcCN4X65NkDWQjOSU4R67sYfd0=
+
+Name: assets/test/end_game_panel.json
+SHA1-Digest: lwuZnwn6u+C9GOsrmayXRhr7e7o=
+
+Name: assets/test/addPointUI.json
+SHA1-Digest: ORUUoxG4V/B8c1zsxd2oNdxyvuM=
+
+Name: assets/test/shouzhanjiangl_1.json
+SHA1-Digest: pPW10zQFYB5f/KxlVL2uRRHC9TQ=
+
+Name: res/drawable-xhdpi-v4/unisdk_protocol_logo.png
+SHA1-Digest: mczJa46RYLHyqNc6njMSRGkaZkA=
+
+Name: assets/game/option/blackNameListData.lua
+SHA1-Digest: TMcyD3RTCjV8+dDInbVbxCRuyB8=
+
+Name: assets/game/cardCall/cardCallListManager.lua
+SHA1-Digest: DyThzOoQA1/7FFKuufWVgQ+zp80=
+
+Name: assets/game/army/sjOverview/sjArmyPosManager.lua
+SHA1-Digest: oVkCxiRAWh0WPqumxQ/TX4/7UuU=
+
+Name: assets/test/res_future_add/guohao_27.png
+SHA1-Digest: 47Cwupl6wdBfH1me4xAQcA7M9YE=
+
+Name: res/drawable-xxhdpi-v4/icon.png
+SHA1-Digest: 89vcnpZ3RGPY9iFeK4ro2aIMpF8=
+
+Name: assets/game/login/serverOnMaintenance.lua
+SHA1-Digest: E7Jt2Dv/DSON/IZ5AgvejEOTOhE=
+
+Name: assets/test/res_future_add/gongbing_2_tu.png
+SHA1-Digest: pojryekAxKgzXK6q9+UZgUP8hKo=
+
+Name: assets/game/dbData/cfg/Tb_cfg_world_anchor.lua
+SHA1-Digest: f6pJYL4EamEBMr+sDsK/qzTW2IY=
+
+Name: assets/game/dbData/cfg/Tb_cfg_union_official.lua
+SHA1-Digest: XoEx5bUV0zYUK1AItRgUYNZZveo=
+
+Name: assets/game/dbData/cfg/Tb_cfg_union_level.lua
+SHA1-Digest: BoDr+Sk7EDTIw5rdNOed23lUrf8=
+
+Name: assets/game/login/ui_util.lua
+SHA1-Digest: NNEBNEgJZcwgAXoK+Uanhtqc/EI=
+
+Name: assets/game/dbData/client_cfg/game_log_cfg_info.lua
+SHA1-Digest: jDG/cDa7Hf5aYBOcTAS4kOKYHco=
+
+Name: assets/test/Alliance_members_cell.json
+SHA1-Digest: 0hwLuvqFzB4Fo43q+b/7ZsmAr8k=
+
+Name: assets/test/res_future_add/build_86.png
+SHA1-Digest: Bwlx53QQlXdtB00wk5IQyf/VD60=
+
+Name: assets/test/res_future_add/gongbing_22_tu.png
+SHA1-Digest: dEHaxcqO7xsRAQCoFA/sq5QOsLc=
+
+Name: assets/game/battle/battleAction.lua
+SHA1-Digest: u9xZ5QKEVKAmWgEhfhvPamTAwko=
+
+Name: assets/test/res_single/card_extract/shichangshi.png
+SHA1-Digest: O66yQyXkRX3Z8DrwiyiBW5TPDSM=
+
+Name: assets/game/skill/skill_overview.lua
+SHA1-Digest: x0xtVJOsNiVs66x21RmA27Cdb5w=
+
+Name: assets/game/map/mapNodeData.lua
+SHA1-Digest: NFLcjasLmuXKtrhRETAYkqxoFHY=
+
+Name: assets/Export/27_jinengxide.plist
+SHA1-Digest: hx1bCYdBvez2Y2UjgQj444Tjnmw=
+
+Name: assets/Export/bingzhongjieshuoxin0.png
+SHA1-Digest: FGdnv1429fgND4Uf0+b5zwbQiJM=
+
+Name: assets/game/mapObject/groundEventData.lua
+SHA1-Digest: F6j5c/rC4bbkAwwNvKYyLNt49mk=
+
+Name: assets/game/season_select_card/season_select_card_ui.lua
+SHA1-Digest: 2m44wNj3akT7q6fB4YPVmkwKqeE=
+
+Name: assets/ucgamesdk/config/business_setting.json
+SHA1-Digest: ULnZOhHJmEjF1wtfKA/YMH3jR/M=
+
+Name: assets/game/login/loadingLayer.lua
+SHA1-Digest: UvVw6mL/b/7IQV1XdDky++pbtfg=
+
+Name: assets/game/army/armyAdditionManager.lua
+SHA1-Digest: 0VBlNQ3N5f+yuI6wdOa7kipnzxM=
+
+Name: assets/test/res_single/yixin_tubiao.png
+SHA1-Digest: 0kk92Qr4XmOG1TxBFkldDUiXf80=
+
+Name: org/apache/http/client/version.properties
+SHA1-Digest: 0NYlTO7E+nd7IZGntJ2o3DhKywA=
+
+Name: assets/game/guide/newGuide/guideWaitingManager.lua
+SHA1-Digest: UjPCYfeRiGG7+hPQbHRjhI0d8gc=
+
+Name: assets/Export/jingjie_xingxing.ExportJson
+SHA1-Digest: CiYnPrJsm+pVgfHXfcbbpajhMw8=
+
+Name: assets/Cocos2d.lua
+SHA1-Digest: xnWznCOBFTZLtw/PICsMK+6O29w=
+
+Name: assets/gameSound/ui.fsb
+SHA1-Digest: 4nHoUZjpmxlouz6QmXzUkYz3GhE=
+
+Name: assets/game/map/cloudAnimation.lua
+SHA1-Digest: 7m65V7WhakOwg8Qu9pFwZgg5LIM=
+
+Name: assets/Export/kabao.ExportJson
+SHA1-Digest: loJ1awr6a6PDyDST3PEvJ7NbNvc=
+
+Name: assets/test/res_single/feiqiangzhi_zhanfa_tu_04.png
+SHA1-Digest: itZr2UcHENFXRXbeFLVWXUDyKCk=
+
+Name: assets/Export/35_renwu.ExportJson
+SHA1-Digest: ta0ndyVInmPIrmqoW2jqTBgiFv0=
+
+Name: assets/Export/battle/jinengmingblue0.plist
+SHA1-Digest: cfdY0E1z02XJYy9BArEjLJGZf+4=
+
+Name: assets/game/dbData/cfg/Tb_cfg_season_reward.lua
+SHA1-Digest: hEXkfZf7WVLyS2/3nT1AAqDsoWA=
+
+Name: assets/Export/battle/jinengmingred0.plist
+SHA1-Digest: q5K6lZUe9sR3HSY0CD76UBxk1LI=
+
+Name: assets/test/keji_tree_item_small_2.json
+SHA1-Digest: kVm71+EM7WUHzBB4TE8Pa+lCb0g=
+
+Name: assets/test/res_single/img_tmgcyyf.png
+SHA1-Digest: sFGzBpnei5LJQHxBEkglSh0k1RU=
+
+Name: assets/Export/battle/beitishen0.plist
+SHA1-Digest: oCE+WNLxQVSJDLS5AVQidM9cROM=
+
+Name: assets/game/option/inner_main_tools.lua
+SHA1-Digest: m8hLdeZsewDqPkrpYUrCe3l+AzU=
+
+Name: assets/Export/zhanfa_jiesuo0.png
+SHA1-Digest: Hl8+TWF9nY9Qn68Zkxzeu6/Xc9M=
+
+Name: assets/game/dbData/cfg/Tb_cfg_hero.lua
+SHA1-Digest: IfPXYjNDubc8TQWSvraSNT+Dmdk=
+
+Name: assets/gameResources/map/minimap_country.png
+SHA1-Digest: 2ZmNZexmtSVFmhtBIy410jj+5rs=
+
+Name: assets/game/roleForces/ui_role_forces_detail.lua
+SHA1-Digest: YSOFNSScSvfQM/nFrdgK41us+PI=
+
+Name: assets/gameResources/battle/battle_dir_1_2.plist
+SHA1-Digest: pnY0XNEo4+wHNJKlDqhpR2wZzpI=
+
+Name: assets/test/res_single/card_extract/img_taoyuanjieyi.png
+SHA1-Digest: jHDnSikTcoKVCfvoeYm9UTF+G8g=
+
+Name: assets/ucgamesdk/so/mips/libsdk_bspatch.so
+SHA1-Digest: GWbCkrpcMVRLhT3n32k8h22sWmg=
+
+Name: assets/game/ui_anim_effect/C_E_AssistAnim.lua
+SHA1-Digest: SA00UXthxNoLG7JkDWUNuX3ZXqM=
+
+Name: assets/Export/zhanfa_jiesuo0.plist
+SHA1-Digest: sazUFLG31YVmkXjw/S5yBeaDDZ4=
+
+Name: assets/game/help/gameSpriteQuestion.lua
+SHA1-Digest: AC/Ku++oedDDPiUYxbnoraEK74o=
+
+Name: assets/test/City_player_name.json
+SHA1-Digest: kCy5Nw2jR795PMpvJKQNnyX/pFI=
+
+Name: assets/ucgamesdk/so/armeabi-v7a/so.list
+SHA1-Digest: bIq2qyCFxrVg1z1J4w9J8pNrxPo=
+
+Name: assets/game/union/unionUIJudge.lua
+SHA1-Digest: eFiRqR/fyQfUZtHyinNly24vCwU=
+
+Name: assets/test/res_single/tongmeng_diji_01.png
+SHA1-Digest: OqoumWzyG+wPzGwnAcu7NQmON9E=
+
+Name: assets/game/cardDisplay/cardTeachInfo.lua
+SHA1-Digest: L3R3JxgFV8tu5LzRoEZ/xnFPlDY=
+
+Name: assets/game/dbData/client_cfg/new_guide_cfg_info.lua
+SHA1-Digest: s5d9ayW8FFLEiFD0kwKogt8Hkmw=
+
+Name: assets/game/union/changeNationCapitalOpConfirm.lua
+SHA1-Digest: 7X34NNiv88xg+Ok9abwqSA6wyC4=
+
+Name: assets/test/res_single/fc_tips.png
+SHA1-Digest: 9HSN/vwvsNZ5Z4vf+ycbt8bgaPE=
+
+Name: assets/game/download/downLoadCardData.lua
+SHA1-Digest: yFMnhOEbV/iPtgvyfjfWwHZS/2E=
+
+Name: assets/game/cardDisplay/zbQueueDesManager.lua
+SHA1-Digest: 9nBEAmry4YUewySrEUFR+dtO9uA=
+
+Name: assets/test/new_overview_screen_7.json
+SHA1-Digest: crR+aggwUcHYk1AOUs6RMD4YYNs=
+
+Name: assets/game/dbData/landData.lua
+SHA1-Digest: Q73bDuOIHd8F6aS1U/mgGueyPkU=
+
+Name: assets/game/union/__deprecated__unionCreateMainUI.lua
+SHA1-Digest: M1YKlBV/fLJymioBPTQsawbLqRs=
+
+Name: assets/test/jilve.json
+SHA1-Digest: vkhiqz1gpkFTjxksZ0/7AUtz5XU=
+
+Name: lib/armeabi/libfmodex.so
+SHA1-Digest: jmwo3nTXZaP37yS0gWwutsI2+FU=
+
+Name: assets/Export/juntuan_small_3.ExportJson
+SHA1-Digest: YIcAVW4dA5X3sJD97oppS2Q4fZU=
+
+Name: assets/test/res_single/Interface_background_map_j.png
+SHA1-Digest: iM7HwHbGmwm9aEuWh034ycBX0uE=
+
+Name: assets/test/armyCityCell.json
+SHA1-Digest: Lt45zcHe0qLWp4RuVcGHH2+TElc=
+
+Name: assets/gameResources/card/card_100104.png
+SHA1-Digest: BbGmGI9GiAn4t0+u+dPxzvAN6Qs=
+
+Name: assets/game/option/userOfficialMoveCitySelectCity.lua
+SHA1-Digest: 42XNzZhZyy4/PwcBUHioSJek2o4=
+
+Name: assets/game/guide/newGuide/simpleGuideTool.lua
+SHA1-Digest: Y+7jCbmS/C88RP3ZOYcspJ1CuMs=
+
+Name: assets/Export/battle/11_beishuixijinenggongji0.png
+SHA1-Digest: YuqNM0tYl93i6kQisxIAwWKQTx4=
+
+Name: assets/test/res_future_add/bubing_888_tu.png
+SHA1-Digest: avQVdnEvjq6b+tj5yRaSOfQi8z0=
+
+Name: assets/test/res_single/guangying_xin.png
+SHA1-Digest: 7MCthGP54j13lZh3XTj9OK1F0KU=
+
+Name: assets/game/union/unionCreateNationDuringCreating.lua
+SHA1-Digest: x06NP0UR8zsE7p8MxyMvUNrM2rc=
+
+Name: assets/Export/33_youjian.plist
+SHA1-Digest: 3qwM3P32bW7nzpuDZUhzYpnsXAI=
+
+Name: res/drawable/unigm_service_btn_selector.xml
+SHA1-Digest: olBd4ougfY8GfhyBRavNPmD0HrU=
+
+Name: assets/game/union/unionCreateNationIntro.lua
+SHA1-Digest: e3ZLikDpwUdNWBcuxrSYr4urdHE=
+
+Name: assets/test/res_single/zouyu.png
+SHA1-Digest: 4sdrkE5VrOQhAt30QpJD8qGPj2E=
+
+Name: res/layout/aboutdemo.xml
+SHA1-Digest: QgPZBnmivslxn0jAYKsX+cGFPMY=
+
+Name: assets/game/union/unionAnnouncement.lua
+SHA1-Digest: PJTptovGR97wbsGFFtWngUfhO4g=
+
+Name: assets/test/res_single/img_leijie_66.png
+SHA1-Digest: cpzHpifTM5fqtWisRaE2Jp5tN7w=
+
+Name: assets/game/dbData/cfg/Tb_cfg_hero_type.lua
+SHA1-Digest: Cz17Wxr8AwC5shc2Aboa5PydFNA=
+
+Name: assets/gameResources/map/cityComponent.png
+SHA1-Digest: MDtEvNozxzNxtWcJFpw5p6mw5dE=
+
+Name: assets/game/uiCommon/com_item_receive_effect.lua
+SHA1-Digest: x1QgCOw/ZmKD8IyxjFlCgiFc1sQ=
+
+Name: assets/test/res_future_add/guohao_25.png
+SHA1-Digest: WAWtjgwofNvXl80KdAvqTcZPEwk=
+
+Name: assets/game/union/unionMembersSubordinate.lua
+SHA1-Digest: BVZY/Bv8WGYf5DKFUW/iquTQgl0=
+
+Name: assets/test/res/card_number.png
+SHA1-Digest: X7R+akrmvhTNJYMx6xDJ658gUeE=
+
+Name: assets/test/res_single/fenxiang_faguang_diwen.png
+SHA1-Digest: y6mrE/7BEHgj1PH9lKHluLxOiCw=
+
+Name: assets/game/buildScene/ui_internal_affairs.lua
+SHA1-Digest: ELn6F6WIFgRRZymE3zQ4TMyNxWU=
+
+Name: assets/test/res_future_add/bubing_33_tu.png
+SHA1-Digest: 8euXbXEmfCdBgEiYKwf24IBuXqo=
+
+Name: assets/test/task_interface.json
+SHA1-Digest: Ri12xgbYe4wa58tsXUIomG7p2qw=
+
+Name: assets/test/res_single/card_extract/img_lvshishujun.png
+SHA1-Digest: nwi5QX48sqiveiwj5VZs5wkCt3E=
+
+Name: assets/test/wujiangchongzhi.json
+SHA1-Digest: cWT0aa7Lt+Q+DQXFa0uM6jN3cvY=
+
+Name: assets/game/dbData/cfg/Tb_cfg_card_extract.lua
+SHA1-Digest: z8Curf/JHTTATw5damDQ2diYit4=
+
+Name: assets/game/login/login_bulletin.lua
+SHA1-Digest: FFwbW4Uffre7OFqvgqldBenn/Ec=
+
+Name: assets/game/pushMsg/adForIOS.lua
+SHA1-Digest: 4yPoM6FdR80VEnXZ1aUlfhwCdhs=
+
+Name: assets/game/dbData/cfg/Tb_cfg_world_build_renown.lua
+SHA1-Digest: OjfuYpFQ0OQLvJc5elVQpvUhCJY=
+
+Name: assets/game/union/__deprecated__unionOfficialApplyOpen.lua
+SHA1-Digest: XT3BN2JC5BkxTLw51KvVVb7WkF0=
+
+Name: assets/test/res_future_add/bubing_3_tu.png
+SHA1-Digest: Mboag18lzlNA5qBqLqrhBipQELk=
+
+Name: assets/test/login_reward_cell.json
+SHA1-Digest: 8iCg/ma9UL5pMWQIxxmY+UL6/5A=
+
+Name: assets/test/jiangli_tips.json
+SHA1-Digest: AKg+vF0b/EP4fY9i59r0t5KBvi4=
+
+Name: assets/test/login_user_center.json
+SHA1-Digest: XMvWrTVrVQ+egigoIygAS3BB0vg=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: Omchuv2YXZZk8mCdXIhHyZ91w88=
+
+Name: assets/test/res_single/xinshou_op1.png
+SHA1-Digest: 4O8zS7iQUJbEmhoe2CkDo4ZnnyY=
+
+Name: assets/ucgamesdk/images/uc_delete.png
+SHA1-Digest: CPe+jvJcbEYLzK2q13o9kLFhrWo=
+
+Name: assets/Export/yufu_texiao.ExportJson
+SHA1-Digest: csGE1q0K74kshMI66AiRu4DtMo0=
+
+Name: assets/test/shapanyanwu_5.json
+SHA1-Digest: cYPyyiVEojm0ivYSkOt5Rsf0wYQ=
+
+Name: assets/ucgamesdk/ui/common/conf/tips_button_press.9.png
+SHA1-Digest: Jvv29coigfmA/lgTwEdC//1/rOE=
+
+Name: assets/ucgamesdk/images/uc_agreetick.png
+SHA1-Digest: yKMBlZQNs02Mbd3XcetuKOWsEyA=
+
+Name: assets/test/tongmengbiaoji_2.json
+SHA1-Digest: rrtTVBszKEQ5oFaxKOa2Wl6P210=
+
+Name: assets/test/sprite_question_item.json
+SHA1-Digest: Ocl/H8WvBRG6wGEP0H0i9QyL9Bs=
+
+Name: assets/game/config/stateData.lua
+SHA1-Digest: C8FmnLXNcwgXfrFUdn6WXMT3Y5w=
+
+Name: assets/game/encapsulation/action.lua
+SHA1-Digest: q6LL/0OAH9stmGlyuGswP7+VMHc=
+
+Name: assets/test/transaction.json
+SHA1-Digest: mtvaPXFctdAKBus5p2O1c8BocxE=
+
+Name: assets/game/cardCall/callResultAnimManager.lua
+SHA1-Digest: lwuCaCl4MI65AHjvaQlXW3PGUKQ=
+
+Name: assets/test/build_tree_item_small_2.json
+SHA1-Digest: FdCNdKe9Z0jEwSi2OOjZ0uT59+A=
+
+Name: assets/test/res_single/qq_tubiao.png
+SHA1-Digest: 2nE6Tj9Xwx6/jXZF5EKIB+qla1o=
+
+Name: assets/test/res_single/card_extract/img_libingmoma.png
+SHA1-Digest: TWdxuioDnG47or48SQ76HaX0lXc=
+
+Name: assets/Export/battle/03_jinengshiyong0.plist
+SHA1-Digest: dHHQkAp0FsP+uk+wc7opHSSzKn8=
+
+Name: assets/test/res/Login_common.png
+SHA1-Digest: WMGwfR+hWy0zC2hZlV3s8Sprqf4=
+
+Name: assets/test/res_single/tech_nation_icon_104.png
+SHA1-Digest: XRh2wRkLXbw3AUGGPhxFakTdjVA=
+
+Name: assets/Export/juntuan_small_20.png
+SHA1-Digest: b49W9RLSzHnfU2gay4wmNeImBxE=
+
+Name: assets/game/cardCall/quickCallManager.lua
+SHA1-Digest: Mu/v0Y6oUawvO+pLRd1IOE89Efk=
+
+Name: assets/Export/xinshou_smoke.ExportJson
+SHA1-Digest: UowiQaUGWCUqjvRN1dtrAn3lSXY=
+
+Name: assets/gameResources/army/juntuan_small_2.png
+SHA1-Digest: UwZHMX5/T8FnvZXeUAnt38bwljc=
+
+Name: assets/test/res_future_add/guohao_7.png
+SHA1-Digest: l58hhn9iVGXBXNx0BKFUo90gCBM=
+
+Name: assets/gameResources/card/card_100028.png
+SHA1-Digest: 95XR/sKL30KMPQtMEnUMGuxB9mk=
+
+Name: assets/test/shijiejindu_8.json
+SHA1-Digest: 14hrj4R2FKJqhTpX+nhsEf5UtGg=
+
+Name: assets/CCBReaderLoad.lua
+SHA1-Digest: 5czkhoJo3DV4vQoRXw67ctPkdw8=
+
+Name: assets/test/new_overview_screen_4.json
+SHA1-Digest: mQATgzb+KN3SL35nNdsHYwTjCIU=
+
+Name: assets/game/cardDisplay/cardOpRequest.lua
+SHA1-Digest: Zq1HgRgNUCq3jo5aHKeu1GcbC7k=
+
+Name: assets/Export/xinshou/xinshou_zhiyinguanquan0.png
+SHA1-Digest: iluOO0GRKyF8/LuViehGMnISUiI=
+
+Name: assets/game/army/armyMove/legionMoveManager.lua
+SHA1-Digest: 6sTivLRGHiDG+3QYEdd1x7/zEqE=
+
+Name: assets/test/res_single/dadituchusheng_12.png
+SHA1-Digest: y467Z1f12ndQj3qtfPdn7zBUwWQ=
+
+Name: assets/game/dbData/cfg/Tb_cfg_task.lua
+SHA1-Digest: YII4ucsQghHT564aKJKCtZ12q7g=
+
+Name: assets/game/army/armyMove/jilveManager.lua
+SHA1-Digest: 7eqZeEsvU9KmHeupVPlNzGp/cBk=
+
+Name: assets/game/army/armyMove/armyLineupManager.lua
+SHA1-Digest: 0ZWiD69AYwxxAtqtl0cFZqEIghI=
+
+Name: assets/Export/battle/qibing_attack0.plist
+SHA1-Digest: 98MAev54VZyrEyrw0uIX23G+EBY=
+
+Name: assets/test/res_future_add/guohao_21.png
+SHA1-Digest: KwD0Ze+jOtCnguR1OAFL4/DRT7c=
+
+Name: assets/test/res_single/tech_nation_icon_4.png
+SHA1-Digest: 9lkWFCKo+BdXkyUSKnuxCylzizQ=
+
+Name: assets/game/roleForces/ui_role_forces_res.lua
+SHA1-Digest: ZePTkWMXWsyuTLW/4CGEwqGgIQ0=
+
+Name: assets/test/res_single/zhujiemian_ditu_zuixin_zhiyuan.png
+SHA1-Digest: /IK7B1Osgn1vVcTKHgSQED66DHA=
+
+Name: assets/game/union/unionOfficialQuit.lua
+SHA1-Digest: eiH5SpVX4yxMGvu+eQtRtF/P5Ds=
+
+Name: assets/test/jinengxiangqing_1.json
+SHA1-Digest: kYEqykZ8R8cwGzYOJnfbd4tJoFI=
+
+Name: assets/Export/xinshou_zhuhuo.ExportJson
+SHA1-Digest: 5XrWr3B1nRVQRKoSO3QF9oD92wE=
+
+Name: assets/game/cardDisplay/cardHeroGrowDetail.lua
+SHA1-Digest: q+ZpRul9ELvkPJS7UY4TqFs8YZ4=
+
+Name: assets/test/res_single/6_daditu.png
+SHA1-Digest: zy1LVsyZBdKBU76r6VGVZLrXuOw=
+
+Name: assets/game/help/gameSpriteHistory.lua
+SHA1-Digest: whh35/Z+tJ60GXdtHPrSLlX6rtU=
+
+Name: assets/Export/battle/huoyan20.png
+SHA1-Digest: dHww6EJGXlLB4Dx9xnbHc8hAddE=
+
+Name: assets/test/res_single/xinshou_jiaoyingyd.png
+SHA1-Digest: fF6zdN+OT4+SQaXpInQZr2BtfgI=
+
+Name: assets/game/dbData/cfg/Tb_cfg_skill_research.lua
+SHA1-Digest: xkEjnVwQ6LO0DX2rIRmCF/osLBs=
+
+Name: ReadMe.txt
+SHA1-Digest: 6kestx+G+6XWUmYKSVk7AF6m8vs=
+
+Name: assets/test/appointment_of_chief_q.json
+SHA1-Digest: dboxGwSS6xONoeKrgNxBSL6Iua8=
+
+Name: assets/test/huodongxin.json
+SHA1-Digest: 5oTLg1AoYiYXWzpxn9853deaHsI=
+
+Name: assets/game/dbData/cfg/Tb_cfg_build.lua
+SHA1-Digest: 6dWFhpZhQ/nvmnt+iM1aYT3YD5M=
+
+Name: assets/Export/juntuan_small_41.png
+SHA1-Digest: 10AuEtzs9TmpDK02UDJNWSS8PIQ=
+
+Name: assets/game/guide/newGuide/guideExpAnim.lua
+SHA1-Digest: TghIj1WsJSF1U85lZNOV8iBjTZI=
+
+Name: assets/Export/xinshou_smoke0.png
+SHA1-Digest: SQC9Y6vfEPEa00K0s9xxiRUXkvE=
+
+Name: assets/gameResources/map/component_outside.plist
+SHA1-Digest: 5YufUelDFR8X8lnG43a6ueRCCcQ=
+
+Name: assets/test/res_single/13_daditu.png
+SHA1-Digest: QC4OW+lVLxKNS9UduAeRkzA0XkY=
+
+Name: assets/game/chat/chat_util.lua
+SHA1-Digest: 3snDN8CxAhyk1u7FyekMq6iex3E=
+
+Name: assets/Export/battle/bubing_attack0.plist
+SHA1-Digest: CM1CJ20OHFjIV/80t9UpSDuXws0=
+
+Name: assets/game/option/miniMapManager.lua
+SHA1-Digest: m7KlkLMiOo1iue8WjZUy4DRv+W8=
+
+Name: assets/test/jinengxiangqing_5.json
+SHA1-Digest: 3YG8yeqEzukYlBdaGF9ScNqEStY=
+
+Name: assets/Export/btn_effect_shuishou.ExportJson
+SHA1-Digest: EdBMJ8YsNKlBW6MfwWVfptM6Ylg=
+
+Name: assets/test/res_future_add/gongbing_4_tu.png
+SHA1-Digest: lWRPdSMBv80fhAopiT7UfkMZUGk=
+
+Name: assets/game/daily/ui_reward_detail.lua
+SHA1-Digest: tjZGRirR89b+qgDo8xLVkD7kXt8=
+
+Name: assets/game/encapsulation/middleCardManager.lua
+SHA1-Digest: C7Y+zcKtdEEDFo6FuAepvo9TqwA=
+
+Name: assets/test/Alliance_invited.json
+SHA1-Digest: ukww1bIAdRIL/J1tFd8VGZkNVbI=
+
+Name: assets/Export/battle/tiaoxin20.plist
+SHA1-Digest: etYecPBr9Pi0x59Cx9YuQqE7Oc8=
+
+Name: assets/Export/bingzhongjieshuoxin0.plist
+SHA1-Digest: 4DpNQjsFxApD0D29q+pQ+kX9duI=
+
+Name: assets/game/encapsulation/richTextTouchNode.lua
+SHA1-Digest: umuy/wmvioT5PsEnTPJrxWLAmPQ=
+
+Name: assets/game/chat/ui_chat_defriend.lua
+SHA1-Digest: uj7JEwwCpAJJIcISg2FXtfu+w1c=
+
+Name: assets/Export/battle/dianran10.png
+SHA1-Digest: J5yCQgHDVxVqGuPA3PsPEij0hpw=
+
+Name: assets/test/res_future_add/guohao_17.png
+SHA1-Digest: /U/HB6Y64xn3YaI8FpcPFCEbZP8=
+
+Name: assets/test/res_single/kapaibeimian_texiao_01.png
+SHA1-Digest: dSnZIDdGeEzRCaEKdeAYvxsEhkU=
+
+Name: assets/Export/battle/leidian10.plist
+SHA1-Digest: uoOYR8MnM7+Et02u7UYbNRY6+9A=
+
+Name: assets/game/battle/battleFormationDefined.lua
+SHA1-Digest: 6c/y/dAYK7vbSehdq1esN+Kj5HA=
+
+Name: assets/Export/battle/14_jianxuexiaoguo0.plist
+SHA1-Digest: Y0TTth69nwXoFqtqkVQHAcO/2Wc=
+
+Name: assets/game/world_process/seasonDesManager.lua
+SHA1-Digest: rV3OtugRKRV11g8NDsa4T5iui9I=
+
+Name: assets/test/res_future_add/diban_keji_02.png
+SHA1-Digest: gsajagbQqF6NqeMd6DHGvpGxwFA=
+
+Name: assets/game/cardDisplay/cardWashPointConfirm.lua
+SHA1-Digest: uZVdNRezTm+G0w8fC+o0u4Y0x4g=
+
+Name: assets/test/res_future_add/shigongsuo.png
+SHA1-Digest: tGWdcV8mB9Rgb0HGmDWFZmYkz8g=
+
+Name: assets/game/skill/skill_detail_helper.lua
+SHA1-Digest: orHTvAmKEHPkIX9WaGN4x/hrXLs=
+
+Name: assets/test/res_single/img_sdjhd.png
+SHA1-Digest: d47xewKckqd/b6VKT+T7Vkw9SeY=
+
+Name: assets/game/dbData/client_cfg/season_table_cfg_info.lua
+SHA1-Digest: S/OoHlNJ3Ev/MB82ys33yDZEjhQ=
+
+Name: assets/test/tongmengbiaoji_4.json
+SHA1-Digest: OrgT4wSB26SkyXHBBB5kZnZ73Xs=
+
+Name: assets/test/goojia_qiandu_2.json
+SHA1-Digest: +lXDdDrhW//Ws57H5pN0jDMqdoo=
+
+Name: assets/game/daily/ui_daily_charge_sixty_six.lua
+SHA1-Digest: TafYNoEjUSKLAmS8s0QbPbZ20ak=
+
+Name: assets/AudioEngine.lua
+SHA1-Digest: FXiWyNuljcDIaL5LDKLDftxBQlQ=
+
+Name: assets/test/guojia_tuichu.json
+SHA1-Digest: v4KnWMdCsd5eCREivVHNwxjbstY=
+
+Name: assets/test/res_future_add/guohao_12.png
+SHA1-Digest: F0aJd0UE7zGWR2HnEPwI/b/1hw4=
+
+Name: assets/game/union/unionJoin.lua
+SHA1-Digest: 3aWBfrMbGxLJ4gwPbpu7k/EOhwQ=
+
+Name: assets/Export/chumo_1.ExportJson
+SHA1-Digest: bvT6qx34ZF+0tPWXNcYw6/lDLOA=
+
+Name: assets/game/union/unionLogManager.lua
+SHA1-Digest: 7W68F34hPivw+NdhzaxC8yxCkzI=
+
+Name: assets/test/res_single/card_extract/img_wujiang_zi_4.png
+SHA1-Digest: 2rDZomLdSbzCJG8tjZz9YIT3c9k=
+
+Name: assets/test/landselected_1.json
+SHA1-Digest: EWduVgitcLV2XAQinUfM8XDhWY4=
+
+Name: lib/armeabi/libavformat-56.so
+SHA1-Digest: bm4NdVzUptZWDxwPyyYA1T9nO1Y=
+
+Name: assets/game/cardDisplay/redifCarryManager.lua
+SHA1-Digest: gLJeO3UQr3oVlkmrcM8wL9KxP84=
+
+Name: assets/game/army/armyCityOverview/armyWholeManager.lua
+SHA1-Digest: S9kqc0xWshwap8ndDODN16ilmZY=
+
+Name: assets/test/res_single/Small_map_new.png
+SHA1-Digest: 3sL9RefcK8D40A+WosvVxiySF94=
+
+Name: assets/test/res_future_add/guohao_2.png
+SHA1-Digest: WPTnaJWBTfufa+TMAoelAgjEODA=
+
+Name: assets/test/res_single/img_hyzm.png
+SHA1-Digest: QelqG/5l6x6RaDpa5IVae4q4Lv4=
+
+Name: assets/test/login_loading_bar.json
+SHA1-Digest: 2a5Byx2l0qymyg2DpptxWTBamLs=
+
+Name: assets/game/skill/skill_operate.lua
+SHA1-Digest: VDoWb7Y39T75e+0yXuqG5JYHAQk=
+
+Name: assets/test/kejibeijing.json
+SHA1-Digest: eLb5SdrR7orePL9Nw4byylHMeJo=
+
+Name: assets/test/res_single/dianjikaishi_youxi_ziti.png
+SHA1-Digest: BkaM27NfM1/5sclYCY+q+JCwDb4=
+
+Name: assets/test/res_single/wuguang_ren.png
+SHA1-Digest: 2/y5MGbYoHi04SuJtwHadcDLcKM=
+
+Name: assets/game/mail/receiverChooseUI.lua
+SHA1-Digest: ix0UyAgacnKaRiE2QUZbrV8t1Hw=
+
+Name: assets/game/map/map_jump.lua
+SHA1-Digest: MX19Z6KFJx3tbNHixiAi4M5dm9I=
+
+Name: assets/test/res_future_add/anniu1_1.png
+SHA1-Digest: 4n/NvUvUFGd4sJlAFgvNd6jOV2w=
+
+Name: assets/test/login_enter_game.json
+SHA1-Digest: BPVTXCXpwd7537BL96Dujkv4HEs=
+
+Name: assets/ucgamesdk/config/init_rexproj.xml
+SHA1-Digest: /2Y4tpQ0i11mAC8ucXZk03A82p0=
+
+Name: assets/gameResources/army/juntuan_big_20.plist
+SHA1-Digest: borvJHnaUDI1RvlqNflxFTCmFDk=
+
+Name: assets/Export/yanhua0.plist
+SHA1-Digest: QhOBA+UdoD4eqAdVL21H0F+Df7Q=
+
+Name: assets/test/res_future_add/qibing_2_tu.png
+SHA1-Digest: yTodINUr5p4NXFNvbNpLhBGMTrw=
+
+Name: assets/___bin_config.lua
+SHA1-Digest: McMTE2aBCFsvamJ0qpX+dB+tVOY=
+
+Name: assets/gameResources/map/additionCity.plist
+SHA1-Digest: MPF5cd7uf6PFyc0drxhoZ1V2OXg=
+
+Name: assets/game/technology/techOpRequest.lua
+SHA1-Digest: t5lKyvjtB08lmz0fa6mig4RuJxo=
+
+Name: assets/test/huodong_7.json
+SHA1-Digest: ceJF9sB7PCKnQ5n9Zwf5idrYSW4=
+
+Name: assets/Export/battle/dongyao2.ExportJson
+SHA1-Digest: WQZQBRmH2xc4P3iws1s/wwdvm2Y=
+
+Name: assets/test/res_single/card_extract/img_sezhihuo.png
+SHA1-Digest: +4sn8lXRluJa96t4Ry1GFoHoT90=
+
+Name: assets/game/map/land_detail_helper.lua
+SHA1-Digest: 34pUomTrk+klVHJPJC7dQEuFyVs=
+
+Name: assets/test/armySimplifyCell.json
+SHA1-Digest: 905FS4VNALLAxsFpsy2eVokDsxM=
+
+Name: assets/game/dbData/cfg/Tb_cfg_world_city.lua
+SHA1-Digest: kPfch23ZF+cOuNeHocrkBeXIIZg=
+
+Name: assets/game/buildScene/cityMsg.lua
+SHA1-Digest: 2jSiishI0q+ceg6DWNbHCgOYBpA=
+
+Name: assets/game/update/LUpdate.lua
+SHA1-Digest: wdzKeY2jbUbRa8zH/MHKbS7Tesw=
+
+Name: assets/test/res_single/tech_nation_icon_107.png
+SHA1-Digest: ZD0R/QmMYgVrblRzr4vysG2Izps=
+
+Name: assets/Export/chumo_1.png
+SHA1-Digest: DU/URD+5Qbf0yCMgX6iGZ8g7wPI=
+
+Name: assets/game/guide/newGuide/guideTargetAnim.lua
+SHA1-Digest: ifEKVpF+GMmFqjXbOR88qrfsTzo=
+
+Name: assets/Export/zhaomu_chouka.ExportJson
+SHA1-Digest: Q/jZLQuwFnSu5Ol9hodx+EjfiDs=
+
+Name: assets/game/utils/ui_res_define.lua
+SHA1-Digest: R81W/4UvOyvTw730IkbuUVX8Qoc=
+
+Name: assets/test/res_single/card_extract/weiwuqiangjiang.png
+SHA1-Digest: qpTsiHhZm0vAPs5lkLIbYtibMLA=
+
+Name: assets/test/res_future_add/shigongsuo_001.png
+SHA1-Digest: BArlBiorWAgKcFzdN1JHE9U3Na0=
+
+Name: assets/test/guojia_fuwei_1.json
+SHA1-Digest: wzsVrdkre/ZdALXlysIuBg+S7nM=
+
+Name: assets/test/res_single/The_main_interface_board.png
+SHA1-Digest: x88z/wD6U8GxQZtmu/DiIJ/v9CE=
+
+Name: assets/ucgamesdk/ui/common/jars/update.jar
+SHA1-Digest: lFc4B4hy4k7tAGqyy5TCJX9wN2E=
+
+Name: assets/test/youxibangzhu.json
+SHA1-Digest: RPPaJYk7XHJqhuZxaXUDtr0ZvFw=
+
+Name: assets/test/role_forces_res.json
+SHA1-Digest: ogdn7e9Ika6TGEc2ssfPK6Lj5R8=
+
+Name: assets/game/script_json/City_player_name.lua
+SHA1-Digest: +fJ1L4VgGq1WwZ/qrJB0eAeFyM0=
+
+Name: assets/test/res_single/card_extract/img_jvebanzhenfu.png
+SHA1-Digest: CaqEQr8OxU3mUtSE8RC3K1F68F0=
+
+Name: assets/ucgamesdk/so/arm64-v8a/libsdk_ngutil.so
+SHA1-Digest: 4n7rIIBgzBfC5h0F5f7XxaC1I4E=
+
+Name: assets/game/dbData/cfg/Tb_cfg_task_3.lua
+SHA1-Digest: BLq4gtxyU4MTdfVd0XyGCyc6zwk=
+
+Name: assets/test/res_single/Hidden_among_the_prompt_box.png
+SHA1-Digest: vn72knh0ZVIYll7TpcIeyMH4W2w=
+
+Name: assets/game/buildScene/buildTreeItem.lua
+SHA1-Digest: 1vqFFkIBY2ylYO2Ezps8tyJembo=
+
+Name: assets/test/callCardCell.json
+SHA1-Digest: +UFRswFGR/2oPxfNs19eTazmbdA=
+
+Name: assets/Export/xinshou_jingyanshu0.png
+SHA1-Digest: LJ5Z6SzFb0ZuZ6qXB9osidMjfhE=
+
+Name: assets/gameResources/army/xingjunbudui_10.plist
+SHA1-Digest: v8MqQQb/+Rs1cal4AP656iYZ0Tc=
+
+Name: assets/test/The_main_interface_of_announcement.json
+SHA1-Digest: h3TehxqWh3C0Kl30e6lCpiYBd20=
+
+Name: assets/test/res_future_add/yaoqing1_1.png
+SHA1-Digest: os4nQdkVwlmv5qcK2dn/3Ip5HPE=
+
+Name: assets/ucgamesdk/config/qqLoginWlist.ini
+SHA1-Digest: 9dngXFyXBhl37oyjZlaZmALMTHg=
+
+Name: res/drawable-xhdpi-v4/unigm_close_on.png
+SHA1-Digest: mPugDl58E/bBRuTnX9YO9Ct66WY=
+
+Name: assets/Export/xinshou_dingweiguanquan0.png
+SHA1-Digest: FFLxdbfzc/5V4g1K0+Cl2sUyvcA=
+
+Name: assets/Export/yanjiu.ExportJson
+SHA1-Digest: 7DQYzDbLIsiR0JByyCbb3Zyejyw=
+
+Name: assets/game/cardDisplay/cardAddPoint.lua
+SHA1-Digest: 2amGSuxZN2mbLfeMXFRMZcNsNkw=
+
+Name: assets/test/guideExpUI.json
+SHA1-Digest: VAwGQGnnZtyWILbQWLfkeCvqr5k=
+
+Name: assets/game/dbData/heroChangeManager.lua
+SHA1-Digest: sCiD85el/j4KXGineW9Yv8x+C4k=
+
+Name: assets/game/createRoleUI/inputNameLoginInfo.lua
+SHA1-Digest: Pu0dtz3UEXCJ/CiiP/DP4AFpXYw=
+
+Name: assets/game/encapsulation/timer.lua
+SHA1-Digest: yQTPxc88+kAhDeN2gjdb8y/Cbho=
+
+Name: assets/test/login_touch.json
+SHA1-Digest: d6vC5uMYO8OJe33iKTp0XT91H3I=
+
+Name: assets/game/mapObject/groundEvent.lua
+SHA1-Digest: e4UhKH2mNeqDeNUfBuInE+dD1Os=
+
+Name: assets/test/res_single/img_lxdllmj.png
+SHA1-Digest: 9pVbsxjSDjWGCsy6OYUPAcq+WBg=
+
+Name: assets/test/res_single/beijituditu.png
+SHA1-Digest: qwuLxrO1HSK7W+2Whcg/DGRqskk=
+
+Name: assets/test/res_single/weixin_pengyou_quan.png
+SHA1-Digest: xk9g+Fb/b72P/FN9hCQ4z2Q8kIk=
+
+Name: assets/test/res_single/3_daditu.png
+SHA1-Digest: XtGNoV9uhzUdK58MhUyRopyeTHQ=
+
+Name: assets/Export/bird/bird.ExportJson
+SHA1-Digest: 0qQm7vb9oitRbgpB7ufJCe5wBBQ=
+
+Name: assets/Export/27_jinengxide.ExportJson
+SHA1-Digest: yhFfZgCX2eDoj2hrIB7vqFZEjcs=
+
+Name: assets/game/option/newbie_protect_overdue.lua
+SHA1-Digest: GuQ4e30948nINjeAttO7SiOLJMM=
+
+Name: assets/test/res/Main_UI_20.png
+SHA1-Digest: Bcax8WaB/gWgrE2xVV04Kg4xItw=
+
+Name: res/layout/login.xml
+SHA1-Digest: hiuVJcH6pWsrifliSnnSMfWMwEg=
+
+Name: assets/game/buildScene/buildingExpandConfirm.lua
+SHA1-Digest: Hl2wwRfo5PfUQOhMu0aOFW6dp90=
+
+Name: assets/test/renmingguanli.json
+SHA1-Digest: 6ib9R/e7VzBZkWeIKHq1WxQH1Qw=
+
+Name: assets/test/Alliance_members_main.json
+SHA1-Digest: 6pTlIqe0TrJUpg0mj9mcAOKP/QY=
+
+Name: assets/test/Alliance_for_processing_cell.json
+SHA1-Digest: +BMnpqEMfl+qs3Kg/dz7VbRxQr4=
+
+Name: assets/test/res_single/sanzaidibiao_dibiaoshijian.png
+SHA1-Digest: qBZJ4vwF2ZRj7Y6nQ5QGCSPAuQM=
+
+Name: assets/test/res_single/minimapq_6.png
+SHA1-Digest: pV1ko34BqgPu0VaNyXgsFfgK7JI=
+
+Name: assets/test/miniMapUI.json
+SHA1-Digest: jWno5yLQEbJhIG5WnmC6u25kS0Q=
+
+Name: assets/game/help/gameSpriteMgr.lua
+SHA1-Digest: AJTK30pXIxxLrOvG/T+6lDsLdtQ=
+
+Name: assets/game/encapsulation/commonFunc.lua
+SHA1-Digest: Q01sv2DKkuzwFtAVApboyvIBbTQ=
+
+Name: assets/ntunisdk_common_data
+SHA1-Digest: 6YY6RBQ5hLk+jdamQLsZ90bERHs=
+
+Name: assets/Export/jinjie0.png
+SHA1-Digest: BhwWRsC2OgEaDyj1fZ9QvKaH7oQ=
+
+Name: assets/Export/battle/yaoshu2.ExportJson
+SHA1-Digest: zeoAdWUTQKdIS7ucI/6kHQyAI/Y=
+
+Name: assets/game/union/unionConstDef.lua
+SHA1-Digest: F+w22HRL0it+v9kNa2C/X6dq9ZY=
+
+Name: assets/game/map/mapGroupView.lua
+SHA1-Digest: xq/sDItx9Bje2H5MWIbSo9H2oh4=
+
+Name: assets/game/exercise/exerciseMapManager.lua
+SHA1-Digest: /rlq4xcfpgsZ0hd5Y/7k7JJQpiw=
+
+Name: assets/game/dbData/cfg/Tb_cfg_tech_user.lua
+SHA1-Digest: HcLEvxJ5J9LFYalHOitxHQ41Y88=
+
+Name: res/drawable/unigm_service_red_btn_selector.xml
+SHA1-Digest: S3M02QQ73pa6AO7mbCsqDd2QL78=
+
+Name: assets/test/res_future_add/chihouyingdi1.png
+SHA1-Digest: d8JRSm1D4urM5spFyWbOkL9c3D8=
+
+Name: assets/Export/zhaomu_huanrao_gaoji0.plist
+SHA1-Digest: NfilLlGWL/j5KQ9aG8/bVig0kQo=
+
+Name: assets/game/battle/battleAnimation.lua
+SHA1-Digest: Nj1lsS3bS+OSN5ZmCYwj7ZOjUBw=
+
+Name: assets/test/wenhaoshuoming.json
+SHA1-Digest: Sa3LboA1PHZaVeP/3VXq4Bpz010=
+
+Name: assets/test/res_single/card_extract/img_huangjinjiangling.png
+SHA1-Digest: gU575WOzFC/7WMo9TLY5BqwV654=
+
+Name: assets/game/map/map.lua
+SHA1-Digest: a5RTIvhy4PyjlihhMW55LdGeqD4=
+
+Name: assets/game/dbData/cfg/Tb_cfg_npc_add.lua
+SHA1-Digest: Ne8jFRdab+yI5NB/dT0HjzT4ze8=
+
+Name: assets/game/daily/ui_daily_forces_funds.lua
+SHA1-Digest: VG6KI1+yynloOiNjK3t2PBqQbFE=
+
+Name: assets/test/gongpinlibao.json
+SHA1-Digest: DLDt/iXHvQA4HfxAmndYG4md2sA=
+
+Name: assets/test/cardFrameSmall.json
+SHA1-Digest: ZrD5Vs72nyG4Y+031RbOg24kBBs=
+
+Name: assets/test/build_tree_item_small.json
+SHA1-Digest: YgzenowdCkaRFPM5vKgavnOQhic=
+
+Name: assets/test/alliance_government_subordinate_members.json
+SHA1-Digest: nIJQnX19uKdpN1IaWdrUFfQsJMU=
+
+Name: assets/test/res/Main_UI_17.plist
+SHA1-Digest: Ek2222OXMl3dGumlLUBYblGmr2k=
+
+Name: assets/test/guojia_qiandu_5.json
+SHA1-Digest: mJUbGy5fA2VXWTJwkE39KY9kWGU=
+
+Name: assets/Export/juntuan_small_2.ExportJson
+SHA1-Digest: mhvf+fuAT07ZilsnWgRatSBef/8=
+
+Name: assets/game/roleForces/ui_role_forces_main.lua
+SHA1-Digest: Crc3UeeCKsPBSSgYax5HwIvol58=
+
+Name: assets/game/share/platformShare.lua
+SHA1-Digest: GLf9Bu4XyVuRqVTGH5Sa7mQMYo8=
+
+Name: assets/Export/dijizhaomu2.plist
+SHA1-Digest: TA2AavhyWKSlPAqjlnywd+Kgt9U=
+
+Name: assets/game/exercise/exerciseFinishManager.lua
+SHA1-Digest: Lj1/R7KtXCG+8Z6Ei1w/3UxRRZA=
+
+Name: assets/Export/battle/gongbingshouji0.png
+SHA1-Digest: qEqWi+N6GBE1VuJFw+ByDcfxguc=
+
+Name: assets/test/role_forces_ranger_confirm.json
+SHA1-Digest: wDMy1kvGv4KT3ySmQINTOYDEdXY=
+
+Name: assets/test/scrollViewUI.json
+SHA1-Digest: GMLB0mFSfqIvXg4v6zMCjWz+1hs=
+
+Name: assets/test/res/Main_UI_1.plist
+SHA1-Digest: gk5QPHtJ77yTCXz2RtvI6ROMywY=
+
+Name: assets/test/res_single/card_extract/dingjunshan.png
+SHA1-Digest: EtfAF3OIEZ+WJO5PedWaGXf54Tg=
+
+Name: assets/game/union/unionCreateNationConfigTitle.lua
+SHA1-Digest: U7zeV1k71zcccYz9UuofBf+u0MY=
+
+Name: assets/test/fengxiang_url.json
+SHA1-Digest: LH+ngoeg84U+cr0a1+QPk0+QDY0=
+
+Name: assets/Export/yanhua0.png
+SHA1-Digest: reefbgCBUCyF2+JT589kiusz3lc=
+
+Name: assets/test/jianshou_bg.json
+SHA1-Digest: HRJR/5nBO21NegwMK8HY6MjG4uc=
+
+Name: assets/game/cardCall/cardCallAnimManager.lua
+SHA1-Digest: GscVmwUgLVSjqhVOHGJhmFPnhB0=
+
+Name: assets/gameSound/music.fsb
+SHA1-Digest: Xt7bQt1+SqoyqpoW5Caec1tgRmM=
+
+Name: assets/Export/battle/qibing_attack.ExportJson
+SHA1-Digest: xubchVNr0CLHE6fHf8zgrH/UnGw=
+
+Name: assets/test/Forces_the_details_new.json
+SHA1-Digest: jQyooBeAg+8KeXEJ8snTOvFqbHA=
+
+Name: assets/test/simpleTVUI.json
+SHA1-Digest: 8k9QOA563MyDqZhO0nf4N/4gn18=
+
+Name: assets/test/keji_tree_item_small_1.json
+SHA1-Digest: 88GRMzALInHMKRsz5ZQyrytZGSI=
+
+Name: assets/test/res_single/zhouming_001.png
+SHA1-Digest: jwEwE7NQ26J7IkFs+8s9cZfT0j8=
+
+Name: assets/test/alliance_government_stronghold_cell_1.json
+SHA1-Digest: QTUBpPlgGN0YFJgWCQDq+Z0nOiQ=
+
+Name: assets/game/union/changeNationCapitalTileConfirm.lua
+SHA1-Digest: RzSuHV9bpij2lr4NSy9ZJrKUwRE=
+
+Name: assets/Export/battle/gongbingshouji.ExportJson
+SHA1-Digest: RtR+7n1IwrUKfN/YOW6UpxBnmNc=
+
+Name: assets/Export/gaojizhaomu0.png
+SHA1-Digest: YbMlKrBTxIZcqmUDeA2LXSlgGn8=
+
+Name: assets/game/utils/ui_widgets_pool.lua
+SHA1-Digest: FiZjH5hxqTXeWBoN44NEmppea0s=
+
+Name: assets/test/res_single/8_daditu.png
+SHA1-Digest: nEOkAHaYzOLHwqc+kyNfg8uXJmA=
+
+Name: assets/gameResources/map/component_outside.png
+SHA1-Digest: WuhsX8z8mc2h2DICDUGJc1Mw+Fs=
+
+Name: assets/game/share/shareURL.lua
+SHA1-Digest: MXMVazo9bdEgocHQvWg9MtReeC4=
+
+Name: assets/Export/30_jinengyiwang.ExportJson
+SHA1-Digest: DjDHjtravG7386107Ksjx1eY8gY=
+
+Name: assets/ucgamesdk/config/tb_ui_config.json
+SHA1-Digest: WsSOhYFBGbniH2S+IwZtMMCVCMk=
+
+Name: assets/game/buildScene/buildingExpandTitle.lua
+SHA1-Digest: LjMmXCVmNV6babgtGh7FDSMDIDI=
+
+Name: assets/game/technology/nationTechTips.lua
+SHA1-Digest: rgJoexM+EUuugSmeNF1DxzFFnqE=
+
+Name: assets/Export/zhanfa_shengji2.plist
+SHA1-Digest: 31bCttiKZKSJ4eQ/Y2oaEXmgBEM=
+
+Name: assets/test/res_single/junzhu_diji_03.png
+SHA1-Digest: uNkT3ZqWhaM7pZAw4xpHVCBhOYo=
+
+Name: assets/test/res_future_add/build_71.png
+SHA1-Digest: AKRB1CnZtZvYuDj4AquKWjEhN0w=
+
+Name: assets/game/daily/ui_daily_develop.lua
+SHA1-Digest: dhUdGmVEEq2E5HnU7lZq4cUlBJo=
+
+Name: assets/game/dbData/cfg/Tb_cfg_season_reward_2.lua
+SHA1-Digest: GUZFa949rQMAUDicSyNcQuzmHcM=
+
+Name: assets/ucgamesdk/ui/list.xml
+SHA1-Digest: LEDQPUP5gZy7in49uGc5esAMv7I=
+
+Name: assets/Export/battle/huosheng0.plist
+SHA1-Digest: z5t8BKWwLQ6gFstIKo96QrACWtQ=
+
+Name: assets/gameResources/army/juntuan_small_3.png
+SHA1-Digest: pjBz70gnAKcNI/uvt8W6V0kyhBc=
+
+Name: assets/game/union/__deprecated__unionOfficialAppointList.lua
+SHA1-Digest: xKIuRU5f4gePohe4xHRg6wbvFh0=
+
+Name: assets/test/role_forces_main.json
+SHA1-Digest: Sw3/OkB+BVJEswmoeC0RXFy33Ag=
+
+Name: assets/test/select_born_warning.json
+SHA1-Digest: uFcndBYVNGFQ6f4LZ+K5ksReXis=
+
+Name: assets/test/sprite_ask_item.json
+SHA1-Digest: BKUgVkoVbh1uXB4WRM/o3E6ntpE=
+
+Name: lib/armeabi/libcocos2dlua.so
+SHA1-Digest: 8yUtwfR+Akwm1yBScetBQkMv/Ik=
+
+Name: assets/test/res/Login.plist
+SHA1-Digest: b/9FdAX7og1n9kyJA2NXBMzn84s=
+
+Name: assets/game/daily/ui_daily_hero_collection_shichangshi.lua
+SHA1-Digest: d5Qn7ckoE4jziOZO0mWJwHdQDv8=
+
+Name: assets/game/dbData/cfg/Tb_cfg_client_mini_map_region.lua
+SHA1-Digest: 7dK/7nhqIDwOS+q2Xc/zHJ0qnpY=
+
+Name: assets/Export/shengji2.png
+SHA1-Digest: /X/+DFNdOByl9d2Uxqh9TtH2Wzk=
+
+Name: assets/game/dbData/client_cfg/union_log_cfg_info.lua
+SHA1-Digest: GjW020MMMZWW1VLtT3KEOIrw7cA=
+
+Name: assets/gameResources/card/card_100469.png
+SHA1-Digest: o+WCLiZzI83A+uz1nYeBCkG7gB0=
+
+Name: assets/game/option/blackNameListManager.lua
+SHA1-Digest: LU7vP03OOmwPai0fNoIPfvV2Gic=
+
+Name: assets/test/shuishoutongji.json
+SHA1-Digest: DNPVcVnPFt95yJezLaEtRt1i2EI=
+
+Name: assets/game/cardCall/cardCallData.lua
+SHA1-Digest: JsgsfUg4fztNi+4PsJ3ensC790k=
+
+Name: assets/test/armyOfficeUI.json
+SHA1-Digest: fwq6jqQj59L/x2oDhllfnrrHz88=
+
+Name: assets/game/technology/techTreeItem.lua
+SHA1-Digest: U4GrLShc83olkBPWDywNCGoFiX4=
+
+Name: assets/gameResources/army/juntuan_big_20.png
+SHA1-Digest: 7gWiH3QM/PJ1srro0k/+HVO4SIE=
+
+Name: assets/Export/battle/qibingmingzhong0.png
+SHA1-Digest: dQi4UhVdm2Efyqi3m5qlm2StJAc=
+
+Name: assets/game/union/unionMarkDetailManager.lua
+SHA1-Digest: ruZRh92xdWsgxktXxZNBla7FgXY=
+
+Name: assets/test/res_single/card_extract/img_saijimingjiang.png
+SHA1-Digest: 2Ix8mYOZf+XDxDiKlrOp4wXK8zQ=
+
+Name: assets/ucgamesdk/ui/common/conf/tipsBackgroundSelected.9.png
+SHA1-Digest: gAhWeSH47E1/xUcuLnBWZSTPWNg=
+
+Name: assets/game/option/ui_decree_manager.lua
+SHA1-Digest: GdR7I8GIXy3eCDh2HEgas/E4sOg=
+
+Name: assets/Export/flag_small0.plist
+SHA1-Digest: Wz73UehZyodT+2qZiGsSx8I5tQ8=
+
+Name: assets/test/res/Main_UI_3.png
+SHA1-Digest: kaw5S/EwJFJlMgFQoowlXzHVnBg=
+
+Name: assets/game/dbData/cfg/Tb_cfg_card_prob_2.lua
+SHA1-Digest: wzS/8Ll3H6KT9+resn7ddId8xgU=
+
+Name: assets/test/res_single/minimapq_10.png
+SHA1-Digest: a70QhoIkFphiG6ZSVl0rpDUwsik=
+
+Name: assets/gameResources/army/juntuan_small_3.plist
+SHA1-Digest: rL4Gg0Xua/ReK5nn9V4ZqvI4ATc=
+
+Name: assets/Export/battle/yaoshu20.plist
+SHA1-Digest: sPLVMNTdt580DKzGgdz4dS2xjck=
+
+Name: assets/game/legion/legionUIShare.lua
+SHA1-Digest: SRm8XAWnhvyuYx3LSal+PwWCUWw=
+
+Name: assets/test/ditu.json
+SHA1-Digest: NlyLt6VBp+IVRGsR2Iit0GoU9eI=
+
+Name: assets/game/exercise/exerciseArmy/exerciseArmySetManager.lua
+SHA1-Digest: Wej3DQTSo7ctnLxNyGkvl8rI1Ps=
+
+Name: assets/test/new_overview_screen_3.json
+SHA1-Digest: eeV3bLxZIn/OlqPvSnWTa8tXvYk=
+
+Name: assets/ucgamesdk/ui/common/conf/widgetconf/exbbsDialog.json
+SHA1-Digest: ADkdevZNpsxdOvPZl2fwcrVmidM=
+
+Name: assets/game/cardDisplay/cardSortManager.lua
+SHA1-Digest: IzLP4QZO7uL+WMAVKYdeYpDK5bs=
+
+Name: assets/game/dbData/cfg/Tb_cfg_build_2.lua
+SHA1-Digest: nKE5Vtkw2RWHNzZGLjJA9WED68Q=
+
+Name: assets/game/dbData/cfg/Tb_cfg_hero_level_3.lua
+SHA1-Digest: KxRfAUiYh7NKU1AvGu5SA3CyVHA=
+
+Name: assets/test/res_single/yanwuchuangjing.png
+SHA1-Digest: lqNUi/iDDV3rE609M84c/S2fuqg=
+
+Name: assets/gameResources/army/xingjunbudui_40.plist
+SHA1-Digest: N1Dw/EMN1kiiEl5K6uywsZEdNgM=
+
+Name: assets/game/ranking/rankingDesManager.lua
+SHA1-Digest: BXDjgCIahgFxADgja8jpTYs6qCs=
+
+Name: assets/test/shezhiguanxian_1.json
+SHA1-Digest: xH/nA/0zLnKxeQ98RXNa7om+RY8=
+
+Name: assets/test/event_panel.json
+SHA1-Digest: sUwGrLr4R5g9GQxVvBtrj0es2NE=
+
+Name: assets/test/dibiaoshijian_1.json
+SHA1-Digest: e4LwC2D67Y15EHfwrMpfShjHYZU=
+
+Name: assets/game/encapsulation/smallCardManager.lua
+SHA1-Digest: s/Y7MRPw0diGD+TOO3szQsw8gsU=
+
+Name: assets/test/res_future_add/guohao_24.png
+SHA1-Digest: BQzQJL2Z+JekPbjhP/EPVDGWyIg=
+
+Name: assets/gameSound/G10_output_03.fev
+SHA1-Digest: tlDwpb9xeD+/ZzWe3BhcvWkNn5I=
+
+Name: assets/test/res_future_add/build_67.png
+SHA1-Digest: vOdqIk6xvQ/LtvH9+sAnMH4T1Os=
+
+Name: assets/game/update/updateUI.lua
+SHA1-Digest: EQ4VxkfF7oPZuW5YD+i1VuKmdl8=
+
+Name: assets/game/exercise/exerciseOpRequest.lua
+SHA1-Digest: +43vPDsAYUAKyaHxvRHcTrkigKI=
+
+Name: assets/test/xinjishaixuan.json
+SHA1-Digest: +vUn2thgwlVSYYg0HQfOBCS/VvY=
+
+Name: assets/game/union/unionCreateUI.lua
+SHA1-Digest: Ca4r4OCWPCLIBS589GNaGbSVZXs=
+
+Name: assets/game/union/unionCreateNationConfigColor.lua
+SHA1-Digest: 0fALLnI/l3VESuHp1KT7TBGs9Vg=
+
+Name: assets/test/res_single/junzhu_chengxiang_01.png
+SHA1-Digest: l7W/azBJRMRXa0h8HipMDXslEvU=
+
+Name: assets/test/res_future_add/guohao_15.png
+SHA1-Digest: gUTp10tUf3Uuvat40Vk77VZjb2s=
+
+Name: assets/Export/battle/dot1.ExportJson
+SHA1-Digest: tEc+7OVzQDzBXWBpUlovAllNoaI=
+
+Name: assets/test/res_single/xinshoutudishuoming.png
+SHA1-Digest: P3H4/mHxZWUFqDHnlGdbya4aEC8=
+
+Name: assets/game/battle/battleResultSum.lua
+SHA1-Digest: G/EvBclgRAlnsmPejPsUS8k9L74=
+
+Name: assets/Export/haobaodonghua_02.ExportJson
+SHA1-Digest: k2sUTamS/jy3f9dGzfLgIV3rxhI=
+
+Name: assets/Export/shengji0.png
+SHA1-Digest: wL4Oib4VIaLfZTPXJ/Z2Q3J18Xs=
+
+Name: assets/test/createCityDesUI.json
+SHA1-Digest: cVecZLZWk9Wc8dy3glJkF1njPt0=
+
+Name: assets/game/army/armyListManager.lua
+SHA1-Digest: 4ee1GCJ4ILe5jXu1o6/2ojkJxWg=
+
+Name: assets/Export/flag_big0.png
+SHA1-Digest: xfU5lIFEeYHrVZi9hVxQocxYDxQ=
+
+Name: assets/test/res_future_add/bubing_44_tu.png
+SHA1-Digest: XkR4umkns5IZxRo/DCWKHsEKuI8=
+
+Name: assets/game/union/disintegrateNationConfirm.lua
+SHA1-Digest: VrIrlBg4rPP3MYtY2WqOUub7hyc=
+
+Name: assets/game/dbData/cfg/Tb_cfg_skill_prob.lua
+SHA1-Digest: mt2mMwmGQ+bPYEvBRo/rt5nxxpQ=
+
+Name: assets/test/ground_event_log.json
+SHA1-Digest: bCfLuZFW1WcqACf12ye5nx5D/KI=
+
+Name: assets/test/res_single/card_extract/img_sanguolan.png
+SHA1-Digest: 4EKbTu1lGR5b3vC6tEdEFsbQ+OU=
+
+Name: assets/game/dbData/cfg/Tb_cfg_world_join.lua
+SHA1-Digest: 6pKM2CKXj1vzvkM0SI0wbHTUx5E=
+
+Name: assets/game/union/__unused__unionPowerUI.lua
+SHA1-Digest: PRWgf1BZ8fmnDoRJBZ6dCf8bPgU=
+
+Name: assets/test/res/Main_UI_1.png
+SHA1-Digest: gnq4fjnzRkv+yRMqg4QDrIp6TGk=
+
+Name: assets/test/res_future_add/qibing_4_tu.png
+SHA1-Digest: q1RplbzS9uX6kZDbCP5jjVplSBo=
+
+Name: assets/game/dbData/cfg/Tb_cfg_skill_level.lua
+SHA1-Digest: yyHxlHVBKLZArgf9Iq3HMCe/Jp8=
+
+Name: assets/test/build_tree_cell_small.json
+SHA1-Digest: ZGJZ7uMvHkAl5c+TaptIN1KLBXE=
+
+Name: assets/gameResources/battle/exercise_base_infantry.ExportJson
+SHA1-Digest: 4u41XAiLYxtRzXXAevhmseOQKWI=
+
+Name: assets/game/dbData/client_cfg/season_table_cfg_info_3.lua
+SHA1-Digest: orsWmSvBzRJQYkE9b7VECOMNgfU=
+
+Name: assets/test/yongfuliebiao.json
+SHA1-Digest: hv732NzCjTejld8oLVr1t5e1KxY=
+
+Name: assets/test/task_name.json
+SHA1-Digest: pX839a+prCfH4HcQiIVWmumwG3s=
+
+Name: assets/test/tongmeng_5.json
+SHA1-Digest: 2xcqXSFhya0mQXEbWQ5JZsYFnjw=
+
+Name: assets/test/res_single/dadituchusheng_8.png
+SHA1-Digest: eDGiw24Ta7ZqW2uOZPiJiwrYUlw=
+
+Name: assets/game/union/__replacing__unionGovernmentStronghold.lua
+SHA1-Digest: g/xhRtWNeZ/JQbOiHvwwGbF2ty8=
+
+Name: assets/game/battle/openBattleAnimation.lua
+SHA1-Digest: TChVOaQpcVQVQKYdUin9O3OBaCs=
+
+Name: assets/game/map/mapSecretBattle.lua
+SHA1-Digest: dxQEVoT8UrvJSoFcwoGpK8aDaJg=
+
+Name: assets/test/res_single/tech_nation_icon_114.png
+SHA1-Digest: /FliCVT8VfcQh1Bidp7WqO2wjVY=
+
+Name: assets/game/config/cityComponent.lua
+SHA1-Digest: /eivRJLH75RVeJXUDdvYeI6tJ50=
+
+Name: assets/test/rankDesUI.json
+SHA1-Digest: FFrr/sDsSJEa/qTtxUZFoFNSZzU=
+
+Name: assets/test/chengshirkou.json
+SHA1-Digest: 3JQ2jFqfw/8OPQBrZJtcwfh8v3o=
+
+Name: assets/Export/battle/tiaoxin10.plist
+SHA1-Digest: BAstX3oYR4YziPAh1vy8a4sp2oM=
+
+Name: assets/Export/binzhongtexiaoxuanzhuan0.png
+SHA1-Digest: FcqepATSWMRT3kVsYm/FqWOnXpI=
+
+Name: assets/game/army/armyMove/opArmyMoveConfirmNewbie.lua
+SHA1-Digest: BdxSKacHsZtAMta9Wx2V5nril60=
+
+Name: classes.dex
+SHA1-Digest: SKCtSLGvXUcahCYAVU4Rezc/354=
+
+Name: assets/game/daily/login_reward_helper.lua
+SHA1-Digest: vuUVQ5X2VfFe3ovjJ/J52h30wx4=
+
+Name: assets/game/dbData/client_cfg/task_building_cfg_info.lua
+SHA1-Digest: +FAFAoaRrzU/JnLaodUO8vPBy1o=
+
+Name: assets/test/res_single/kapai_dibiaoshijian.png
+SHA1-Digest: rFgE4z+rKuItsDa6P8v2ITGrSco=
+
+Name: assets/test/guojia_qiandu_1.json
+SHA1-Digest: FHJ8rYRaBP5puVwKFdECLrBjRf8=
+
+Name: assets/test/res/Main_UI_15.png
+SHA1-Digest: nGyS8aXKa4qZpaKa/vElYxlB+6M=
+
+Name: assets/test/res_single/card_extract/img_wuhushangjiang.png
+SHA1-Digest: MAt2gGAdLaMSosXIXVoI5zXoMew=
+
+Name: assets/test/dibiaoshijian_2.json
+SHA1-Digest: L8nuPoQYWDhfCOzwyBJnmsuPKe8=
+
+Name: assets/game/legion/legionSetManager.lua
+SHA1-Digest: TEo8ODVWtytMnjP14TCdKUmTwvY=
+
+Name: assets/game/createCity/inputCityNameInfo.lua
+SHA1-Digest: qXVYMKkodJ3wzdTs9nSc/SEz6Ps=
+
+Name: assets/game/legion/legionArmyData.lua
+SHA1-Digest: LfLJqDCyjARP7itXxdkJ7EAsSMw=
+
+Name: assets/game/union/unionInviteNoUnion.lua
+SHA1-Digest: VMUjVhG/NJMlgKd5GgtIbzaoyU0=
+
+Name: assets/gameResources/army/juntuan_small_1.png
+SHA1-Digest: f53t0FPpYaBXbrpcZc8pmB5rQn8=
+
+Name: assets/test/res_future_add/chunjie_huodong_diwen.png
+SHA1-Digest: wHsnEGGS2goK0j/8JIH83DXnx9s=
+
+Name: assets/game/guide/newGuide/newGuideInfo.lua
+SHA1-Digest: 5VsmMnp89Q646AxnzYAO9E4/pzY=
+
+Name: assets/game/army/armyMark.lua
+SHA1-Digest: 0Vq9CGbSk5p5cVx/VxIsPaC5xhQ=
+
+Name: assets/test/shapanyanwu_3_1.json
+SHA1-Digest: mzeBW7geEgf+YwVDHzPU6cQM6Iw=
+
+Name: assets/test/armyComplexCell.json
+SHA1-Digest: w9ldywmlTWAjfmrt9yo9HRyuxQM=
+
+Name: assets/game/army/armyCityOverview/armyBaseManager.lua
+SHA1-Digest: 8T7rseAQhY0mxBsgwds55jS+66k=
+
+Name: assets/test/res_single/wofangshilifenbu_001.png
+SHA1-Digest: GSITia0MWdExexQ6NN8REZ4zaDg=
+
+Name: assets/gameResources/battle/exercise_front_single_BOSS.ExportJso
+ n
+SHA1-Digest: eT1aHz2Y561MY2OzaGeB1BnJJFo=
+
+Name: assets/gameResources/army/juntuan_big_50.png
+SHA1-Digest: pw/D+Q1qDSPGKRUaCZxImCuaPa4=
+
+Name: assets/ucgamesdk/ui/common/conf/widgetconf/phoneLogin.json
+SHA1-Digest: 0ZFYVUOh1Pie31+Vi+xrg4NPiwc=
+
+Name: assets/test/res/Main_UI_21.plist
+SHA1-Digest: KCm0hx+67H/cBzQSW3emf9zPa18=
+
+Name: assets/game/encapsulation/graySprite.lua
+SHA1-Digest: avjRngAgMYZnnqaJVVI/vwp06UI=
+
+Name: assets/game/dbData/cfg/Tb_cfg_tech_user_cost.lua
+SHA1-Digest: uu7+ZQbV9YXgcp8/n/CrQVARX/E=
+
+Name: assets/game/guide/newGuide/guideCardAnim.lua
+SHA1-Digest: 3iyonKg3txYBBSzTz61b5PcKzAw=
+
+Name: assets/game/union/unionPower.lua
+SHA1-Digest: fIARMXtDjECt7yO+NHEQz4lV7bk=
+
+Name: assets/Export/33_youjian.png
+SHA1-Digest: qZY1Uq9Cgj2bL4XQRQW57Hr4/h0=
+
+Name: assets/test/legion_5.json
+SHA1-Digest: sUU37f4bw8jjVD9nJV3qrwM1lpY=
+
+Name: assets/Export/battle/zhiliao.ExportJson
+SHA1-Digest: Xc7vW/KQhfhqIeyHdkftPGbrtLM=
+
+Name: assets/test/res_single/updating_tips_1.png
+SHA1-Digest: Vk/XG2tVezXebMvHwOeLnK696lw=
+
+Name: assets/test/chongzhijiemian.json
+SHA1-Digest: lvh2p6GE7xSIjR68z/q6ZprhUu0=
+
+Name: assets/Export/jianzaozhong0.png
+SHA1-Digest: LF5FEMcHNjnhEX8i3hEnWTgu4II=
+
+Name: assets/test/pay_big_cell.json
+SHA1-Digest: hL7xTy3pbACWArcLpLEh4wxIpT0=
+
+Name: assets/game/dbData/cfg/Tb_cfg_progress_2.lua
+SHA1-Digest: 5Epdn+8MDoly2ZHofday/QkadqE=
+
+Name: assets/gameResources/card/card_100465.png
+SHA1-Digest: CTWo0hbm8iwHkgecMPKTa3QsqE4=
+
+Name: assets/Export/bingzhongjieshuoxin.ExportJson
+SHA1-Digest: w2lVmIyNLT88GuYhu+iItiNj5IM=
+
+Name: assets/test/appointment_of_chief_q_cell.json
+SHA1-Digest: myG5++/ZX+etpoNexPqeW5jUg/4=
+
+Name: assets/game/option/remindManager.lua
+SHA1-Digest: HFK3f1bLD+OCkW8vmzN0QbuY0jY=
+
+Name: assets/test/res_single/card_extract/yingxionghongyan.png
+SHA1-Digest: HCx8JE+bRHtQcOcJEs/wQMH4p/A=
+
+Name: assets/test/res_single/chengxiang_diji_01.png
+SHA1-Digest: Ho8waHBY3/fyQL5kqp1C6dXCQ7c=
+
+Name: assets/test/new_overview_screen_0.json
+SHA1-Digest: 7u2EInrpknFhTXzdD2/8RaPfrpo=
+
+Name: assets/test/res_future_add/diqitiantexiao.png
+SHA1-Digest: 6nZENkbI9jN79/OBWsF5ibaYxs4=
+
+Name: assets/test/res_single/xinshou_tips_01.png
+SHA1-Digest: WH1nUT7tF98BLH7wGsF2l8YO5mE=
+
+Name: assets/game/dbData/cfg/Tb_cfg_hero_type_skill.lua
+SHA1-Digest: zOHGgSIwpBp0nFr920zbHugVku4=
+
+Name: org/apache/http/version.properties
+SHA1-Digest: P8C+0HCIJbb7Aj8z+P+yG5fGhRw=
+
+Name: assets/Export/xinshou_smoke0.plist
+SHA1-Digest: 8O7rvrPPZWzRivEllOtjCmPEPTI=
+
+Name: assets/game/net/login.lua
+SHA1-Digest: MZ221d37sT3jpHSdAxTpIz+OwMU=
+
+Name: assets/game/dbData/cfg/Tb_cfg_activity_2.lua
+SHA1-Digest: Em2cE0NcF6rlb9tCTRQsdMjzkBE=
+
+Name: assets/test/sight_view_label.json
+SHA1-Digest: /VgLCwgVH2BccYhenVh0lfaU0X0=
+
+Name: assets/test/res_single/tech_nation_icon_106.png
+SHA1-Digest: ezJpb3jNi49SZZz9fGxIJSKEWgw=
+
+Name: assets/Export/30_jinengyiwang.png
+SHA1-Digest: Zw5x49RQ4q5xNqTa7XCp/v0GhZI=
+
+Name: assets/test/liulang.json
+SHA1-Digest: zunYa5vIzdym/6JX0HqrUVu41q0=
+
+Name: res/drawable-xhdpi-v4/unigm_service.png
+SHA1-Digest: XBwgAkY+utIechD5HWdqeBiMvcU=
+
+Name: assets/game/createCity/createCityDesManager.lua
+SHA1-Digest: gg8zRlqwROGxObykZamJ6h2NGkY=
+
+Name: assets/game/guide/newGuide/newGuideManager.lua
+SHA1-Digest: 5VJixpQKmDq4d1dA/LSQwaE+iww=
+
+Name: assets/test/res_future_add/bubing_4_tu.png
+SHA1-Digest: h7DkbT5HFIGEIzEG/9NaO35oOWs=
+
+Name: assets/game/help/gameSpriteMainUI.lua
+SHA1-Digest: roZuQUwx6mdBRA6eLmFLLaUbr+o=
+
+Name: assets/Export/battle/26_kapaitexie.ExportJson
+SHA1-Digest: FoiAbxFb8jAWRyDaN7kQ1FPZ+KM=
+
+Name: res/drawable-xhdpi-v4/unisdk_protocol_right_white.png
+SHA1-Digest: BA+linDPYT+Oco+J6zqR5oCwgFo=
+
+Name: assets/Export/zeibing0.png
+SHA1-Digest: P/DRci/zgpTg7T7PjQj/xujr0UI=
+
+Name: assets/ucgamesdk/config/float_menu.json
+SHA1-Digest: kdLOf4jSvhEFlRu1qGUhe1OR5bQ=
+
+Name: assets/game/voice/voicePlayAnimation.lua
+SHA1-Digest: kG89vfFWAQIdTHJWocA7mF3wlBY=
+
+Name: assets/Export/battle/tiaoxin1.ExportJson
+SHA1-Digest: IyoqWMfzbumK/t3NphQ0eWi+AB4=
+
+Name: assets/test/build_tree_cell_big.json
+SHA1-Digest: 0JWouckwwPl78X6p/M+Cf/xxQMc=
+
+Name: assets/Export/bird/bird.png
+SHA1-Digest: 0O1bzpV81pnaf0pherU9Qu7tqSQ=
+
+Name: assets/game/mapObject/objectCountDown.lua
+SHA1-Digest: nlMFzhkWzQoSUMcuE/SqEZYJUho=
+
+Name: assets/game/battle/reportUI.lua
+SHA1-Digest: OUbc9Gbp2EsozN/E+H+XBqNLYEk=
+
+Name: assets/game/union/unionMarkListManager.lua
+SHA1-Digest: ycwIBFf1boXZq67q1ef2WkUiffE=
+
+Name: assets/Export/battle/qusan0.png
+SHA1-Digest: 38GJA33kmfp8niiwPtolHdSeqHs=
+
+Name: assets/game/dbData/ConfigData.lua
+SHA1-Digest: DdIkm4mgllsAIL8AfoFbc/u1w6s=
+
+Name: assets/Export/xiubutexiao_01.ExportJson
+SHA1-Digest: KeBJjM191kJvsIfxICT/6/7L7I4=
+
+Name: assets/Export/battle/gongbinggongji0.png
+SHA1-Digest: IC/EXDgG8dKkvtKpXnm/+ewq+tA=
+
+Name: assets/test/res_single/card_extract/img_jingxiangshizu.png
+SHA1-Digest: CnRzU6ypLlLWXe/SdVpck0kGqwE=
+
+Name: assets/game/option/scene_tips_occupy_city.lua
+SHA1-Digest: Iq/S7Gs1ggCeOUxuZEOFl5zKF74=
+
+Name: assets/game/mapObject/buildCityAnimation.lua
+SHA1-Digest: 2tdbHzGdd9Ni5aGds0ZSLGyx9A4=
+
+Name: assets/test/res_future_add/guohao_6.png
+SHA1-Digest: 4vbjumnVkpjnTVaAQUcG06S8o3M=
+
+Name: assets/test/res_single/card_extract/molujinzhong.png
+SHA1-Digest: MVGEl963vhtK6/5dSrIbYMY9F0k=
+
+Name: assets/test/res_single/card_extract/img_jirenlixia.png
+SHA1-Digest: iPwamQB21bNjUkm72XdFQwBdmUA=
+
+Name: assets/Export/xinshou/xinshou_jianlishili.ExportJson
+SHA1-Digest: Nhar4RBaecYeGHoSyMuLf2LOWCU=
+
+Name: assets/test/res_future_add/gongbing_3_tu.png
+SHA1-Digest: VCIQOAOZrxzQwmg0NhsDDcX8RLA=
+
+Name: assets/ucgamesdk/config/operatorConfig.json
+SHA1-Digest: RmyFr4y8tJ0OTbjkV+rXnea3P3I=
+
+Name: assets/test/res_single/feiqiangzhi_kuojian_tu.png
+SHA1-Digest: VLmrGxaPI7CbBLFgQohFrhDZeI4=
+
+Name: assets/game/skill/skill_operate_helper.lua
+SHA1-Digest: u35kmdfxsyX/S8VhjuCxgfkCftE=
+
+Name: assets/ucgamesdk/images/loadcancel.png
+SHA1-Digest: Q1UOJ6msyoQffauGgi8lDtfZXS4=
+
+Name: assets/test/res_future_add/qibing_22_tu.png
+SHA1-Digest: Mp+LRTY0lzgicceVkONCdrY3gNQ=
+
+Name: assets/Export/extractCardAnim_temp.png
+SHA1-Digest: L0vuecGlC5YeW1zNG10MaRgrmRs=
+
+Name: assets/game/army/armyCityOverview/armyListInCityManager.lua
+SHA1-Digest: MraGj+pYRGmREauLyF/qc2/HLz4=
+
+Name: assets/ucgamesdk/so/x86_64/libsdk_bspatch.so
+SHA1-Digest: HqBNj/DkTViGkNLyVvHHTZHNsfw=
+
+Name: assets/test/alliance_create_application.json
+SHA1-Digest: 1l2Yg/5eEy8m4ElqJDyDtEW8QDU=
+
+Name: assets/gameResources/card/card_100039.png
+SHA1-Digest: X6OPDqupLOxJot2+TBjcFnY2rAw=
+
+Name: assets/game/world_process/tianxiaContentManager.lua
+SHA1-Digest: wjpEfk+4W7i0waVdciiMA8Fwbkw=
+
+Name: assets/test/res_single/img_cbyyf.png
+SHA1-Digest: ebv109KJWt09+ewuSQ9/F4DCHr0=
+
+Name: assets/ucgamesdk/so/armeabi-v7a/libsdk_bspatch.so
+SHA1-Digest: mpKU5wmNOaOAfeT4fsReJavbCWo=
+
+Name: assets/test/guideTargetUI.json
+SHA1-Digest: GIcYoOWAcHxhfQ8DnO4tmAvGhDA=
+
+Name: assets/test/res_future_add/gongbing_100_tu.png
+SHA1-Digest: K1bXKCV52ftYZ412+BfnZrngyuU=
+
+Name: assets/test/res_single/card_extract/img_sanguo_wu.png
+SHA1-Digest: PuIRQsKkomzdctDpN6Lg86h+CAc=
+
+Name: assets/test/res_single/gongdian.png
+SHA1-Digest: blYuWgM3OPq073vpywukXaePeZA=
+
+Name: assets/test/res_future_add/luzhai1.png
+SHA1-Digest: npMsilT1pxPjTHfxIv5MfiywGYg=
+
+Name: assets/test/res_single/card_extract/img_sanguo_shu.png
+SHA1-Digest: mQ6MPIO6kf3/L87qFxXfYMKawXs=
+
+Name: assets/gameResources/battle/exercise_front_archer_normal.ExportJ
+ son
+SHA1-Digest: 0yoLHgBP9WWWz6xlEdnfFFsb1K4=
+
+Name: assets/game/createRoleUI/userAgreement.lua
+SHA1-Digest: Dr4QXATiN8qmnZ/bhQgJ8YNz+Zg=
+
+Name: assets/game/army/armyExchange/exchangeDragManager.lua
+SHA1-Digest: iwyr4/YA1wTaa2dTwD5vqGvD7aY=
+
+Name: assets/game/daily/ui_daily_first_pay.lua
+SHA1-Digest: 1F4JNeiAYtV1c6o2r7d6ZtwKujE=
+
+Name: assets/test/shilizengyi.json
+SHA1-Digest: Vkc/BM0lhNXpGUwRy6WafTNUw9Y=
+
+Name: assets/ucgamesdk/ui/common/conf/tipsClose.png
+SHA1-Digest: g3sG/RoZV7hlcUwfNS7UabSw96Y=
+
+Name: assets/game/notificationLayer/lockLayer.lua
+SHA1-Digest: 7+L+rnde8DlxUu7cLlTQKYuXViQ=
+
+Name: assets/game/option/cityMarking.lua
+SHA1-Digest: rInSsiXxKe6wcEcoSbTJgkHV4/U=
+
+Name: assets/game/union/unionMembersMember.lua
+SHA1-Digest: I9enQzkHCsguuzU/M6GbRrlaHuY=
+
+Name: assets/test/alliance_government_stronghold_cell.json
+SHA1-Digest: OwKGbr9y+DQadKAs9+h7YtCvOg4=
+
+Name: assets/Export/battle/dianran10.plist
+SHA1-Digest: KX5fJxIcErclgBWc9Vsm/DWV/hY=
+
+Name: assets/game/dbData/armySpecialData.lua
+SHA1-Digest: XO+30mGY+t1Y8SByn8sVn8S12nE=
+
+Name: assets/game/encapsulation/bigCardManager.lua
+SHA1-Digest: IWpYfOu4keOvL+TQKYUuD6HlGyQ=
+
+Name: assets/uc_platform_data
+SHA1-Digest: pneeGvW7wl0CIzxE/C3Fd8Rs1B0=
+
+Name: assets/Export/binzhongtexiaoxuanzhuan0.plist
+SHA1-Digest: gkcD6U/8Qp2jghxWIT2aWLMTjxg=
+
+Name: assets/test/res_single/alliance_background_index.png
+SHA1-Digest: PTmlLU1nWhtrzAHgoIUus7Ep3mQ=
+
+Name: assets/test/res_future_add/qibing_55_tu.png
+SHA1-Digest: MK3HahCyyCQ0/X7vQoC3up/325Y=
+
+Name: assets/Export/jianzhushengji0.plist
+SHA1-Digest: V1aqtiYu+DsogRNcFgVkbHp5Pj4=
+
+Name: assets/test/res_future_add/jishu_item.png
+SHA1-Digest: 3AwD9WtRdJsAvtrIQa/WhUi/fWE=
+
+Name: assets/game/cardCall/quickCallResultManager.lua
+SHA1-Digest: cPgb5sIWZZRs7lY9ySScI0pRKK0=
+
+Name: assets/test/res_single/dadituchusheng_1.png
+SHA1-Digest: kbUdTzfmidbTv9/P8Ol+k0E6BgU=
+
+Name: assets/test/res_single/tech_nation_icon_101.png
+SHA1-Digest: aaNpgsibMeDF0wmo6gdrR6XRXxY=
+
+Name: assets/test/res_single/card_extract/img_hanjianglan.png
+SHA1-Digest: w2BeWGANFKR+UC4W/9KNB+h9LCQ=
+
+Name: assets/test/res_future_add/guohao_31.png
+SHA1-Digest: /VQLdClgJ3Bg10puOSFOjRleDjg=
+
+Name: assets/game/union/unionMarkData.lua
+SHA1-Digest: NYRk0a/0pyNhu3T61uqqzuKs3Ec=
+
+Name: assets/gameResources/battle/exercise_front_infantry_BOSS.ExportJ
+ son
+SHA1-Digest: f/tGwit0ILdasSX91Le1vzojWXA=
+
+Name: assets/game/union/unionCreateData.lua
+SHA1-Digest: oMBY2QQJl9SzlHOWkMc3iRyzadQ=
+
+Name: assets/cg_arrow.mp4
+SHA1-Digest: Dl4qNR7XgySv2guEBgbWrCLksyI=
+
+Name: assets/game/login/login_loading_bar.lua
+SHA1-Digest: OO9DK9HjZgluPuGLR5aBttONGh4=
+
+Name: assets/Export/jinjieshengji0.plist
+SHA1-Digest: D0pozICYOJp4r0Lt4wTnpHx1N1Y=
+
+Name: assets/test/shijiejindu_1.json
+SHA1-Digest: eCR7eIyxfbYsgsIi6w0xlJmQTWM=
+
+Name: assets/test/texiaobeijing.json
+SHA1-Digest: Kavu+x9PufLFD5ZzPjg37eYKkPc=
+
+Name: assets/Export/extractCardAnim_temp.plist
+SHA1-Digest: phpmyK3k4fwgZ45bWEYKAjE4yXs=
+
+Name: assets/game/skill/skill_item_helper.lua
+SHA1-Digest: YjxG1Uz2o57dotJJuQ/xR2bb41M=
+
+Name: assets/test/res_single/dadituchusheng_5.png
+SHA1-Digest: vsN2mMKm+BEhk3Ea2SVRK20LY3M=
+
+Name: assets/game/daily/ui_daily_spring_festival.lua
+SHA1-Digest: bX+UkIFv00F9xdEKnZzLiyUle8w=
+
+Name: assets/test/res/Main_UI_4.plist
+SHA1-Digest: bc5+wDD7ikPUESQMXgGhcW4R0Yg=
+
+Name: assets/test/event_cell.json
+SHA1-Digest: qmQ+ZrSRcXVp0S6RoMFnJ+OqUlQ=
+
+Name: assets/test/res_future_add/shigongsuo1.png
+SHA1-Digest: nSb1tFWL3YOIo2O1+apwLTMUE8A=
+
+Name: assets/test/res_future_add/gongbing_44_tu.png
+SHA1-Digest: OvZBava5if84xxjTENnU+as16z4=
+
+Name: assets/game/mail/channelMailManager.lua
+SHA1-Digest: eGLjtrxQ9Vw7lfzyr7PD/9Qi7TU=
+
+Name: assets/game/ranking/rankingData.lua
+SHA1-Digest: JyqKtSwzAmM+KTl6bOpQJ5fIvxE=
+
+Name: assets/game/union/__deprecated__unionGovernment.lua
+SHA1-Digest: iDHwBImgtjXRl7aVBmMtFUtgb6M=
+
+Name: assets/Export/battle/shanghaiguibi.ExportJson
+SHA1-Digest: 9Osp4JlYzo2hBr7x2CHEDtOo2wU=
+
+Name: assets/Export/haobaodonghua_020.png
+SHA1-Digest: maNft15sxUPuiigR+U4Bdyxay3o=
+
+Name: assets/ucgamesdk/config/sdk_info.txt
+SHA1-Digest: H9rQISEha2N5qpTpbH5rfjPMR6c=
+
+Name: assets/game/roleForces/ui_role_forces_manor.lua
+SHA1-Digest: WvzhqM8Fopi44Rydq5RskkgLF6U=
+
+Name: assets/game/option/ui_tax_statistical_info.lua
+SHA1-Digest: NoRbky24IXNlFGygOo0ExdwVKrI=
+
+Name: assets/game/dbData/heroData.lua
+SHA1-Digest: p1wKeoPB0DF5BOjvcbKBPShbHas=
+
+Name: assets/game/world_process/worldProFinishManager.lua
+SHA1-Digest: FCP7dZNp1WkCpOo7RHxzWMybdhc=
+
+Name: assets/Export/battle/dot10.png
+SHA1-Digest: 7vl9Ee4pAI/IJlgR+AEo/rfK3aA=
+
+Name: assets/test/pingdao_tanchang_1.json
+SHA1-Digest: k3gUSUNzGOdlikbbs894wbaq564=
+
+Name: assets/test/res_single/dadituchusheng_2.png
+SHA1-Digest: aZSQNOcmSGLUlRPhP3DqS1/OMfw=
+
+Name: assets/test/armyExchangeCell.json
+SHA1-Digest: qaXc/Zkr4mR42U6/I16L1TKPoiw=
+
+Name: assets/game/dbData/cfg/Tb_cfg_npc_city_occupy_reward.lua
+SHA1-Digest: MZqMOujG5n0USXNEM0gGjm3bZrc=
+
+Name: res/drawable/unisdk_protocol_green_btn_selector.xml
+SHA1-Digest: x1okla9l5ItUxe6zmvIzBwuL2xY=
+
+Name: assets/test/alliance_government_stronghold.json
+SHA1-Digest: JE60WXdLrUEW4LuYKzAIkwXK9Fk=
+
+Name: assets/game/config/Language.lua
+SHA1-Digest: lxLgMwHgy0oF8h/pLD4BZzEw5Bg=
+
+Name: assets/Export/dijizhaomu1.png
+SHA1-Digest: OM5X2KToG9ngVaV5UDyMzOp0vPc=
+
+Name: assets/test/union_manaer_main.json
+SHA1-Digest: ua8EiIsCJ73MXXEGOEL4oKKbNUY=
+
+Name: assets/gameResources/card/card_100007.png
+SHA1-Digest: 21Eri+coIf4yVM1DHYemYGN97OE=
+
+Name: assets/Export/27_jinengxide.png
+SHA1-Digest: JelvepVQsqtwHr54Y29CEVDIbmI=
+
+Name: assets/game/option/city_list_army.lua
+SHA1-Digest: SFa5Z/3NRXA3WuHp+GlBI04GTDU=
+
+Name: assets/game/dbData/cfg/Tb_cfg_card_extract_3.lua
+SHA1-Digest: bzXAFhigDWcEJo1HnhVoAGZmfHA=
+
+Name: assets/test/res_future_add/gongbing_33_tu.png
+SHA1-Digest: 3UsWhcU28lzL7rugx1r784Nd7eE=
+
+Name: assets/ucgamesdk/images/bg.9.png
+SHA1-Digest: 2XMp9EIOb4JwbfwrnuI4Dix8q9c=
+
+Name: assets/game/createRoleUI/agreement.lua
+SHA1-Digest: 6SnifW2KcMaMnP4B1l7JLnD6MJI=
+
+Name: assets/game/chat/ui_chat_channel_manager.lua
+SHA1-Digest: t00/a3lJvjlbtrX+gD82BJo6l+0=
+
+Name: assets/test/res_future_add/bubing_22_tu.png
+SHA1-Digest: L12JUsg0IAWcTcvc2L30kZKgShU=
+
+Name: assets/gameResources/card/card_100031.png
+SHA1-Digest: v9JdUSmlRZILOuZvTDiqKoQ/Evk=
+
+Name: assets/game/option/optionController.lua
+SHA1-Digest: SCOpwj2ZNW/rstuacQ+DOGO94Uw=
+
+Name: assets/game/login/login_bulletin_list.lua
+SHA1-Digest: O1dgrqbFOOtjuOIDKd5SkdXPu74=
+
+Name: assets/gameSound/music.fev
+SHA1-Digest: MOXT4ojCpF300bo9FAufq/HI2LM=
+
+Name: assets/ucgamesdk/so/arm64-v8a/libsdk_bspatch.so
+SHA1-Digest: E0FwEcp14ORQ6ZP15z6OKasV528=
+
+Name: assets/test/dibiaoshijian_0.json
+SHA1-Digest: usxqwyxZljM3d+LGmti3re+v6c4=
+
+Name: assets/game/map/birdAnimation.lua
+SHA1-Digest: 4PR+/CENwXmaNdNidZ1GZs5yCDQ=
+
+Name: assets/game/daily/ui_login_reward_detail.lua
+SHA1-Digest: E6syXS4pWaIOkHR6NepN27wExm4=
+
+Name: assets/test/res/Main_UI_13.png
+SHA1-Digest: ry0wiFfVyFy469W56JszvY/5+T8=
+
+Name: assets/game/dbData/officiaDescription.lua
+SHA1-Digest: aqOe54hvmtUVb9Qurzx/PIVdiEs=
+
+Name: assets/test/login_bulletin_list.json
+SHA1-Digest: SiLvmqr09oSB6hUXM8dq/zqly6k=
+
+Name: assets/test/shijiejindu_6.json
+SHA1-Digest: CR4FOcwEycVI4pivIhYWFE6VJPM=
+
+Name: assets/test/tongmeng_4.json
+SHA1-Digest: FEpXPLN16CLEr96RhUPqB/eacJw=
+
+Name: assets/game/dbData/cfg/Tb_cfg_repay.lua
+SHA1-Digest: MNmQAuK0iceI9S9mIw2krnM8vgo=
+
+Name: res/drawable/unisdk_protocol_red_btn_selector.xml
+SHA1-Digest: KgGsvXNK32qHghCGJ1xtx4CgEzI=
+
+Name: assets/test/quickCallResultUI.json
+SHA1-Digest: k1fefK/yD5CspBDYJ6D9JVnNJ4Q=
+
+Name: assets/game/union/changeNationCapitalSelectTargetCity.lua
+SHA1-Digest: pmt9VhoHMnx1qZV+kkr0gYv3+uk=
+
+Name: assets/test/legion_3.json
+SHA1-Digest: d8ddzjb6dAKSvrzpSV8mfxMj+ts=
+
+Name: assets/ucgamesdk/ui/PJ_18.patch
+SHA1-Digest: dZJHoXgcCroN3j9ZE92VywentUI=
+
+Name: assets/test/res_single/junzhu_diji_02.png
+SHA1-Digest: Qau+ncg6kTrQOGaqTNsUoqgQtFM=
+
+Name: assets/test/task_item.json
+SHA1-Digest: wMnMZZXqdhhTzHvgr0thHYQ8K6U=
+
+Name: assets/ucgamesdk/config/float_menu_params.json
+SHA1-Digest: F35LvJkGlR5i7wvdM8DVfcEZxi4=
+
+Name: assets/test/res_single/beijing_yanwu_new.png
+SHA1-Digest: m7BHyrbHN3UWRNrei+lZBgRGSzM=
+
+Name: assets/game/roleForces/ui_resource_trade.lua
+SHA1-Digest: cdjeGKNtvpMGmEGP+q609IlGBsI=
+
+Name: assets/game/dbData/client_cfg/animation_Music_cfg_info.lua
+SHA1-Digest: /L/LcLMTD+3a1uaZGTzY2qHYUK0=
+
+Name: assets/test/Alliance_home_nw_4.json
+SHA1-Digest: tUziIOHcH3uMiQ1LS5Dy6q3gh6Y=
+
+Name: assets/test/dingwei_tishi.json
+SHA1-Digest: TUkx/IGbvoIVyloHTgwB+0Wf/Ec=
+
+Name: assets/game/dbData/cfg/Tb_cfg_card_extract_2.lua
+SHA1-Digest: zslabfBZYYegBACFwa8G3HYDbow=
+
+Name: assets/test/res_future_add/jishu.png
+SHA1-Digest: bChwkNUb6abbRF1XLU/m447sZtY=
+
+Name: assets/game/cardDisplay/othersCardViewer.lua
+SHA1-Digest: WigQuFqCPmTEn44fSwcm/6JXL6Y=
+
+Name: assets/test/zhanbaojiesuan_01.json
+SHA1-Digest: ITzqZIfswVF5rDitw4vXG0zQNog=
+
+Name: assets/game/encapsulation/scrollViewModule.lua
+SHA1-Digest: ktP2QkNj/H/SE1+rynnoU1XY4u8=
+
+Name: assets/game/task/taskData.lua
+SHA1-Digest: 28Ap82/Sckhc/i9n6LHdSWFPxAQ=
+
+Name: assets/test/res_single/peizhibuduijiangli.png
+SHA1-Digest: XIoq8GUHoauHYdK94kyBMJmn6YU=
+
+Name: assets/game/chat/ui_chat_union_group_mem_list.lua
+SHA1-Digest: Qikn2hCMGSeXaQ0Jkq5o0zJZKm4=
+
+Name: assets/test/res_single/minimapq_7.png
+SHA1-Digest: 0HdhuYLCHzPgbjYCnyS2+t2lpHY=
+
+Name: assets/test/res_future_add/guojia_jishu_02.png
+SHA1-Digest: Db5J/+xYDqccOGUkoD7OAVYrNdA=
+
+Name: assets/game/encapsulation/pageView.lua
+SHA1-Digest: pndbDS1lDdvUU4BbYvbDhfd6ep8=
+
+Name: assets/Export/battle/huosheng0.png
+SHA1-Digest: 7QgjJ6uH10086EFuA5fWy09Dg/M=
+
+Name: assets/game/login/loginData.lua
+SHA1-Digest: lhwt5XzME2kMxl5ipUD4/r8tqJc=
+
+Name: assets/Export/zhanfa_shengji2.png
+SHA1-Digest: b/+BTjpmVOuEc//O34ZXOJUYg0Q=
+
+Name: assets/test/rankingCell.json
+SHA1-Digest: zz5vUJk0CBTZ6qLt9XrsYDvsGa4=
+
+Name: assets/test/createCityUI.json
+SHA1-Digest: hWQFMTpsnl/2Oo/YuYoRDZle1jU=
+
+Name: assets/game/union/unionCreateNationConfigCapital.lua
+SHA1-Digest: erpOznCbzJg/7lWva/ea3cZnWLo=
+
+Name: assets/game/army/armyMove/armyMoveManager.lua
+SHA1-Digest: L2NQAls8luQsFJsjno4YP4oUC6g=
+
+Name: assets/test/role_forces_manor.json
+SHA1-Digest: GZoIv3PR8dGwe5eUJVqCc0jtx6U=
+
+Name: assets/game/utils/cardUtil.lua
+SHA1-Digest: vGOvrkBP9GIv+4CdCAe5BEtqbn8=
+
+Name: assets/game/exercise/exerciseEffectManager.lua
+SHA1-Digest: 24g7KrhoYajcIo1jy8IEDApp3gk=
+
+Name: assets/test/tongmeng_2.json
+SHA1-Digest: /9lyx9ccfb1JVRO9nIcxSZgxKOs=
+
+Name: resources.arsc
+SHA1-Digest: Z8oNsWdaee6SiMwZdlFcDiYL+ZI=
+
+Name: assets/test/heishi_01.json
+SHA1-Digest: qQah2pMOqGRlM9okVXFcqTQpPB0=
+
+Name: assets/ucgamesdk/config/statcost_filter.ini
+SHA1-Digest: cA8i00AqkpNtmZAjA4L1oPs/wiI=
+
+Name: assets/game/battle/battleAnalyse.lua
+SHA1-Digest: gr4CMSYKQ8POHWRk7oWmCzeyBYk=
+
+Name: assets/test/res/Main_UI_16.png
+SHA1-Digest: 7cKhvImfJd+Q1X3hcjAuV2bTPjs=
+
+Name: assets/Export/battle/bubingmingzhong0.png
+SHA1-Digest: Xf/KxuwKmV6tuIhKgmpD67/SPxc=
+
+Name: assets/test/res_single/dadituchusheng_13.png
+SHA1-Digest: V0xIl9sGddDyrxfI5foS/TiZGCM=
+
+Name: assets/test/login_to_user_center.json
+SHA1-Digest: ltrcJEbMUK4dR8xUn7rD2OvSuHo=
+
+Name: assets/test/res/Login_common.plist
+SHA1-Digest: AN5NADcBJFo35yXSVBULi2CMerQ=
+
+Name: assets/test/createFort9Grid.json
+SHA1-Digest: LT7ahIrF+8CeDnY2zpAt1dxhNqQ=
+
+Name: assets/game/world_process/seasonHistoryManager.lua
+SHA1-Digest: ImuVUaMjI+86YWm3P5Me+dgvWsQ=
+
+Name: assets/game/chat/chat_data.lua
+SHA1-Digest: 830Bq4MpKOsMVs5rGVYJCWksxuk=
+
+Name: assets/Export/juntuan_small_50.png
+SHA1-Digest: /EoskwLQr1+8q90oQvzaBBzJ9fo=
+
+Name: assets/test/guohaoshuoming.json
+SHA1-Digest: 2woRE9dKNdM+GyUhGhF2d4O6vi8=
+
+Name: assets/gameSound/battle.fsb
+SHA1-Digest: xuvm81ymtohXlKRwNtaxnZvzUAE=
+
+Name: assets/ucgamesdk/images/uc_arrowbottom.png
+SHA1-Digest: u62ii9wLy+Q/hYYL7GO+8GCvjXU=
+
+Name: assets/game/dbData/cfg/Tb_cfg_skill_effect.lua
+SHA1-Digest: SKlOJp+byOKyRgoukJzhXpO1GtU=
+
+Name: assets/Export/battle/dongyao1.ExportJson
+SHA1-Digest: 0va5BR0zcVrufajR5Rn9Ta/3apA=
+
+Name: assets/game/script_json/not_war_panel.lua
+SHA1-Digest: 5rykTpF1xZq5WoqiCqHRuJbo41A=
+
+Name: assets/test/Alliance_invited_2.json
+SHA1-Digest: M+mEBA403L51SV29VztbpGYr918=
+
+Name: assets/ucgamesdk/ui/common/conf/widgetconf/exDialog.json
+SHA1-Digest: VcDmA7UlRVfEraJbV7y7V3032Yo=
+
+Name: res/drawable/icon.png
+SHA1-Digest: pNzmjMALBpSCLjpMgBCKF82Bchc=
+
+Name: assets/Export/battle/yaoshu10.plist
+SHA1-Digest: i12IWsMLfm3NZ1TIMAOYAsQrSmU=
+
+Name: assets/game/main/readJsonForMap.lua
+SHA1-Digest: k6j7MWLdY77dezXKsRWE3dbbYyo=
+
+Name: assets/game/config/netCmd.lua
+SHA1-Digest: tUGw/k61HpHP2yB3oAa9L7bCTBM=
+
+Name: assets/ucgamesdk/ui/common/conf/loading_circle.png
+SHA1-Digest: MAYv9TJJ098Z+rD57vbF3OUuJgw=
+
+Name: assets/game/army/sjOverview/sjArmyBaseManager.lua
+SHA1-Digest: M/U28LmjwymUC/BjshnAcTbLo1Y=
+
+Name: assets/game/login/login_server_list.lua
+SHA1-Digest: F27RMj+sT3xGUbDLAjSp+chKPXs=
+
+Name: assets/Export/jinjieshengji0.png
+SHA1-Digest: Crb4KDN5M4Q3FTQswW5poaRyMxo=
+
+Name: assets/game/cardDisplay/userCardViewer.lua
+SHA1-Digest: aV9bodEeCn+xV58vuFClSJYdFmI=
+
+Name: assets/test/res_single/erweima.png
+SHA1-Digest: 2TxX8ycKSadXV+wwqnXg36vkSO4=
+
+Name: assets/test/res_single/img_ywsnmj.png
+SHA1-Digest: OfP6f0zdZkFYCPvjPlKUEp7htKs=
+
+Name: assets/test/res_single/caijie_qiangzhiyindao_1.png
+SHA1-Digest: TyV1aIHlvlF8oYsyt+l3RfN1B8M=
+
+Name: assets/game/roleForces/ui_role_forces_edit_intro.lua
+SHA1-Digest: 9EXTqeuzN8x6Nj7r4blDkt1qsb8=
+
+Name: assets/test/shezhiguanxian_3.json
+SHA1-Digest: byNsy+Ea9jvE2dUPqCNef0sqxAY=
+
+Name: assets/test/keji_bei_jintiao_1.json
+SHA1-Digest: wSFbzg8xOAfOD3lHOoZm4Y5+INk=
+
+Name: assets/test/createTaiShouFu.json
+SHA1-Digest: Gap/lsZ3jX7DbUP9fYmU6rGzpjM=
+
+Name: assets/game/notificationLayer/taskTipsLayer.lua
+SHA1-Digest: jBc2+YlvdX9Na7b1+G5AFSdN76o=
+
+Name: assets/Export/jianzaofencheng.ExportJson
+SHA1-Digest: wO/cYjRa2jmkUdWnFC8emghz2ac=
+
+Name: assets/test/res_single/minimapq_2.png
+SHA1-Digest: W9sOZVvx5/6QrIJLE/m8uP3B568=
+
+Name: assets/test/res_single/battle_background.png
+SHA1-Digest: JkasqTlmxdv/3cVG2eoIYHw89M0=
+
+Name: assets/game/login/sceneBeforeLogin.lua
+SHA1-Digest: 7arUi1H7KerlVbeV89+bdwJdOds=
+
+Name: assets/test/res_single/card_extract/img_qunxiongqi.png
+SHA1-Digest: 0Rb+CKohbJpWrXn80k79kiGN5QQ=
+
+Name: assets/game/dbData/cfg/Tb_cfg_nation_title.lua
+SHA1-Digest: WYULS8KL4WyQH/adk7SapPIZ+Fw=
+
+Name: assets/test/res_single/2_daditu.png
+SHA1-Digest: lxWf2+vqa2J+xbsAKndEVpAsYKs=
+
+Name: assets/test/latest_building_tree.json
+SHA1-Digest: 7roNvn4s908LVzk/QnWWoA5QwyM=
+
+Name: assets/test/res_single/card_extract/img_chenghao.png
+SHA1-Digest: xoEyIveKx2alnU+md9aid3v8ulI=
+
+Name: assets/game/army/armyMarchLine.lua
+SHA1-Digest: 0qcNb7fkkVOFUbrcAyrpyODm7Tk=
+
+Name: assets/Export/yanjiu0.png
+SHA1-Digest: kzBCZbNCYmNYbI4VCPyXLE5p4AI=
+
+Name: assets/Export/battle/12_beiluoshijinenggongji0.png
+SHA1-Digest: waxtuCIOtYbp5uR5PNjNoiC5uRQ=
+
+Name: assets/Export/jingjie_xingxing0.png
+SHA1-Digest: Wz2w3G7lwdPL7IVTYT05ZaEO40o=
+
+Name: assets/game/option/miniMapCountry.lua
+SHA1-Digest: wDH6LxrqrxwtLEJGLGYgAKuzjX4=
+
+Name: assets/test/res/Main_UI_11.plist
+SHA1-Digest: DT3OShIuHy4UIZMEkb0O6xqkbNU=
+
+Name: assets/game/option/scene_tips_occupied.lua
+SHA1-Digest: V+zpkv31oZJVX7U8EpSzhiUjtew=
+
+Name: assets/game/union/unionAppointNpcCityOfficierList.lua
+SHA1-Digest: azOjylBmMG/o/UF7UnroWJgIb8U=
+
+Name: assets/ucgamesdk/res/msg.apk
+SHA1-Digest: Xeh7bpJQy4LHsdwBSQTxF2g63nE=
+
+Name: assets/Export/shuxing.ExportJson
+SHA1-Digest: ZKkUzOtW+LaOUYFg+bNdSzJlUuY=
+
+Name: assets/gameResources/card/card_100042.png
+SHA1-Digest: oVstJlwPhyXrA9fxux7ssRCsrkc=
+
+Name: assets/game/config/scene.lua
+SHA1-Digest: wbEXhKnHPGF/I2LWfXuDWx4QQhc=
+
+Name: assets/ucgamesdk/ui/SYB_18.patch
+SHA1-Digest: pz/5JwV0gOr2Odl7/347+/p44M4=
+
+Name: assets/Export/zhaomu_chouka0.png
+SHA1-Digest: 7yJi6SYaavYi/sUYWkz2kTDwSAQ=
+
+Name: assets/Export/battle/huoyan2.ExportJson
+SHA1-Digest: EK+bQM4wjeusLVu/k8QupeA77oA=
+
+Name: assets/test/res_single/dingyuan.png
+SHA1-Digest: RWQVdpJnVA3NHLPzTNYrDZq260I=
+
+Name: res/drawable-xhdpi-v4/unigm_back_on.png
+SHA1-Digest: r0lbXAbl+fy6CkwoQip6Umr8VX0=
+
+Name: assets/Export/flag_big.ExportJson
+SHA1-Digest: Fdc2mge2n46Qhzdp+rtutaht+Hk=
+
+Name: assets/ucgamesdk/ui/common/conf/widgetconf/updateGameNewVersion.
+ json
+SHA1-Digest: NHIgStqtNfM1jFlSZc12L/CsRVE=
+
+Name: assets/game/technology/techTreeManager.lua
+SHA1-Digest: X5G999KyKtwjZ6+D/6Ulo1vZO90=
+
+Name: assets/test/dibiao_shijian.json
+SHA1-Digest: uvZ7DeBWh9py9yRxyv3YLZN3stk=
+
+Name: assets/Export/juntuan_small_10.png
+SHA1-Digest: 0Dw3kdpGDczig53pg2lFdIvnM/A=
+
+Name: assets/test/res_future_add/bubing_1_tu.png
+SHA1-Digest: WV46vX1OkUd20/d46GX+YJwX+cs=
+
+Name: assets/game/dbData/heroDataOthers.lua
+SHA1-Digest: h9TMnItwjts7Ieg1BvPjKw0N2m0=
+
+Name: assets/game/dbData/cfg/Tb_cfg_build_3.lua
+SHA1-Digest: RM99HkaGJ7Bx7zvQ7/jgiX9Rhj0=
+
+Name: assets/test/res_future_add/guojia_qiandu_2.png
+SHA1-Digest: BgLNRhL8mitHsQKFkUV6sjL+1zQ=
+
+Name: assets/test/res_future_add/bubing_11_tu.png
+SHA1-Digest: NuUKW+ApvuvGrYjcg8LmeRLuyUU=
+
+Name: assets/Export/jianzhushengji.ExportJson
+SHA1-Digest: 4A42EZ+NVehqhgRnrstyPea8Ph0=
+
+Name: assets/test/res_future_add/guojia_fuwei_1.png
+SHA1-Digest: nGHCnuoK7Hk5+TwRtp1GkMXi6vU=
+
+Name: assets/game/exercise/exerciseRewardManager.lua
+SHA1-Digest: nJq6nJNqJ+esoBc6qFtWuNtq29k=
+
+Name: assets/game/mail/mailDetailManager.lua
+SHA1-Digest: 57iy9UmvvmsUVb9acJGyTWI5FS0=
+
+Name: assets/game/map/mapLandInfo.lua
+SHA1-Digest: 00qeNUwDCk1NGxtSRNY/tXxfAFM=
+
+Name: assets/Export/xiubutexiao_010.plist
+SHA1-Digest: Hdda/6p/1Z3z8tEdg7hiN09GFac=
+
+Name: assets/Export/battle/normal_attack_20.plist
+SHA1-Digest: 01FO6g+m4M1vesonCc9Rv2aHo+8=
+
+Name: assets/Export/dijizhaomu1.plist
+SHA1-Digest: NVjN8NeTQuldgV4fpdLp5/20uRE=
+
+Name: assets/Export/battle/normal_attack_10.plist
+SHA1-Digest: jOnd0ouIecuQOGGTC50ysxcfb6M=
+
+Name: assets/test/callCardUI.json
+SHA1-Digest: mGTgczbp/NdHYD0XsCOXa7T9l/k=
+
+Name: assets/Export/yanhua.ExportJson
+SHA1-Digest: w/c1V+D/r0KB/xkefmHjiJrfN5w=
+
+Name: assets/test/res_future_add/guohao_10.png
+SHA1-Digest: r0A5SZK0zOkQcDMT6l09ySOwxXQ=
+
+Name: assets/test/liguo_3.json
+SHA1-Digest: H3AETR0t7FTBMxRxes0+s31a0Ps=
+
+Name: assets/test/res_single/thumb_share.png
+SHA1-Digest: fiITT66AgV1rF0wDZ7nXvUo5/kg=
+
+Name: assets/gameResources/card/card_100463.png
+SHA1-Digest: QhCmy6q/Ch62R916RBkTejyYMlk=
+
+Name: assets/test/res_single/updating_tips_7.png
+SHA1-Digest: Y5AlvE/gSdt78UhANNl/MX0Fv/w=
+
+Name: assets/test/Allied_Edit_bulletin.json
+SHA1-Digest: Ac250JlkfbPV/6bpRM/zsA7tZBE=
+
+Name: assets/Export/battle/bubingmingzhong.ExportJson
+SHA1-Digest: 0s8gg0JinZgBn7do2QhNtMIx6p4=
+
+Name: assets/test/res_single/card_extract/img_shuiyanqijun.png
+SHA1-Digest: oraRyxVUgc1yoByy9Cqd1tD9N1k=
+
+Name: assets/ucgamesdk/ui/common/jars/lib.jar
+SHA1-Digest: bXskHHn39p5VVFO7mMZPd2KMa4c=
+
+Name: assets/test/res_future_add/guohao_8.png
+SHA1-Digest: nuQufHgzI1TTx8OkEGQWtOhe/SE=
+
+Name: assets/test/res_single/xinshoudiwen001_01.png
+SHA1-Digest: X3snU/1N4hayr0YtaoBAslXOYHI=
+
+Name: assets/test/res_single/haibao_fenxiang_xinban.png
+SHA1-Digest: IE0abCgmwreGPvAvMCpmZx/QiLE=
+
+Name: assets/Export/xinshou_yanhuo0.plist
+SHA1-Digest: qSfqAnvHQZoMASfNZLqZ3xfGDnI=
+
+Name: assets/game/voice/voiceMgr.lua
+SHA1-Digest: xzqb75bICFv5U+C7aeJPQpODczY=
+
+Name: assets/game/dbData/exerciseData.lua
+SHA1-Digest: kYt/nBkFEWLDASEfmxH6UuieB8k=
+
+Name: assets/test/res_single/chengxiang_ren.png
+SHA1-Digest: x0n7XcYCEMjja/t5ECJHLyOEMMM=
+
+Name: assets/gameResources/card/card_100017.png
+SHA1-Digest: VFz8BKpMHp2Mwf5xqROPSPDxAds=
+
+Name: assets/test/res_future_add/build_62.png
+SHA1-Digest: cSmHccQur5tIUssa+XSvTdAqruE=
+
+Name: assets/game/exercise/exerciseDifficultManager.lua
+SHA1-Digest: K2xq+w69b9FenfdpClrTvpeA90c=
+
